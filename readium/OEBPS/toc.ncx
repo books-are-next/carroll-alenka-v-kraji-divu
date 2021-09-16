@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="97345893-fb86-4b5f-8e3e-bad8be9a84df" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Alenka v kraji divů a za zrcadlem</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Alenka v kraji divů</text>
+      </navLabel>
+      <content src="Text/alenka_v_kraji_divu_007.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Dolů králičí dírou</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Kaluž slz</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Kuriální závod a sáhodlouhý obrázek</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>O tom, jak Vilík komínem vylít</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Houseňákova rada</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_037.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Vepř a pepř</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_045.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Bláznivá svačina</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_055.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Královnino kroketové hřiště</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_062.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Paželví povídka</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_071.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Humří čtverylka</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_078.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Kdo ukradl vdolky</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_083.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Alenčino svědectví</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_089.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Za zrcadlem, a s čím se tam Alenka setkala</text>
+      </navLabel>
+      <content src="Text/alenka_v_kraji_divu_097.html"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Předmluva</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_099.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Dům za zrcadlem</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_100.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Zahrada živých květin</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_116.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Hmyz za zrcadlem</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_125.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Tydliták a Tydlitek</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_135.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Vlna a voda</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_150.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Valihrach</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_159.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Lev a jednorožec</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_165.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>„Je to můj vynález“</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_176.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Královna Alenka</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_186.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Třesení</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_197.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Probuzení</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_199.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Komu se to zdálo?</text>
+        </navLabel>
+        <content src="Text/alenka_v_kraji_divu_201.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>O autorovi Alenčiných dobrodružných příběhů</text>
+      </navLabel>
+      <content src="Text/alenka_v_kraji_divu_204.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
