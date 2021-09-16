@@ -6,6 +6,8 @@ title: |-
 
 „To je báječné!“ řekla Alenka. „Ani jsem se nenadála, že budu tak brzo Královnou – a řeknu vám, Vaše Veličenstvo,“ dodala přísným hlasem (vždycky se totiž ráda peskovala), „to nejde, takhle se povalovat v trávě! Královny musí zachovávat důstojnost!“
 
+  
+
 Vstala a procházela se – zprvu trochu strnule, aby jí snad koruna nespadla, ale utěšovala se tím, že ji nikdo nevidí; znovu usedla a řekla si: „Jestli jsem doopravdy Královna, však já se do toho časem vpravím.“ Všechno, co se s ní dělo, bylo podivné, a tak ji ani nepřekvapilo, že vedle sebe má po jedné straně Černou a po druhé Bílou Královnu. Měla chuť zeptat se jich, kde se tu berou, ale nezdálo se jí to dost zdvořilé.
 
 Ale snad se nic nestane, když se zeptá, je-li už po hře. „Povězte mi prosím –,“ pohlédla nesměle na Černou Královnu.

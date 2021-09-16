@@ -6,6 +6,8 @@ title: ''
 
 Bílý Pěšec (Alenka) táhne a vyhraje v jedenácti tazích.
 
+  
+
 1\. Alenka potká Č. K.
 
 1\. Č. K. na h5

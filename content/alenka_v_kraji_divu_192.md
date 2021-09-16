@@ -14,10 +14,10 @@ title: ''
 
 Vtom se dveře rozlétly a někdo pronikavým hlasem prozpěvoval:
 
-Kolem se Alenka rozhlédla pátravě:  
-„Žezlo mám v dlani a korunu na hlavě,  
-poddaným zazrcadlovým až pokynu,  
-každý nechť pospíchá na slavnou hostinu.“
+> Kolem se Alenka rozhlédla pátravě:  
+> „Žezlo mám v dlani a korunu na hlavě,  
+> poddaným zazrcadlovým až pokynu,  
+> každý nechť pospíchá na slavnou hostinu.“
 
 Stovky hlasů pak spustily refrén:
 
@@ -28,10 +28,10 @@ každý nechť Královnu Alenku třikrát po třiceti pozdraví.
 
 Potom se ozvalo hlomozné provolávání slávy a Alenka si řekla: „Třikrát po třiceti je devadesát. Jestlipak to někdo počítá?“ Rozhostilo se ticho a někdo zas pronikavým hlasem zpíval další sloku:
 
-Všichni vy zazrcadloví mí poddaní,  
-přistupte ke mně blíž, nestrpím meškání,  
-za vzácnou výsadu vzdejte hold děkovný.  
-Vítá vás Alenka, s ní obě Královny.
+> Všichni vy zazrcadloví mí poddaní,  
+> přistupte ke mně blíž, nestrpím meškání,  
+> za vzácnou výsadu vzdejte hold děkovný.  
+> Vítá vás Alenka, s ní obě Královny.
 
 A zase se ozval refrén:
 

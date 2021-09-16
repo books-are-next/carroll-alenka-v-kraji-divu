@@ -58,10 +58,10 @@ Spíš zemětřeseníčko! pomyslila si Alenka. „Kdo se zas pere?“ osmělila
 
 „Zajisté,“ přisvědčil Král, „a nejlepší na tom je, že ta koruna je moje! Běžme se na ně podívat.“ Hned vyrazili a Alenka si v tom běhu odříkávala slova staré písně:
 
-O korunu se Jednorožec se Lvem porvali.  
-Lev přes město ho prohnal, shon byl nemalý.  
-Chléb bílý, černý, koláče jim podali,  
-až za město je potom vybubnovali.
+> O korunu se Jednorožec se Lvem porvali.  
+> Lev přes město ho prohnal, shon byl nemalý.  
+> Chléb bílý, černý, koláče jim podali,  
+> až za město je potom vybubnovali.
 
 „A jestlipak – ten co vyhraje – dostane tu – korunu?“ vyrážela ze sebe Alenka, uřícená tím během.
 

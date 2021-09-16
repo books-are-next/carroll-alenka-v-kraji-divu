@@ -4,6 +4,8 @@ title: Komu se to zdálo?
 
 „Vaše Černé Veličenstvo by nemělo tak vrnět,“ řekla Alenka uctivě, a přece jen dost přísně kotěti a protřela si oči. „Probudila jste mě ze sna – ach, to byl krásný sen! A ty jsi byla, Katko, se mnou – v tom světě za zrcadlem. Jestlipak jsi o tom, milánku, věděla?“
 
+  
+
 Koťata mají nepříjemný zvyk (tak se jednou Alenka vyjádřila), že ať jim člověk řekne nevímco, vždycky jen vrní. „Kdyby tak vrněla ‚ano‘ a mňoukala ‚ne‘ nebo tak nějak,“ prohlásila, „aby se s nimi člověk dohovořil! Ale těžké domlouvání s někým, kdo pořád mele stejnou.“
 
 Kotě tentokrát jenom vrnělo. Znamená-li to „ano“, nebo „ne“, to se nedalo uhodnout.

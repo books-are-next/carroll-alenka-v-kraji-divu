@@ -6,6 +6,8 @@ title: |-
 
 Sešla se tam na břehu prapodivná cháska – ptáci s urousaným peřím a ostatní zvířata se zplihlou srstí, všichni promočení, podráždění, nevrlí.
 
+  
+
 Především jim šlo samozřejmě o to, jak se usušit: radili se a za chvilku se s nimi Alenka nenuceně bavila, jako by je znala odjakživa. Dokonce se poškorpila s Papouškem a ten ji nakvašeně usadil: „Jsem starší než ty, a tak to musím vědět líp.“ Alenka mu to nechtěla uznat, dokud jí nepoví, kolik je mu; a protože jí to Papoušek zanic nechtěl říct, nedalo se nic dělat.
 
 Nakonec vykřikla Myš, která se zřejmě těšila všeobecné vážnosti: „Všichni se posaďte a poslouchejte! Já vás osuším jedna dvě!“ Hned se všichni posadili, Myš uprostřed. Alenka na ni starostlivě upírala oči; jestli se hned neosuší, to věděla, dostane rýmu jako trám.

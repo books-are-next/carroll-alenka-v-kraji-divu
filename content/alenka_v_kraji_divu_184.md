@@ -4,96 +4,96 @@ title: ''
 
 „Ale ten nápěv není jeho vynález,“ řekla si, „je to jako Co ten ptáček povídá.“ Stála a napjatě poslouchala, ale slzy jí nevyhrkly.
 
-Povím všechno, co bych já  
-vám to nepověděl:  
-jak jsem kolem branky šel,  
-stařeček tam seděl.  
-„Viďte,“ pravím, „stařečku,  
-pěkně žije se to.“  
-Odpověď mi procedil  
-jako přes řešeto.
+> Povím všechno, co bych já  
+> vám to nepověděl:  
+> jak jsem kolem branky šel,  
+> stařeček tam seděl.  
+> „Viďte,“ pravím, „stařečku,  
+> pěkně žije se to.“  
+> Odpověď mi procedil  
+> jako přes řešeto.
 
-„Motýly,“ děl stařeček,  
-„v žitě pilně chytám,  
-vyrábím z nich paštiku,  
-po ulicích ji tam  
-rozprodávám matrózům.  
-Tak a nejináče  
-ve světě se protloukám –  
-dejte na tabáček.“
+> „Motýly,“ děl stařeček,  
+> „v žitě pilně chytám,  
+> vyrábím z nich paštiku,  
+> po ulicích ji tam  
+> rozprodávám matrózům.  
+> Tak a nejináče  
+> ve světě se protloukám –  
+> dejte na tabáček.“
 
-Dumal jsem, jak licousy  
-barvit do zelena,  
-aby barva vějířem  
-byla pozastřena.  
-„Co vy máte, stařečku,  
-vlastně tady za cíl?“  
-Pro jistotu po hlavě  
-pěstí jsem ho bacil.
+> Dumal jsem, jak licousy  
+> barvit do zelena,  
+> aby barva vějířem  
+> byla pozastřena.  
+> „Co vy máte, stařečku,  
+> vlastně tady za cíl?“  
+> Pro jistotu po hlavě  
+> pěstí jsem ho bacil.
 
-„Cíl mám,“ pravil stařeček,  
-„ten a žádný jiný:  
-spadeno mám na horách  
-všude na bystřiny.  
-Pálím je a potom z nich  
-stáčím jedlý olej,  
-však mě z této roboty  
-ruce věčně bolej.“
+> „Cíl mám,“ pravil stařeček,  
+> „ten a žádný jiný:  
+> spadeno mám na horách  
+> všude na bystřiny.  
+> Pálím je a potom z nich  
+> stáčím jedlý olej,  
+> však mě z této roboty  
+> ruce věčně bolej.“
 
-Poslouchat, co povídá,  
-dávno jsem už přestal,  
-přemýšlel jsem, jak bych ztloust  
-z šlehaného těsta.  
-Řádně jsem jím zatřásl,  
-až byl v tváři sivý,  
-ať mi tedy prozradí,  
-čím se vlastně živí.
+> Poslouchat, co povídá,  
+> dávno jsem už přestal,  
+> přemýšlel jsem, jak bych ztloust  
+> z šlehaného těsta.  
+> Řádně jsem jím zatřásl,  
+> až byl v tváři sivý,  
+> ať mi tedy prozradí,  
+> čím se vlastně živí.
 
-„Tresčí oči stopuju  
-tam na vřesovišti,  
-vyrábím z nich knoflíky  
-k vestě, jen se blyští.  
-Stříbro, zlato nežádám,  
-jen ty kupce hledám,  
-co mi krejcar zaplatí,  
-jinému je nedám.
+> „Tresčí oči stopuju  
+> tam na vřesovišti,  
+> vyrábím z nich knoflíky  
+> k vestě, jen se blyští.  
+> Stříbro, zlato nežádám,  
+> jen ty kupce hledám,  
+> co mi krejcar zaplatí,  
+> jinému je nedám.
 
-Někdy kopu žemličky,  
-kraby chytám v křoví,  
-nebo kola z fiakru  
-v husté trávě lovím.  
-Při takovém řemesle  
-mám se dobře nýčko.  
-Nemoh bych vám, vašnosti,  
-připít na zdravíčko?“
+> Někdy kopu žemličky,  
+> kraby chytám v křoví,  
+> nebo kola z fiakru  
+> v husté trávě lovím.  
+> Při takovém řemesle  
+> mám se dobře nýčko.  
+> Nemoh bych vám, vašnosti,  
+> připít na zdravíčko?“
 
-Vyvařit most ve víně,  
-řekl jsem si právě,  
-to je způsob nejlepší,  
-aby nezrezavěl.  
-Díky vzdal jsem za zprávu  
-o tom blahobytě,  
-za přípitek děkoval  
-jsem mu jmenovitě.
+> Vyvařit most ve víně,  
+> řekl jsem si právě,  
+> to je způsob nejlepší,  
+> aby nezrezavěl.  
+> Díky vzdal jsem za zprávu  
+> o tom blahobytě,  
+> za přípitek děkoval  
+> jsem mu jmenovitě.
 
-Když si někdy přilepím  
-prsty plné klihu,  
-když si rovnou na palec  
-pustím notnou tíhu,  
-levou botu na pravou  
-když cpu – mi to nedá,  
-pláči nad stařečkem, kterého jsem kdysi znal,  
-který se tak vlídně usmíval,  
-jemuž snížek hlavu pokrýval,  
-který hned jak vrána hlavou pokýval,  
-hned zas v rozpacích se ošíval,  
-jemuž v očích oheň hoříval,  
-který žalem tolik trpíval,  
-až se nad tím celý zachvíval,  
-jemuž z hloubi prsou vzlyk se ozýval,  
-který jako buvol funíval,  
-který na růžích ustláno nemíval  
-– a na brance sedal.
+> Když si někdy přilepím  
+> prsty plné klihu,  
+> když si rovnou na palec  
+> pustím notnou tíhu,  
+> levou botu na pravou  
+> když cpu – mi to nedá,  
+> pláči nad stařečkem, kterého jsem kdysi znal,  
+> který se tak vlídně usmíval,  
+> jemuž snížek hlavu pokrýval,  
+> který hned jak vrána hlavou pokýval,  
+> hned zas v rozpacích se ošíval,  
+> jemuž v očích oheň hoříval,  
+> který žalem tolik trpíval,  
+> až se nad tím celý zachvíval,  
+> jemuž z hloubi prsou vzlyk se ozýval,  
+> který jako buvol funíval,  
+> který na růžích ustláno nemíval  
+> – a na brance sedal.
 
 Jezdec dozpíval baladu, přitáhl otěže a stočil koně na silnici, po které přijeli. „Už ti zbývá,“ řekl, „jen několik yardů z kopce a přes potůček, a bude z tebe Královna –“ Alenka se nedočkavě ohlédla tím směrem, kam ji ukazoval, a Jezdec hned dodal: „Ale napřed se se mnou rozloučíš. Dlouho to nepotrvá. Počkáš a zamáváš mi šátkem, až dojedu tamhle k té zatáčce? Snad mi tím dodáš odvahy.“
 
@@ -193,30 +193,30 @@ Alenka dostala zvláštní nápad. Kdekdo jí na potkání odříkával básně,
 
 „Nemám v tom cvik,“ řekl Vosák, „ale zkusím to: počkej chvilku.“ Na chvíli se odmlčel a pak spustil **–**
 
-Kučery dlouhé, vlnité  
-       já pyšně nosil zamlada.  
-„Paruku když si koupíte,  
-       budete lépe vypadat.“
+> Kučery dlouhé, vlnité  
+>        já pyšně nosil zamlada.  
+> „Paruku když si koupíte,  
+>        budete lépe vypadat.“
 
-Dal jsem se tedy ostříhat,  
-       v té situaci bezradné.  
-Začali mi zas nadávat,  
-       že paruka mi nepadne.
+> Dal jsem se tedy ostříhat,  
+>        v té situaci bezradné.  
+> Začali mi zas nadávat,  
+>        že paruka mi nepadne.
 
-Připraven o svou ozdobu,  
-       nad ztrátou vlasů zoufalý,  
-dostal jsem horší podobu.  
-       Vlasy mi růsti přestaly.
+> Připraven o svou ozdobu,  
+>        nad ztrátou vlasů zoufalý,  
+> dostal jsem horší podobu.  
+>        Vlasy mi růsti přestaly.
 
-Vlasy mi válem šediví,  
-       co horšího, že řidnou též.  
-Je ze mne dědek plesnivý,  
-       parukou zakrývám si pleš.
+> Vlasy mi válem šediví,  
+>        co horšího, že řidnou též.  
+> Je ze mne dědek plesnivý,  
+>        parukou zakrývám si pleš.
 
-Všude mi „Čuně“ spílají,  
-       běda, to mám vždy na krku,  
-pokoj mi chvíli nedají  
-       pro moji žlutou paruku.
+> Všude mi „Čuně“ spílají,  
+>        běda, to mám vždy na krku,  
+> pokoj mi chvíli nedají  
+>        pro moji žlutou paruku.
 
 „Moc je mi vás líto,“ řekla vřele Alenka; „kdyby vám paruka trochu líp padla, myslím, že by vás tolik neškádlili.“
 
@@ -237,6 +237,8 @@ Alence se ty osobní narážky nelíbily, a protože už Vosák přišel k sobě
 „Sbohem, a děkuju,“ řekl Vosák a už Alenka cupitala z kopce; byla ráda, že se vrátila a na několik minut chudáka starouška uchlácholila.
 
 „Konečně osmé políčko!“ zvolala a přeskočila potůček a svalila se na trávník hebký jako mech, kolem dokola posetý květinovými záhonky. „To jsem ráda, že už jsem tady! A co to mám na hlavě?“ polekala se, když si na ni sáhla – pevně jí tam sedělo něco těžkého.
+
+  
 
 „Jak se to tam dostalo, že o tom ani nevím?“ sundala si to a položila na klín, aby si to prohlídla.
 

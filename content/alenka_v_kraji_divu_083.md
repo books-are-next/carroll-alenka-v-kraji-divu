@@ -4,6 +4,8 @@ title: Kdo ukradl vdolky
 
 Když tam přišli, Srdcový Král s Královnou seděli na trůně a kolem nich se kupil hustý dav – všelijací ptáčci a zvířátka a k tomu všechny karty. Před nimi stál spoutaný Spodek, po boku střežený vojáky; poblíž Krále stál Bílý Králík, v jedné ruce trubku, v druhé pergamenový svitek. Uprostřed soudního dvora byl pak stůl a na něm velká mísa vdolků; vypadaly tak chutně, že při pohledu na ně dostala Alenka hlad. – Už aby bylo po přelíčení, napadlo ji, a podávaly se zákusky! Ale na to nebylo ani pomyšlení, a tak se rozhlížela kolem sebe, aby si ukrátila dlouhou chvíli.
 
+  
+
 U soudu Alenka dosud nebyla, jenom o něm čítala, nemálo se tedy zaradovala nad tím, že ví, jak se co jmenuje. „Tohle je soudce,“ řekla si, „protože má velkou paruku.“
 
 Ten soudce byl ostatně Král, a protože na paruce měl nasazenou korunu (chcete-li vědět jak, podívejte se na obrázek v další kapitole), moc spokojeně nevypadal a taky mu to neslušelo.

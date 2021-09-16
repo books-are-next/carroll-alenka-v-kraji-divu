@@ -4,6 +4,8 @@ title: Dolů králičí dírou
 
 Alenku už mrzelo sedět na břehu vedle cesty a nic nedělat. Párkrát nakoukla sestře do rozečtené knížky, ale nebyly tam žádné obrázky a nic se tam nepovídalo, a co je do knížky, když v ní nejsou žádné obrázky a nic se tam nepovídá, řekla si Alenka.
 
+  
+
 Rozvažovala tedy u sebe (pokud to vůbec šlo, byla horkem celá ospalá a zmámená), zda bude dost zábavné uvít si věneček z kopretin, aby kvůli tomu vstala a natrhala si je, a tu vedle ní přeběhl Bílý Králík s červenýma očima.
 
 Nebylo na tom nic zvláštního a nijak podivné to Alence nepřipadlo, když Králík prohodil: „Jeje! Jeje! Přijdu pozdě.“ (Když nad tím potom dumala, napadlo jí, že ji to mělo zarazit, jenže v tu chvíli jí to připadlo docela samozřejmé); ale když pak Králík dokonce vyndal z kapsy u vesty hodinky_,_ podíval se na ně a běžel dál, Alenka vyskočila; blesklo jí hlavou, že jakživ neviděla, aby měl Králík kapsu u vesty, natož aby z ní vyndával hodinky, popadla ji zvědavost a rozběhla se přes pole za ním a šťastně ho dohonila, zrovna když pod keřem hupl do velké králičí díry.

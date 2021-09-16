@@ -6,10 +6,10 @@ title: ''
 
 I zatroubil Bílý Králík třikrát na trubku, potom rozvinul pergamenový svitek a četl:
 
-Srdcová Královna napekla vdolky  
-        jedenkrát o žních:  
-Srdcový Spodek jí ukradl vdolky,  
-        hned bylo po nich!
+> Srdcová Královna napekla vdolky  
+>         jedenkrát o žních:  
+> Srdcový Spodek jí ukradl vdolky,  
+>         hned bylo po nich!
 
 „Poraďte se o rozsudku,“ řekl Král porotě.
 

@@ -6,8 +6,8 @@ title: ''
 
 Švec zavrtěl hlavou. „Kdepak!“ odpověděl. „Loni v březnu jsme se pohádali, zrovna než tomuhle v hlavě přeskočilo – (ukázal lžičkou na Zajíce Březňáka) – bylo to na koncertě u Srdcové Královny a já jsem měl zpívat píseň:
 
-Hvězdičky už vyšly, červánek už zhas,  
-netopýr nám lítá po obloze zas.
+> Hvězdičky už vyšly, červánek už zhas,  
+> netopýr nám lítá po obloze zas.
 
 Znáš ji?“
 
@@ -15,9 +15,9 @@ Znáš ji?“
 
 Švec vedl svou: „Takhle je to dál:
 
-Ve hnízdečku sladce, tiše usnul pták  
-a svačina sviští vzhůru do oblak.  
-                                           Sviští, sviští –“
+> Ve hnízdečku sladce, tiše usnul pták  
+> a svačina sviští vzhůru do oblak.  
+>                                            Sviští, sviští –“
 
 Vtom sebou Plch trhl a ze spaní zapěl: „Sviští, sviští, sviští, sviští –“ a zpíval tak dlouho, až ho štípli, aby přestal.
 

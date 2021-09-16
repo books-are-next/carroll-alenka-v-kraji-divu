@@ -4,6 +4,8 @@ title: Valihrach
 
 Ale zatím vejce rostlo a rostlo do lidské podoby. Ze vzdálenosti několika metrů na něm Alenka rozeznala oči a nos a ústa; přistoupila až k němu a tu nade vši pochybnost zjistila, že je to sám Valihrach. „Nikdo jiný to být nemůže!“ řekla si. „Vím to jistě, jako by to měl na tváři napsáno!“
 
+  
+
 Napsat se to dalo na tu ohromnou tvář třeba stokrát. Valihrach seděl po turecku se zkříženýma nohama až nahoře na zídce – zídka byla uzounká, Alence nešlo do hlavy, jak tam vůbec udrží rovnováhu –, a protože hleděl upřeně jinam a jí si nevšímal, připadal jí jako vycpaný panák.
 
 „Vypadá úplně jako vejce!“ pronesla nahlas a zůstala před ním stát s napřaženýma rukama, že ho zachytí, kdyby spadl.
@@ -16,9 +18,9 @@ Valihrach jí zase jediný pohled neuštědřil a řekl: „Někteří lidé nem
 
 Alenka se nezmohla na odpověď; jakápak rozmluva, pomyslila si, když on s ní nemluví – to, co naposled řekl, zřejmě platí stromu –, a tak stála a potichu si odříkávala:
 
-Valihrach ze zídky spad jako knedlík.  
-Královská kavalerie,  
-královská infanterie  
-ho zvedaly a zvedaly, a přece neuzvedly.
+> Valihrach ze zídky spad jako knedlík.  
+> Královská kavalerie,  
+> královská infanterie  
+> ho zvedaly a zvedaly, a přece neuzvedly.
 
 „Poslední řádek je na tu básničku moc dlouhý,“ pronesla polohlasem; že ji Valihrach uslyší, na to docela zapomněla.
