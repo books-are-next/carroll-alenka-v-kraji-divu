@@ -8,27 +8,27 @@ Alenka se bázlivě ohlédla po kuchařce, zda se toho chytne; ale ta už zas m�
 
 „Dej mi s tím pokoj,“ řekla Vévodkyně, „počty mi nikdy nešly!“ A znovu hýčkala dítě a zpívala mu jakousi ukolébavku a po každé řádce s ním notně zatřásla:
 
-Vyhubuj chlapce,  
-zřež ho, když kýchne  
-zas natruc matce.  
-Bít ho je hřích? Ne!
+> Vyhubuj chlapce,  
+> zřež ho, když kýchne  
+> zas natruc matce.  
+> Bít ho je hřích? Ne!
 
 Sbor
 
 (do něho vpadla též kuchařka a dítě):
 
-Hú! Hú! Hú!
+> Hú! Hú! Hú!
 
 Při druhé sloce Vévodkyně dítětem prudce pohazovala a škvrně se tak rozvřískalo, že Alenka slovům skoro nerozuměla.
 
-Seřežu chlapce,  
-sotvaže kýchne,  
-po malé krapce  
-pepře hned ztichne.
+> Seřežu chlapce,  
+> sotvaže kýchne,  
+> po malé krapce  
+> pepře hned ztichne.
 
 Sbor:
 
-Hú! Hú! Hú!
+> Hú! Hú! Hú!
 
 „Tumáš, pochovej ho trochu!“ řekla Vévodkyně Alence a hodila jí dítě. „Musím se ustrojit na Královnin kroket,“ a odkvapila. Kuchařka po ní hodila pekáč, ale netrefila ji.
 

@@ -22,17 +22,17 @@ Alenka si řekla, že počká, stejně nemá co dělat, a možná že se přece 
 
 Alenka složila ruce a spustila:
 
-Na svatého Řehoře,  
-slyšet kroky na dvoře.  
-Syn otevře – duše zlatá!–  
-na hlavě tam stojí táta.
+> Na svatého Řehoře,  
+> slyšet kroky na dvoře.  
+> Syn otevře – duše zlatá!–  
+> na hlavě tam stojí táta.
 
-K otci honem utíká,  
-třese se jak osika.  
-Ten se směje: Nevídáno,  
-stojku dělám každé ráno.
+> K otci honem utíká,  
+> třese se jak osika.  
+> Ten se směje: Nevídáno,  
+> stojku dělám každé ráno.
 
-Nehubuj mě, Honzíku,  
-nechci vyjít ze cviku.  
-Elce pelce do pekelce,  
-koukej na ty kotrmelce.
+> Nehubuj mě, Honzíku,  
+> nechci vyjít ze cviku.  
+> Elce pelce do pekelce,  
+> koukej na ty kotrmelce.

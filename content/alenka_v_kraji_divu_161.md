@@ -142,10 +142,10 @@ Alenka nad tím nadobro zkoprněla, a tak spustil Valihrach za chvíli znovu: �
 
 Vypadalo to slibně, a tak Alenka odříkávala první sloku:
 
-Je svačvečer. Lysperní jezeleni  
-se vírně vrtáčejí v mokřavě.  
-Vetchaří hadroušci jsou roztruchleni  
-a selvy syští tesknoskuhravě.
+> Je svačvečer. Lysperní jezeleni  
+> se vírně vrtáčejí v mokřavě.  
+> Vetchaří hadroušci jsou roztruchleni  
+> a selvy syští tesknoskuhravě.
 
 „Pro začátek to stačí,“ skočil jí do řeči Valihrach. „Je tam spousta těžkých slov. Svačvečer je ta doba po svačině, kdy se peče něco dobrého na večer.“
 

@@ -22,4 +22,6 @@ Marně pátrala, odkud se ten hřmot ozývá; ze všech stran jí zaléhal do u�
 
 potom padla na kolena a zacpala si uši, aby ten strašlivý rámus neslyšela.
 
+  
+
 „Jestli tímhle je nevybubnují až za město,“ řekla si, „tak už ničím.“

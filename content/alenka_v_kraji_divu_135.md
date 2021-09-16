@@ -4,6 +4,8 @@ title: Tydliták a Tydlitek
 
 Stáli pod stromem, drželi se kolem krku, a kdo je kdo, poznala Alenka rázem podle toho, že jeden měl na límci vyšito ták a druhý tek. „Vzadu na límci mají asi oba tydli,“ řekla si Alenka.
 
+  
+
 Jak tak strnule stáli, nadobro zapomněla, že jsou živí, a prohlížela si je, mají-li opravdu vzadu na límci tydli, a tu ten, který byl označen ták, promluvil, až sebou trhla.
 
 „Jestli si myslíš, že jsme voskové figurky,“ řekl, „tak bys za to měla zaplatit. Na dívání zadarmo voskové figurky nejsou. Nikterak!“
@@ -12,15 +14,15 @@ Jak tak strnule stáli, nadobro zapomněla, že jsou živí, a prohlížela si j
 
 „Odpusťte mi to prosím,“ vypravila ze sebe Alenka; slova staré písničky zněla jí v hlavě jako tikot hodin a jen taktak že je neodříkala nahlas:
 
-Tydliták vám s Tydlitkem  
-         začal divou rvačku,  
-protože mu Tydlitek  
-         šlápl na řehtačku.
+> Tydliták vám s Tydlitkem  
+>          začal divou rvačku,  
+> protože mu Tydlitek  
+>          šlápl na řehtačku.
 
-Najednou, propánajána!  
-         ti se ale lekli,  
-přiletěla černá vrána,  
-         hned se rozutekli.
+> Najednou, propánajána!  
+>          ti se ale lekli,  
+> přiletěla černá vrána,  
+>          hned se rozutekli.
 
 „Já vím, nač myslíš,“ řekl Tydliták, „jenže tak to není, nikterak.“
 

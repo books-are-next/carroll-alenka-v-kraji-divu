@@ -4,6 +4,8 @@ title: Vepř a pepř
 
 Alenka chvíli koukala na domek a uvažovala, co má dělat, a tu přiběhl z lesa livrejovaný lokaj – za lokaje ho pokládala, protože měl livrej (jinak podle obličeje by hádala spíše na rybu) – a zabušil kotníky na dveře. Otevřel mu jiný livrejovaný lokaj s kulatou tváří a vykulenýma žabíma očima; jak si Alenka všimla, oba lokajové měli po celé hlavě napudrované kadeře. Byla zvědavá, co to znamená, a vyplížila se z lesa, aby si je poslechla.
 
+  
+
 Rybí lokaj vylovil z podpaždí obrovské psaní, skoro tak velké, jako byl sám, podal je druhému lokaji a pronesl škrobeně: „Pro Vévodkyni. Pozvání od Královny na kroket.“ Žabí lokaj to po něm opakoval stejně škrobeně, jenže v pozměněném pořádku: „Od Královny. Pozvání pro Vévodkyni na kroket.“
 
 Pak se oba hluboko uklonili, až se jim kadeře zapletly.

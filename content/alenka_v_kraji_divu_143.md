@@ -2,47 +2,47 @@
 title: ''
 ---
 
-„Bochníkem chleba,“ pravil Mrož,  
-„je nutno zahnat hlad,  
-pepř s octem jako příloha  
-se bere napořád.  
-Nuž, moje milé ústřice,  
-začneme hodovat.“
+> „Bochníkem chleba,“ pravil Mrož,  
+> „je nutno zahnat hlad,  
+> pepř s octem jako příloha  
+> se bere napořád.  
+> Nuž, moje milé ústřice,  
+> začneme hodovat.“
 
-„Ne na nás,“ křikly ústřice  
-a rázem zsinaly.  
-„Jste hodní – a teď pášete  
-čin tuze nekalý.“  
-„Jak se vám líbí,“ řekl Mrož,  
-„ten výhled do dáli?
+> „Ne na nás,“ křikly ústřice  
+> a rázem zsinaly.  
+> „Jste hodní – a teď pášete  
+> čin tuze nekalý.“  
+> „Jak se vám líbí,“ řekl Mrož,  
+> „ten výhled do dáli?
 
-Hodné jste vy, že přišly jste,  
-mé milé ústřice!“  
-Tesař se zlostně rozkřikl:  
-„Tak krájej krajíce:  
-copak jsi hluchý jako peň –  
-začínám zlobit se!“
+> Hodné jste vy, že přišly jste,  
+> mé milé ústřice!“  
+> Tesař se zlostně rozkřikl:  
+> „Tak krájej krajíce:  
+> copak jsi hluchý jako peň –  
+> začínám zlobit se!“
 
-„Fuj! to jsme na ně,“ pravil Mrož,  
-„vyzráli – já i ty,  
-bezelstně z vody lezly ven  
-cupity dupity.“  
-Děl Tesař: „Ten můj krajíček  
-je máslem napitý.“
+> „Fuj! to jsme na ně,“ pravil Mrož,  
+> „vyzráli – já i ty,  
+> bezelstně z vody lezly ven  
+> cupity dupity.“  
+> Děl Tesař: „Ten můj krajíček  
+> je máslem napitý.“
 
-„Je mi vás líto,“ pravil Mrož,  
-„a srdce puká mi.“  
-Vybíral si ty nejlepší,  
-tlusté jak salámy,  
-a na oči si šátek klad  
-zkropený slzami.
+> „Je mi vás líto,“ pravil Mrož,  
+> „a srdce puká mi.“  
+> Vybíral si ty nejlepší,  
+> tlusté jak salámy,  
+> a na oči si šátek klad  
+> zkropený slzami.
 
-„Chuďátka,“ Tesař promluvil,  
-„to jste si užila.  
-Tak hajdy domů!“ Mrtvý klid  
-tam byl – Věc nemilá.  
-Ach, po nešťastných ústřicích  
-památka nezbyla.
+> „Chuďátka,“ Tesař promluvil,  
+> „to jste si užila.  
+> Tak hajdy domů!“ Mrtvý klid  
+> tam byl – Věc nemilá.  
+> Ach, po nešťastných ústřicích  
+> památka nezbyla.
 
 „Víc se mi líbí Mrož,“ řekla Alenka. „Ono mu těch nešťastných ústřic bylo přece jen trošinku líto.“
 

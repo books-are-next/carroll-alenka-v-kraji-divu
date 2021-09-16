@@ -58,35 +58,35 @@ Bílý Králík si nasadil brejle. „Kde mám prosím, Vaše Veličenstvo, zač
 
 „Začni od začátku,“ řekl Král, „a čti až do konce; potom přestaň.“ A Bílý Králík četl:
 
-Má příznivkyně veliká  
-        slovem mě nehaní,  
-jen jednu věc mi vytýká:  
-        nejde mi plavání.
+> Má příznivkyně veliká  
+>         slovem mě nehaní,  
+> jen jednu věc mi vytýká:  
+>         nejde mi plavání.
 
-Prý nezmizel jsem do dáli  
-         (to není, chlapče, lež).  
-Co když se ona dopálí,  
-        kam před ní utečeš?
+> Prý nezmizel jsem do dáli  
+>          (to není, chlapče, lež).  
+> Co když se ona dopálí,  
+>         kam před ní utečeš?
 
-Já jeden dal jí, oni pár  
-        zas jemu, ty nám víc.  
-Tak obdržel jsi vzácný dar  
-        a mně nezbývá nic.
+> Já jeden dal jí, oni pár  
+>         zas jemu, ty nám víc.  
+> Tak obdržel jsi vzácný dar  
+>         a mně nezbývá nic.
 
-Když do té věci nešťastné  
-        pak spadnem, útěcha  
-nám v hloubi srdce nezhasne:  
-        on nás v tom nenechá.
+> Když do té věci nešťastné  
+>         pak spadnem, útěcha  
+> nám v hloubi srdce nezhasne:  
+>         on nás v tom nenechá.
 
-Říct, proč jsme se tak zlobili,  
-        je tuze nesnadné.  
-Marné je všechno úsilí,  
-        jak ji to popadne.
+> Říct, proč jsme se tak zlobili,  
+>         je tuze nesnadné.  
+> Marné je všechno úsilí,  
+>         jak ji to popadne.
 
-Slovem se před ním nezmiňuj  
-        pod trestem záhuby,  
-jak chutnaly jí. Milý můj,  
-        drž jazyk za zuby.
+> Slovem se před ním nezmiňuj  
+>         pod trestem záhuby,  
+> jak chutnaly jí. Milý můj,  
+>         drž jazyk za zuby.
 
 „Z toho, co jsme vyslechli, tohle je nejpádnější důkaz,“ řekl Král a zamnul si ruce. „Tak a teď ať porotci –“
 

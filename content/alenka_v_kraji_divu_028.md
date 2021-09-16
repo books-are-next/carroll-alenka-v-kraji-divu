@@ -41,20 +41,32 @@ Alenka přeslechla, co Myš říká, a s úžasem se zahleděla na její ocásek
 Spustil Hafan  
        na Myš:
 
+  
+
               „Marně se mi bráníš,  
                      na soud pojecháš,  
                             proč?
 
+  
+
                                    se ještě ptáš!
+
+  
 
                                             Já tam taky půjdu,  
                                                    žalovat tě budu,  
                                                            o tvé vině soud  
                                                                    musí rozhodnout.
 
+  
+
                                                            Pojď a neodmlouvej.“
 
+  
+
                                                                        Myš mu řekla:
+
+  
 
                                                                  „Ouvej, to mi  
                                                            nejde do noty,  
@@ -62,15 +74,23 @@ Spustil Hafan
                                                      není  
                                                           žádné rozsouzení!“
 
+  
+
                                                                      Odpověděl pes:
+
+  
 
                                                                        „Milá Myško, věz,                                                          jak je zvykem Hafanů,  
                                                   porotu i soudce  
                                            zastanu.
 
+  
+
                                                  Po tom procesu  
                                                            ortel smrti  
                                                                        vynesu.“
+
+  
 
 „Když ty nedáváš pozor!“ plísnila Myš Alenku. „Nač myslíš?“
 

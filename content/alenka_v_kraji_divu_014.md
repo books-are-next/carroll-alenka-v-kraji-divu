@@ -14,6 +14,8 @@ Ale na lahvičce nestálo jed; Alenka se tedy odhodlala, že to ochutná. Bylo t
 
 „To je mi divně,“ řekla Alenka. „Nejspíš se už sklápím jako dalekohled.“
 
+  
+
 A opravdu; měřila už jen deset palců na výšku a celá se rozzářila radostí nad tím, že takhle veliká už projde dvířky do té krásné zahrady. Ale napřed chvilku počkala, jestli se snad ještě víc nescvrkne. Trochu trnula. „A co jestli se nakonec rozplynu, jako když svíčka dohoří,“ řekla si Alenka. „Jak asi budu potom vypadat, to bych ráda věděla.“ A vymýšlela si, jak vypadá plamen svíčky, když se sfoukne, co se pamatuje, nic takového jakživ neviděla.
 
 Nic se s ní už nedělo, a tak se za chvíli rozhodla, že půjde rovnou do zahrady; ale chudák Alenka! došla ke dvířkám a zjistila, že si ten zlatý klíček zapomněla; vrátila se pro něj ke stolku, ale už na něj nedosáhla: přes sklo ho jasně viděla, a tak šplhala po jedné noze u stolku, ale moc jí to klouzalo; až ji to šplhání nakonec zmohlo, a tak si, chudinka, sedla a dala se do pláče.

@@ -32,29 +32,29 @@ Pustili Alenčiny ruce a chvíli na ni koukali. Alenka tonula v trapných rozpac
 
 „Nejdelší je Mrož a tesař,“ odpověděl mu bratr a něžně ho přitiskl k sobě. Tydlitek hned spustil:
 
-Nad mořem vyšlo slunečko –
+> Nad mořem vyšlo slunečko –
 
 A tu se Alenka osmělila skočit mu do řeči: „Jestli je ta báseň hodně dlouhá,“ řekla co nejzdvořileji, „povězte mi prosím, kudy –“
 
 Tydlitek se vlídně usmál a spustil znovu:
 
-Nad mořem vyšlo slunečko  
-a září planoucí  
-zlatilo vlnky, snažilo  
-se příboj přemoci –  
-Divná to věru, divná věc:  
-bylo už k půlnoci.
+> Nad mořem vyšlo slunečko  
+> a září planoucí  
+> zlatilo vlnky, snažilo  
+> se příboj přemoci –  
+> Divná to věru, divná věc:  
+> bylo už k půlnoci.
 
-Luna, ta nad tím pořádkem  
-jen hlavou vrtěla  
-a na neslušné slunečko  
-zlost měla docela –  
-Takhle jí kazit řemeslo,  
-to se přec nedělá!
+> Luna, ta nad tím pořádkem  
+> jen hlavou vrtěla  
+> a na neslušné slunečko  
+> zlost měla docela –  
+> Takhle jí kazit řemeslo,  
+> to se přec nedělá!
 
-Mokře, přemokře vlnil se  
-mohutný mořský proud,  
-a přece písek na břehu  
-byl suchý jako troud.  
-Obláčky nikde, proto je  
-neviděl nikdo plout.
+> Mokře, přemokře vlnil se  
+> mohutný mořský proud,  
+> a přece písek na břehu  
+> byl suchý jako troud.  
+> Obláčky nikde, proto je  
+> neviděl nikdo plout.

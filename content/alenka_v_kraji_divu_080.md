@@ -10,26 +10,26 @@ title: ''
 
 I tančili vážně kolem Alenky, a když došli až k ní, vždycky jí šlápli na prsty, předními prackami mávali do taktu. Paželv přitom zvolna a smutně prozpěvoval:
 
-„Hněte sebou, no tak honem,“ Bělice řve na Šneka.  
-„Delfín na ocas nám šlape, tlačí se a nečeká,  
-na písku zas Tuňák s Humrem rozdávají šťouchance,  
-hleďte, jak to s nimi šije – pustíte se do tance?  
-Pustíte se, nepustíte s námi do tance?  
-Pustíte se, nepustíte s námi do tance?
+> „Hněte sebou, no tak honem,“ Bělice řve na Šneka.  
+> „Delfín na ocas nám šlape, tlačí se a nečeká,  
+> na písku zas Tuňák s Humrem rozdávají šťouchance,  
+> hleďte, jak to s nimi šije – pustíte se do tance?  
+> Pustíte se, nepustíte s námi do tance?  
+> Pustíte se, nepustíte s námi do tance?
 
-Vždyť vy ani netušíte, jak to duši lahodí,  
-když nás popadnou a s Humry naráz hodí do vody.“  
-„Netroufám si tak daleko, když tu nemám zachránce,“  
-Šnek že mockrát děkuje, leč nepustí se do tance.  
-Ne a ne a nepustí se s nimi do tance.  
-Ne a ne a nepustí se s nimi do tance.
+> Vždyť vy ani netušíte, jak to duši lahodí,  
+> když nás popadnou a s Humry naráz hodí do vody.“  
+> „Netroufám si tak daleko, když tu nemám zachránce,“  
+> Šnek že mockrát děkuje, leč nepustí se do tance.  
+> Ne a ne a nepustí se s nimi do tance.  
+> Ne a ne a nepustí se s nimi do tance.
 
-„Co byste se moře lekal, bledl strachy,“ ryba dí,  
-„mně ta dálka, milý Šneku, ani trochu nevadí.  
-Z Anglie je malý kousek do Francie k Marjánce,  
-hlavu vzhůru, no tak, jářku – pustíte se do tance? –  
-Pustíte se, nepustíte s námi do tance?  
-Pustíte se, nepustíte s námi do tance?“
+> „Co byste se moře lekal, bledl strachy,“ ryba dí,  
+> „mně ta dálka, milý Šneku, ani trochu nevadí.  
+> Z Anglie je malý kousek do Francie k Marjánce,  
+> hlavu vzhůru, no tak, jářku – pustíte se do tance? –  
+> Pustíte se, nepustíte s námi do tance?  
+> Pustíte se, nepustíte s námi do tance?“
 
 „Děkuji, napohled je ten tanec velmi zajímavý,“ Alenka si oddechla, že už je konečně po něm, „a ta zvláštní píseň o Bělici se mi tuze líbí.“
 
@@ -93,14 +93,14 @@ I vyprávěla jim Alenka, jaká dobrodružství ji potkala od té chvíle, co sp
 
 Ta stvoření by člověka pořád jen komandovala a dávala mu něco odříkávat! pomyslila si Alenka. Úplně jako ve škole. Ale přece jen vstala a začala odříkávat, jenže měla dosud plnou hlavu Humří čtverylky, a tak ani nevěděla, co říká, a znělo to moc prapodivně:
 
-Za horama svítá, bude brzy den,  
-připálený humr stojí špičky ven,  
-hlavu zamoučenou, pěkný ferina,  
-opasek si nosem svižně zapíná,  
-rejdí na břehu, když vlny opadnou,  
-před žralokem nemá úctu pražádnou.  
-Ale běda! úzko na duši mu je,  
-sotva s přílivem zas žralok připluje.
+> Za horama svítá, bude brzy den,  
+> připálený humr stojí špičky ven,  
+> hlavu zamoučenou, pěkný ferina,  
+> opasek si nosem svižně zapíná,  
+> rejdí na břehu, když vlny opadnou,  
+> před žralokem nemá úctu pražádnou.  
+> Ale běda! úzko na duši mu je,  
+> sotva s přílivem zas žralok připluje.
 
 „Je to jinak, než jsem to já v dětských letech říkával,“ řekl Noh.
 
@@ -120,11 +120,11 @@ Alenka nic neříkala; seděla, obličej v dlaních, a dumala, jestlipak jí je�
 
 Alenka věděla, že se jí to zase poplete, ale vzdorovat si netroufala, i spustila třaslavým hlasem:
 
-Znám křišťálovou studánku, kde nejhlubší je les,  
-tam Pardál se Sovou se sešli na paštiku dnes.  
-Spořádal Pardál maso se šťávou, měl velký hlad,  
-Sovu, tu milostivě nechal talíř vylízat,  
-a tak tam svorně oba hodovali pospolu.  
-Dal Pardál Sově lžíci, když pak sklízel ze stolu,  
-nůž s vidličkou si nechal. Než bys napočítal pět,  
-zavrčel, zuby vycenil a milou Sovu – –
+> Znám křišťálovou studánku, kde nejhlubší je les,  
+> tam Pardál se Sovou se sešli na paštiku dnes.  
+> Spořádal Pardál maso se šťávou, měl velký hlad,  
+> Sovu, tu milostivě nechal talíř vylízat,  
+> a tak tam svorně oba hodovali pospolu.  
+> Dal Pardál Sově lžíci, když pak sklízel ze stolu,  
+> nůž s vidličkou si nechal. Než bys napočítal pět,  
+> zavrčel, zuby vycenil a milou Sovu – –

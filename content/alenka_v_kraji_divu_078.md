@@ -4,6 +4,8 @@ title: Humří čtverylka
 
 Paželv si zhluboka vzdychl a jednou prackou si otřel oči. Hleděl na Alenku, soukal ze sebe slova, ale hrdlo měl sevřené samým štkaním. „Jako by mu kost zaskočila,“ Noh jím zalomcoval a bouchal ho do zad. Posléze se Paželv zmohl na řeč a všecek uslzen takto hovořil dále:
 
+  
+
 „Ty jsi pod mořem asi mnoho nežila –“ („To ne,“ řekla Alenka.) „a s Humrem ses vůbec neseznámila –“ (Užuž měla Alenka na jazyku: Jednou jsem ho ochutnala –, ale honem se zarazila a řekla: „Vůbec ne.“) „a tak ani netušíš, jak rozkošná je Humří čtverylka.“
 
 „To ne,“ řekla Alenka. „A jaký je to tanec?“

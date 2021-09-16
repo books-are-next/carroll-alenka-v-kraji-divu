@@ -4,17 +4,19 @@ title: Kaluž slz
 
 „Úžasnoucnější a úžasnoucnější!“ zvolala Alenka (tu chvíli zapomněla samým překvapením správně mluvit); „teď se zas vytahuji jako ten nejdelší dalekohled na světě. Sbohem, nožičky!“ (Když se totiž podívala na nohy, skoro na ně nedohlédla, tak byly daleko.) „Ach mé nožičky, kdo vám teď, chudinky, bude obouvat boty a punčochy? Já jistě ne! Budu od vás tuze daleko, kdepak bych se o vás mohla starat: musíte si poradit samy – ale musím na ně být hodná,“ řekla si Alenka, „nebo nepůjdou, kam budu chtít! Třeba jim dám vždycky nové boty pod stromeček.“
 
+  
+
 A tak si dále vymýšlela, jak to zařídí. „Budu jim je musit dát doručit,“ řekla si, „to bude legrace, posílat dárky vlastním nohám. A jak divně se bude vyjímat adresa!
 
-Vážená
+> Vážená
 
-Pravá Noha Alenčina
+> Pravá Noha Alenčina
 
-Rohožka před Krbem
+> Rohožka před Krbem
 
-u Mřížky
+> u Mřížky
 
-(s pozdravem od Alenky)
+> (s pozdravem od Alenky)
 
 Jeje, co to mluvím za nesmysly!“
 

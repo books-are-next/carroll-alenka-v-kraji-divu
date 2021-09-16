@@ -6,6 +6,8 @@ title: |-
 
 Houseňák s Alenkou na sebe chvíli mlčky hleděli. Nakonec vyndal Houseňák fajfku z úst a lenivě, ospale promluvil.
 
+  
+
 „Kdopak jsi?“ řekl Houseňák.
 
 Když na ni takhle spustil, nebylo Alence tuze do řeči. Odpovídala zaraženě: „Kdo – kdo jsem teď, to prosím ani nevím – vím jen, kdo jsem byla, když jsem dnes ráno vstávala, ale od té doby jsem se už jistě několikrát proměnila.“

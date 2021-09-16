@@ -4,6 +4,8 @@ title: Alenčino svědectví
 
 „Zde!“ vykřikla Alenka; v tom rozčilení nadobro zapomněla, jak za tu chvilku vyrostla, a vylítla tak prudce, že obrubou sukně převrátila lavici porotců a porotce vyklopila divákům na hlavu; jak se tam rozplácli, připomínali jí akvárium se zlatými rybkami, které zrovna před týdnem nedopatřením převrhla.
 
+  
+
 „Prosím za prominutí!“ vyhrkla celá zdrcená a honem honem je sbírala; pořád ještě měla v hlavě tu nehodu se zlatými rybkami a tak nějak se jí zdálo, že je musí rychle posbírat a strčit zpátky do lavice, jinak že zahynou.
 
 „Přelíčení nemůže pokračovat,“ řekl přísně Král, „dokud všichni porotci nebudou na svém místě – ale všichni,“ opakoval důrazně a vrhl nevlídný pohled na Alenku.

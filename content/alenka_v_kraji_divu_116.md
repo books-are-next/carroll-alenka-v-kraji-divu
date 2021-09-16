@@ -4,6 +4,8 @@ title: Zahrada živých květin
 
 „Tamhle z toho vršku,“ řekla si Alenka, „se po zahradě líp rozhlédnu. Tady k němu vede pěšinka – snad, ba ne, nevede –“ (ušla kousek po pěšině a několikrát ostře zahnula), „ale nakonec třeba přece povede. Ta se nějak divně klikatí! To je vývrtka, a ne pěšina! A tudy snad odbočuje na vršek – ne, neodbočuje! Míří zpátky k domu. Zkusím to jinudy.“
 
+  
+
 A tak to zkoušela, zahýbala sem a tam, zahýbala hned na tu, hned na druhou stranu, ale dělej co dělej, vždycky došla zpátky k domu. Jednou dokonce zahnula prudčeji, a než se stačila zastavit, vrazila do něho.
 
 „Darmo o tom mluvit,“ Alenka si změřila dům, jako by se s ní hádal, „zatím se tam nevrátím. Vím, že bych zas musila projít zrcadlem do starého pokoje, a veta by bylo po mém dobrodružství!“

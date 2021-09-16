@@ -26,6 +26,8 @@ Zatím už měla všechny kolíky zaraženy a Alenka ji napjatě sledovala, jak 
 
 U dvouyardového kolíku se po ní ohlédla a řekla: „Prvním tahem postoupí pěšec o dvě políčka. Třetí políčko projedeš rychle – nejspíš vlakem – a mžikem se octneš v čtvrtém políčku. To patří Tydlitákovi a Tydlitkovi – páté je samá voda – šesté patří zas Valihrachovi – ale ty na to nic neříkáš!“
 
+  
+
 „Když já jsem nevěděla, že mám něco říct,“ vykoktala Alenka.
 
 „Měla jsi říct,“ Královna ji přísně pokárala, „‚Jste velmi laskavá, že mi to povídáte‘ – nu, jako bys to řekla – sedmé políčko je les – ale jeden Jezdec tě jím provede – a v osmém políčku budeme pak Královny obě dvě, a to bude samý jásot a ples!“ Alenka vstala, poklonila se a znovu se posadila.

@@ -14,83 +14,85 @@ Valihrach si toho nevšímal a mluvil dále: „Odříkám ti kousek napsaný pr
 
 „To bych si měla poslechnout,“ řekla si Alenka, usedla a posmutněle řekla: „Děkuju.“
 
-Sněží, v zimě na poli vám  
-pro potěchu píseň zpívám –
+> Sněží, v zimě na poli vám  
+> pro potěchu píseň zpívám –
 
 jenže já ji nezpívám,“ vysvětloval.
+
+  
 
 „Že nezpíváte, to vidím,“ řekla Alenka.
 
 „Jestli vidíš, zdali zpívám, nebo nezpívám, to máš tedy hodně bystrý zrak,“ okřikl ji Valihrach. Alenka zmlkla.
 
-Ta vám bude vysvětlena,  
-až se jaro zazelená.
+> Ta vám bude vysvětlena,  
+> až se jaro zazelená.
 
 „Děkuju,“ řekla Alenka.
 
-Když pak léto vydá kvítek,  
-snad tu píseň pochopíte.
+> Když pak léto vydá kvítek,  
+> snad tu píseň pochopíte.
 
-V podzimu pak smutném, šerém  
-zapište tu píseň perem.
+> V podzimu pak smutném, šerém  
+> zapište tu píseň perem.
 
 „Jestli si ji zapamatuji, tak si ji zapíšu,“ řekla Alenka.
 
 „Nech si ty poznámky pro sebe,“ řekl Valihrach, „jsou pošetilé a jenom mě pletou.“
 
-Rybičkám jsem poslal vzkaz:  
-„Jenom o to žádám vás.“
+> Rybičkám jsem poslal vzkaz:  
+> „Jenom o to žádám vás.“
 
-Rybky nemeškaly, hned  
-doručily odpověď.
+> Rybky nemeškaly, hned  
+> doručily odpověď.
 
-Byl to od nich pěkný koš:  
-„Nemůžeme, jelikož –“
+> Byl to od nich pěkný koš:  
+> „Nemůžeme, jelikož –“
 
 „Já tomu bohužel nerozumím,“ řekla Alenka.
 
 „Dále je to srozumitelnější,“ prohodil Valihrach.
 
-Vzkázal jsem jim přísněji,  
-vzdorovat že nesmějí.
+> Vzkázal jsem jim přísněji,  
+> vzdorovat že nesmějí.
 
-„Vida toho zlostníka!“  
-Prý se jich to netýká.
+> „Vida toho zlostníka!“  
+> Prý se jich to netýká.
 
-Dvakrát jsem jim povídal,  
-ony trucovaly dál.
+> Dvakrát jsem jim povídal,  
+> ony trucovaly dál.
 
-Kotlík jsem si přichystal,  
-vydrhnutý dočista,
+> Kotlík jsem si přichystal,  
+> vydrhnutý dočista,
 
-naplnil ho u studny.  
-Zlostí jsem byl nerudný.
+> naplnil ho u studny.  
+> Zlostí jsem byl nerudný.
 
-Posel přišel: „Zklamu tě,  
-rybičky šly na kutě.
+> Posel přišel: „Zklamu tě,  
+> rybičky šly na kutě.
 
-Dej si na ně zajít chuť.“  
-Já mu na to: „Tak je vzbuď.
+> Dej si na ně zajít chuť.“  
+> Já mu na to: „Tak je vzbuď.
 
-Vzbuď je,“ křičím z plných plic.  
-„Ať už je to, dej si říct.“
+> Vzbuď je,“ křičím z plných plic.  
+> „Ať už je to, dej si říct.“
 
 Poslední verš Valihrach přímo ječel a Alenka se až otřásla hrůzou „Tím poslem bych nechtěla být ani zanic.“
 
-Posel poslechnout se brání:  
-nepohne jím moje lání.
+> Posel poslechnout se brání:  
+> nepohne jím moje lání.
 
-Okřikl mě: „Ty tvé ryby  
-šel bych vzbudit, jenom kdyby –“
+> Okřikl mě: „Ty tvé ryby  
+> šel bych vzbudit, jenom kdyby –“
 
-Vývrtku jsem ze šuplíku  
-vytáh, že je vzbudím v mžiku.
+> Vývrtku jsem ze šuplíku  
+> vytáh, že je vzbudím v mžiku.
 
-Na petlici dveře byly.  
-Třesu jimi ze vší síly,
+> Na petlici dveře byly.  
+> Třesu jimi ze vší síly,
 
-kopu do nich, pěstí mlátím,  
-mačkám kliku, ona zatím –
+> kopu do nich, pěstí mlátím,  
+> mačkám kliku, ona zatím –
 
 Dlouho bylo ticho. „To je celé?“ zeptala se Alenka nesměle.
 
