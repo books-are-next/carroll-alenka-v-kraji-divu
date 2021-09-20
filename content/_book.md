@@ -222,9 +222,7 @@ tocBase:
       - link: alenka_v_kraji_divu_017.html
         title: Kaluž slz
       - link: alenka_v_kraji_divu_024.html
-        title: |-
-          Kuriální závod
-          a sáhodlouhý obrázek
+        title: Kuriální závod a sáhodlouhý obrázek
       - link: alenka_v_kraji_divu_029.html
         title: O tom, jak Vilík komínem vylít
       - link: alenka_v_kraji_divu_037.html

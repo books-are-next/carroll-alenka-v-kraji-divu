@@ -1,7 +1,5 @@
 ---
-title: |-
-  Kuriální závod
-  a sáhodlouhý obrázek
+title: Kuriální závod a sáhodlouhý obrázek
 ---
 
 Sešla se tam na břehu prapodivná cháska – ptáci s urousaným peřím a ostatní zvířata se zplihlou srstí, všichni promočení, podráždění, nevrlí.
