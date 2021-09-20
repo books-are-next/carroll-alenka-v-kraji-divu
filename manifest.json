@@ -1,14 +1,14 @@
 {
   "author": "Lewis Carroll",
-  "identifier": "carroll-alenka-v-kraji-divu-a-za-zrcadlem-fce1e88",
+  "identifier": "carroll-alenka-v-kraji-divu-a-za-zrcadlem-fa3b9f4",
   "languagecode": "cs",
   "modified": "2021-09-16T10:11:07.580Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Alenka v kraji divů a za zrcadlem",
-  "revision": "fce1e88",
+  "revision": "fa3b9f4",
   "generatedAt": {
-    "date": "Mon Sep 20 2021 14:30:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1632148236458
+    "date": "Mon Sep 20 2021 14:45:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1632149157586
   },
   "documents": [
     {
@@ -17,10 +17,9 @@
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "alenka_v_kraji_divu_002.html",
+      "role": "other",
+      "order": null,
+      "next": "alenka_v_kraji_divu_005.html",
       "toc": [
         {
           "index": 0,
@@ -37,10 +36,9 @@
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "alenka_v_kraji_divu_001.html",
-      "next": "alenka_v_kraji_divu_003.html",
+      "role": "other",
+      "order": null,
+      "next": "alenka_v_kraji_divu_005.html",
       "toc": [
         {
           "index": 0,
@@ -57,9 +55,8 @@
       "words": 14,
       "chars": 79,
       "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "alenka_v_kraji_divu_002.html",
+      "role": "other",
+      "order": null,
       "next": "alenka_v_kraji_divu_005.html",
       "toc": [
         {
@@ -78,8 +75,8 @@
       "chars": 331,
       "ideas": 13,
       "role": "chapter",
-      "order": 3,
-      "prev": "alenka_v_kraji_divu_003.html",
+      "order": 0,
+      "prev": null,
       "next": "alenka_v_kraji_divu_006.html",
       "toc": [
         {
@@ -98,7 +95,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 4,
+      "order": 1,
       "prev": "alenka_v_kraji_divu_005.html",
       "next": "alenka_v_kraji_divu_007.html",
       "toc": [
@@ -118,7 +115,7 @@
       "chars": 19,
       "ideas": 1,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "alenka_v_kraji_divu_006.html",
       "next": "alenka_v_kraji_divu_008.html",
       "toc": [
@@ -138,7 +135,7 @@
       "chars": 1855,
       "ideas": 7,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "alenka_v_kraji_divu_007.html",
       "next": "alenka_v_kraji_divu_009.html",
       "toc": [
@@ -158,7 +155,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "alenka_v_kraji_divu_008.html",
       "next": "alenka_v_kraji_divu_010.html",
       "toc": [
@@ -178,7 +175,7 @@
       "chars": 764,
       "ideas": 2,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "alenka_v_kraji_divu_009.html",
       "next": "alenka_v_kraji_divu_011.html",
       "toc": [
@@ -198,7 +195,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "alenka_v_kraji_divu_010.html",
       "next": "alenka_v_kraji_divu_012.html",
       "toc": [
@@ -218,7 +215,7 @@
       "chars": 2005,
       "ideas": 4,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "alenka_v_kraji_divu_011.html",
       "next": "alenka_v_kraji_divu_013.html",
       "toc": [
@@ -238,7 +235,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "alenka_v_kraji_divu_012.html",
       "next": "alenka_v_kraji_divu_014.html",
       "toc": [
@@ -258,7 +255,7 @@
       "chars": 3542,
       "ideas": 9,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "alenka_v_kraji_divu_013.html",
       "next": "alenka_v_kraji_divu_015.html",
       "toc": [
@@ -278,7 +275,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "alenka_v_kraji_divu_014.html",
       "next": "alenka_v_kraji_divu_016.html",
       "toc": [
@@ -298,7 +295,7 @@
       "chars": 653,
       "ideas": 2,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "alenka_v_kraji_divu_015.html",
       "next": "alenka_v_kraji_divu_017.html",
       "toc": [
@@ -318,7 +315,7 @@
       "chars": 1881,
       "ideas": 18,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "alenka_v_kraji_divu_016.html",
       "next": "alenka_v_kraji_divu_018.html",
       "toc": [
@@ -338,7 +335,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "alenka_v_kraji_divu_017.html",
       "next": "alenka_v_kraji_divu_019.html",
       "toc": [
@@ -358,7 +355,7 @@
       "chars": 2695,
       "ideas": 17,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "alenka_v_kraji_divu_018.html",
       "next": "alenka_v_kraji_divu_020.html",
       "toc": [
@@ -378,7 +375,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "alenka_v_kraji_divu_019.html",
       "next": "alenka_v_kraji_divu_021.html",
       "toc": [
@@ -398,7 +395,7 @@
       "chars": 1990,
       "ideas": 6,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "alenka_v_kraji_divu_020.html",
       "next": "alenka_v_kraji_divu_022.html",
       "toc": [
@@ -418,7 +415,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "alenka_v_kraji_divu_021.html",
       "next": "alenka_v_kraji_divu_023.html",
       "toc": [
@@ -438,7 +435,7 @@
       "chars": 1840,
       "ideas": 5,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "alenka_v_kraji_divu_022.html",
       "next": "alenka_v_kraji_divu_024.html",
       "toc": [
@@ -458,7 +455,7 @@
       "chars": 1630,
       "ideas": 12,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "alenka_v_kraji_divu_023.html",
       "next": "alenka_v_kraji_divu_025.html",
       "toc": [
@@ -478,7 +475,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "alenka_v_kraji_divu_024.html",
       "next": "alenka_v_kraji_divu_026.html",
       "toc": [
@@ -498,7 +495,7 @@
       "chars": 471,
       "ideas": 3,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "alenka_v_kraji_divu_025.html",
       "next": "alenka_v_kraji_divu_027.html",
       "toc": [
@@ -518,7 +515,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "alenka_v_kraji_divu_026.html",
       "next": "alenka_v_kraji_divu_028.html",
       "toc": [
@@ -538,7 +535,7 @@
       "chars": 5909,
       "ideas": 56,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "alenka_v_kraji_divu_027.html",
       "next": "alenka_v_kraji_divu_029.html",
       "toc": [
@@ -558,7 +555,7 @@
       "chars": 2869,
       "ideas": 8,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "alenka_v_kraji_divu_028.html",
       "next": "alenka_v_kraji_divu_030.html",
       "toc": [
@@ -578,7 +575,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "alenka_v_kraji_divu_029.html",
       "next": "alenka_v_kraji_divu_031.html",
       "toc": [
@@ -598,7 +595,7 @@
       "chars": 1935,
       "ideas": 8,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "alenka_v_kraji_divu_030.html",
       "next": "alenka_v_kraji_divu_032.html",
       "toc": [
@@ -618,7 +615,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "alenka_v_kraji_divu_031.html",
       "next": "alenka_v_kraji_divu_033.html",
       "toc": [
@@ -638,7 +635,7 @@
       "chars": 2513,
       "ideas": 15,
       "role": "chapter",
-      "order": 31,
+      "order": 28,
       "prev": "alenka_v_kraji_divu_032.html",
       "next": "alenka_v_kraji_divu_034.html",
       "toc": [
@@ -658,7 +655,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 32,
+      "order": 29,
       "prev": "alenka_v_kraji_divu_033.html",
       "next": "alenka_v_kraji_divu_035.html",
       "toc": [
@@ -678,7 +675,7 @@
       "chars": 3217,
       "ideas": 11,
       "role": "chapter",
-      "order": 33,
+      "order": 30,
       "prev": "alenka_v_kraji_divu_034.html",
       "next": "alenka_v_kraji_divu_036.html",
       "toc": [
@@ -698,7 +695,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 34,
+      "order": 31,
       "prev": "alenka_v_kraji_divu_035.html",
       "next": "alenka_v_kraji_divu_037.html",
       "toc": [
@@ -718,7 +715,7 @@
       "chars": 1434,
       "ideas": 18,
       "role": "chapter",
-      "order": 35,
+      "order": 32,
       "prev": "alenka_v_kraji_divu_036.html",
       "next": "alenka_v_kraji_divu_038.html",
       "toc": [
@@ -738,7 +735,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 36,
+      "order": 33,
       "prev": "alenka_v_kraji_divu_037.html",
       "next": "alenka_v_kraji_divu_039.html",
       "toc": [
@@ -758,7 +755,7 @@
       "chars": 964,
       "ideas": 28,
       "role": "chapter",
-      "order": 37,
+      "order": 34,
       "prev": "alenka_v_kraji_divu_038.html",
       "next": "alenka_v_kraji_divu_040.html",
       "toc": [
@@ -778,7 +775,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 38,
+      "order": 35,
       "prev": "alenka_v_kraji_divu_039.html",
       "next": "alenka_v_kraji_divu_041.html",
       "toc": [
@@ -798,7 +795,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 39,
+      "order": 36,
       "prev": "alenka_v_kraji_divu_040.html",
       "next": "alenka_v_kraji_divu_042.html",
       "toc": [
@@ -818,7 +815,7 @@
       "chars": 284,
       "ideas": 18,
       "role": "chapter",
-      "order": 40,
+      "order": 37,
       "prev": "alenka_v_kraji_divu_041.html",
       "next": "alenka_v_kraji_divu_043.html",
       "toc": [
@@ -838,7 +835,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 41,
+      "order": 38,
       "prev": "alenka_v_kraji_divu_042.html",
       "next": "alenka_v_kraji_divu_044.html",
       "toc": [
@@ -858,7 +855,7 @@
       "chars": 5945,
       "ideas": 47,
       "role": "chapter",
-      "order": 42,
+      "order": 39,
       "prev": "alenka_v_kraji_divu_043.html",
       "next": "alenka_v_kraji_divu_045.html",
       "toc": [
@@ -878,7 +875,7 @@
       "chars": 2009,
       "ideas": 11,
       "role": "chapter",
-      "order": 43,
+      "order": 40,
       "prev": "alenka_v_kraji_divu_044.html",
       "next": "alenka_v_kraji_divu_046.html",
       "toc": [
@@ -898,7 +895,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 44,
+      "order": 41,
       "prev": "alenka_v_kraji_divu_045.html",
       "next": "alenka_v_kraji_divu_047.html",
       "toc": [
@@ -918,7 +915,7 @@
       "chars": 2554,
       "ideas": 21,
       "role": "chapter",
-      "order": 45,
+      "order": 42,
       "prev": "alenka_v_kraji_divu_046.html",
       "next": "alenka_v_kraji_divu_048.html",
       "toc": [
@@ -938,7 +935,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 46,
+      "order": 43,
       "prev": "alenka_v_kraji_divu_047.html",
       "next": "alenka_v_kraji_divu_049.html",
       "toc": [
@@ -958,7 +955,7 @@
       "chars": 1598,
       "ideas": 26,
       "role": "chapter",
-      "order": 47,
+      "order": 44,
       "prev": "alenka_v_kraji_divu_048.html",
       "next": "alenka_v_kraji_divu_050.html",
       "toc": [
@@ -978,7 +975,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 48,
+      "order": 45,
       "prev": "alenka_v_kraji_divu_049.html",
       "next": "alenka_v_kraji_divu_051.html",
       "toc": [
@@ -998,7 +995,7 @@
       "chars": 1826,
       "ideas": 12,
       "role": "chapter",
-      "order": 49,
+      "order": 46,
       "prev": "alenka_v_kraji_divu_050.html",
       "next": "alenka_v_kraji_divu_052.html",
       "toc": [
@@ -1018,7 +1015,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 50,
+      "order": 47,
       "prev": "alenka_v_kraji_divu_051.html",
       "next": "alenka_v_kraji_divu_053.html",
       "toc": [
@@ -1038,7 +1035,7 @@
       "chars": 2472,
       "ideas": 22,
       "role": "chapter",
-      "order": 51,
+      "order": 48,
       "prev": "alenka_v_kraji_divu_052.html",
       "next": "alenka_v_kraji_divu_054.html",
       "toc": [
@@ -1058,7 +1055,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 52,
+      "order": 49,
       "prev": "alenka_v_kraji_divu_053.html",
       "next": "alenka_v_kraji_divu_055.html",
       "toc": [
@@ -1078,7 +1075,7 @@
       "chars": 2403,
       "ideas": 27,
       "role": "chapter",
-      "order": 53,
+      "order": 50,
       "prev": "alenka_v_kraji_divu_054.html",
       "next": "alenka_v_kraji_divu_056.html",
       "toc": [
@@ -1098,7 +1095,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 54,
+      "order": 51,
       "prev": "alenka_v_kraji_divu_055.html",
       "next": "alenka_v_kraji_divu_057.html",
       "toc": [
@@ -1118,7 +1115,7 @@
       "chars": 1632,
       "ideas": 20,
       "role": "chapter",
-      "order": 55,
+      "order": 52,
       "prev": "alenka_v_kraji_divu_056.html",
       "next": "alenka_v_kraji_divu_058.html",
       "toc": [
@@ -1138,7 +1135,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 56,
+      "order": 53,
       "prev": "alenka_v_kraji_divu_057.html",
       "next": "alenka_v_kraji_divu_059.html",
       "toc": [
@@ -1158,7 +1155,7 @@
       "chars": 2868,
       "ideas": 43,
       "role": "chapter",
-      "order": 57,
+      "order": 54,
       "prev": "alenka_v_kraji_divu_058.html",
       "next": "alenka_v_kraji_divu_060.html",
       "toc": [
@@ -1178,7 +1175,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 58,
+      "order": 55,
       "prev": "alenka_v_kraji_divu_059.html",
       "next": "alenka_v_kraji_divu_061.html",
       "toc": [
@@ -1198,7 +1195,7 @@
       "chars": 2483,
       "ideas": 22,
       "role": "chapter",
-      "order": 59,
+      "order": 56,
       "prev": "alenka_v_kraji_divu_060.html",
       "next": "alenka_v_kraji_divu_062.html",
       "toc": [
@@ -1218,7 +1215,7 @@
       "chars": 2205,
       "ideas": 11,
       "role": "chapter",
-      "order": 60,
+      "order": 57,
       "prev": "alenka_v_kraji_divu_061.html",
       "next": "alenka_v_kraji_divu_063.html",
       "toc": [
@@ -1238,7 +1235,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 61,
+      "order": 58,
       "prev": "alenka_v_kraji_divu_062.html",
       "next": "alenka_v_kraji_divu_064.html",
       "toc": [
@@ -1258,7 +1255,7 @@
       "chars": 1772,
       "ideas": 14,
       "role": "chapter",
-      "order": 62,
+      "order": 59,
       "prev": "alenka_v_kraji_divu_063.html",
       "next": "alenka_v_kraji_divu_065.html",
       "toc": [
@@ -1278,7 +1275,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 63,
+      "order": 60,
       "prev": "alenka_v_kraji_divu_064.html",
       "next": "alenka_v_kraji_divu_066.html",
       "toc": [
@@ -1298,7 +1295,7 @@
       "chars": 4034,
       "ideas": 24,
       "role": "chapter",
-      "order": 64,
+      "order": 61,
       "prev": "alenka_v_kraji_divu_065.html",
       "next": "alenka_v_kraji_divu_067.html",
       "toc": [
@@ -1318,7 +1315,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 65,
+      "order": 62,
       "prev": "alenka_v_kraji_divu_066.html",
       "next": "alenka_v_kraji_divu_068.html",
       "toc": [
@@ -1338,7 +1335,7 @@
       "chars": 2376,
       "ideas": 17,
       "role": "chapter",
-      "order": 66,
+      "order": 63,
       "prev": "alenka_v_kraji_divu_067.html",
       "next": "alenka_v_kraji_divu_069.html",
       "toc": [
@@ -1358,7 +1355,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 67,
+      "order": 64,
       "prev": "alenka_v_kraji_divu_068.html",
       "next": "alenka_v_kraji_divu_070.html",
       "toc": [
@@ -1378,7 +1375,7 @@
       "chars": 647,
       "ideas": 5,
       "role": "chapter",
-      "order": 68,
+      "order": 65,
       "prev": "alenka_v_kraji_divu_069.html",
       "next": "alenka_v_kraji_divu_071.html",
       "toc": [
@@ -1398,7 +1395,7 @@
       "chars": 1660,
       "ideas": 11,
       "role": "chapter",
-      "order": 69,
+      "order": 66,
       "prev": "alenka_v_kraji_divu_070.html",
       "next": "alenka_v_kraji_divu_072.html",
       "toc": [
@@ -1418,7 +1415,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 70,
+      "order": 67,
       "prev": "alenka_v_kraji_divu_071.html",
       "next": "alenka_v_kraji_divu_073.html",
       "toc": [
@@ -1438,7 +1435,7 @@
       "chars": 2871,
       "ideas": 24,
       "role": "chapter",
-      "order": 71,
+      "order": 68,
       "prev": "alenka_v_kraji_divu_072.html",
       "next": "alenka_v_kraji_divu_074.html",
       "toc": [
@@ -1458,7 +1455,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 72,
+      "order": 69,
       "prev": "alenka_v_kraji_divu_073.html",
       "next": "alenka_v_kraji_divu_075.html",
       "toc": [
@@ -1478,7 +1475,7 @@
       "chars": 3527,
       "ideas": 32,
       "role": "chapter",
-      "order": 73,
+      "order": 70,
       "prev": "alenka_v_kraji_divu_074.html",
       "next": "alenka_v_kraji_divu_076.html",
       "toc": [
@@ -1498,7 +1495,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 74,
+      "order": 71,
       "prev": "alenka_v_kraji_divu_075.html",
       "next": "alenka_v_kraji_divu_077.html",
       "toc": [
@@ -1518,7 +1515,7 @@
       "chars": 1821,
       "ideas": 24,
       "role": "chapter",
-      "order": 75,
+      "order": 72,
       "prev": "alenka_v_kraji_divu_076.html",
       "next": "alenka_v_kraji_divu_078.html",
       "toc": [
@@ -1538,7 +1535,7 @@
       "chars": 1520,
       "ideas": 20,
       "role": "chapter",
-      "order": 76,
+      "order": 73,
       "prev": "alenka_v_kraji_divu_077.html",
       "next": "alenka_v_kraji_divu_079.html",
       "toc": [
@@ -1558,7 +1555,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 77,
+      "order": 74,
       "prev": "alenka_v_kraji_divu_078.html",
       "next": "alenka_v_kraji_divu_080.html",
       "toc": [
@@ -1578,7 +1575,7 @@
       "chars": 5634,
       "ideas": 88,
       "role": "chapter",
-      "order": 78,
+      "order": 75,
       "prev": "alenka_v_kraji_divu_079.html",
       "next": "alenka_v_kraji_divu_081.html",
       "toc": [
@@ -1598,7 +1595,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 79,
+      "order": 76,
       "prev": "alenka_v_kraji_divu_080.html",
       "next": "alenka_v_kraji_divu_082.html",
       "toc": [
@@ -1618,7 +1615,7 @@
       "chars": 1258,
       "ideas": 33,
       "role": "chapter",
-      "order": 80,
+      "order": 77,
       "prev": "alenka_v_kraji_divu_081.html",
       "next": "alenka_v_kraji_divu_083.html",
       "toc": [
@@ -1638,7 +1635,7 @@
       "chars": 2405,
       "ideas": 10,
       "role": "chapter",
-      "order": 81,
+      "order": 78,
       "prev": "alenka_v_kraji_divu_082.html",
       "next": "alenka_v_kraji_divu_084.html",
       "toc": [
@@ -1658,7 +1655,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 82,
+      "order": 79,
       "prev": "alenka_v_kraji_divu_083.html",
       "next": "alenka_v_kraji_divu_085.html",
       "toc": [
@@ -1678,7 +1675,7 @@
       "chars": 1944,
       "ideas": 28,
       "role": "chapter",
-      "order": 83,
+      "order": 80,
       "prev": "alenka_v_kraji_divu_084.html",
       "next": "alenka_v_kraji_divu_086.html",
       "toc": [
@@ -1698,7 +1695,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 84,
+      "order": 81,
       "prev": "alenka_v_kraji_divu_085.html",
       "next": "alenka_v_kraji_divu_087.html",
       "toc": [
@@ -1718,7 +1715,7 @@
       "chars": 3824,
       "ideas": 42,
       "role": "chapter",
-      "order": 85,
+      "order": 82,
       "prev": "alenka_v_kraji_divu_086.html",
       "next": "alenka_v_kraji_divu_088.html",
       "toc": [
@@ -1738,7 +1735,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 86,
+      "order": 83,
       "prev": "alenka_v_kraji_divu_087.html",
       "next": "alenka_v_kraji_divu_089.html",
       "toc": [
@@ -1758,7 +1755,7 @@
       "chars": 1534,
       "ideas": 11,
       "role": "chapter",
-      "order": 87,
+      "order": 84,
       "prev": "alenka_v_kraji_divu_088.html",
       "next": "alenka_v_kraji_divu_090.html",
       "toc": [
@@ -1778,7 +1775,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 88,
+      "order": 85,
       "prev": "alenka_v_kraji_divu_089.html",
       "next": "alenka_v_kraji_divu_091.html",
       "toc": [
@@ -1798,7 +1795,7 @@
       "chars": 4776,
       "ideas": 78,
       "role": "chapter",
-      "order": 89,
+      "order": 86,
       "prev": "alenka_v_kraji_divu_090.html",
       "next": "alenka_v_kraji_divu_092.html",
       "toc": [
@@ -1818,7 +1815,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 90,
+      "order": 87,
       "prev": "alenka_v_kraji_divu_091.html",
       "next": "alenka_v_kraji_divu_093.html",
       "toc": [
@@ -1838,7 +1835,7 @@
       "chars": 1967,
       "ideas": 9,
       "role": "chapter",
-      "order": 91,
+      "order": 88,
       "prev": "alenka_v_kraji_divu_092.html",
       "next": "alenka_v_kraji_divu_094.html",
       "toc": [
@@ -1858,7 +1855,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 92,
+      "order": 89,
       "prev": "alenka_v_kraji_divu_093.html",
       "next": "alenka_v_kraji_divu_095.html",
       "toc": [
@@ -1878,7 +1875,7 @@
       "chars": 926,
       "ideas": 2,
       "role": "chapter",
-      "order": 93,
+      "order": 90,
       "prev": "alenka_v_kraji_divu_094.html",
       "next": "alenka_v_kraji_divu_096.html",
       "toc": [
@@ -1898,7 +1895,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 94,
+      "order": 91,
       "prev": "alenka_v_kraji_divu_095.html",
       "next": "alenka_v_kraji_divu_097.html",
       "toc": [
@@ -1918,7 +1915,7 @@
       "chars": 42,
       "ideas": 1,
       "role": "chapter",
-      "order": 95,
+      "order": 92,
       "prev": "alenka_v_kraji_divu_096.html",
       "next": "alenka_v_kraji_divu_098.html",
       "toc": [
@@ -1938,7 +1935,7 @@
       "chars": 627,
       "ideas": 24,
       "role": "chapter",
-      "order": 96,
+      "order": 93,
       "prev": "alenka_v_kraji_divu_097.html",
       "next": "alenka_v_kraji_divu_099.html",
       "toc": [
@@ -1958,7 +1955,7 @@
       "chars": 9,
       "ideas": 1,
       "role": "chapter",
-      "order": 97,
+      "order": 94,
       "prev": "alenka_v_kraji_divu_098.html",
       "next": "alenka_v_kraji_divu_100.html",
       "toc": [
@@ -1978,7 +1975,7 @@
       "chars": 974,
       "ideas": 5,
       "role": "chapter",
-      "order": 98,
+      "order": 95,
       "prev": "alenka_v_kraji_divu_099.html",
       "next": "alenka_v_kraji_divu_101.html",
       "toc": [
@@ -1998,7 +1995,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 99,
+      "order": 96,
       "prev": "alenka_v_kraji_divu_100.html",
       "next": "alenka_v_kraji_divu_102.html",
       "toc": [
@@ -2018,7 +2015,7 @@
       "chars": 2820,
       "ideas": 5,
       "role": "chapter",
-      "order": 100,
+      "order": 97,
       "prev": "alenka_v_kraji_divu_101.html",
       "next": "alenka_v_kraji_divu_103.html",
       "toc": [
@@ -2038,7 +2035,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 101,
+      "order": 98,
       "prev": "alenka_v_kraji_divu_102.html",
       "next": "alenka_v_kraji_divu_104.html",
       "toc": [
@@ -2058,7 +2055,7 @@
       "chars": 2737,
       "ideas": 4,
       "role": "chapter",
-      "order": 102,
+      "order": 99,
       "prev": "alenka_v_kraji_divu_103.html",
       "next": "alenka_v_kraji_divu_105.html",
       "toc": [
@@ -2078,7 +2075,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 103,
+      "order": 100,
       "prev": "alenka_v_kraji_divu_104.html",
       "next": "alenka_v_kraji_divu_106.html",
       "toc": [
@@ -2098,7 +2095,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 104,
+      "order": 101,
       "prev": "alenka_v_kraji_divu_105.html",
       "next": "alenka_v_kraji_divu_107.html",
       "toc": [
@@ -2118,7 +2115,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 105,
+      "order": 102,
       "prev": "alenka_v_kraji_divu_106.html",
       "next": "alenka_v_kraji_divu_108.html",
       "toc": [
@@ -2138,7 +2135,7 @@
       "chars": 828,
       "ideas": 3,
       "role": "chapter",
-      "order": 106,
+      "order": 103,
       "prev": "alenka_v_kraji_divu_107.html",
       "next": "alenka_v_kraji_divu_109.html",
       "toc": [
@@ -2158,7 +2155,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 107,
+      "order": 104,
       "prev": "alenka_v_kraji_divu_108.html",
       "next": "alenka_v_kraji_divu_110.html",
       "toc": [
@@ -2178,7 +2175,7 @@
       "chars": 1969,
       "ideas": 10,
       "role": "chapter",
-      "order": 108,
+      "order": 105,
       "prev": "alenka_v_kraji_divu_109.html",
       "next": "alenka_v_kraji_divu_111.html",
       "toc": [
@@ -2198,7 +2195,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 109,
+      "order": 106,
       "prev": "alenka_v_kraji_divu_110.html",
       "next": "alenka_v_kraji_divu_112.html",
       "toc": [
@@ -2218,7 +2215,7 @@
       "chars": 726,
       "ideas": 6,
       "role": "chapter",
-      "order": 110,
+      "order": 107,
       "prev": "alenka_v_kraji_divu_111.html",
       "next": "alenka_v_kraji_divu_113.html",
       "toc": [
@@ -2238,7 +2235,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 111,
+      "order": 108,
       "prev": "alenka_v_kraji_divu_112.html",
       "next": "alenka_v_kraji_divu_114.html",
       "toc": [
@@ -2258,7 +2255,7 @@
       "chars": 2699,
       "ideas": 59,
       "role": "chapter",
-      "order": 112,
+      "order": 109,
       "prev": "alenka_v_kraji_divu_113.html",
       "next": "alenka_v_kraji_divu_115.html",
       "toc": [
@@ -2278,7 +2275,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 113,
+      "order": 110,
       "prev": "alenka_v_kraji_divu_114.html",
       "next": "alenka_v_kraji_divu_116.html",
       "toc": [
@@ -2298,7 +2295,7 @@
       "chars": 3573,
       "ideas": 29,
       "role": "chapter",
-      "order": 114,
+      "order": 111,
       "prev": "alenka_v_kraji_divu_115.html",
       "next": "alenka_v_kraji_divu_117.html",
       "toc": [
@@ -2318,7 +2315,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 115,
+      "order": 112,
       "prev": "alenka_v_kraji_divu_116.html",
       "next": "alenka_v_kraji_divu_118.html",
       "toc": [
@@ -2338,7 +2335,7 @@
       "chars": 1808,
       "ideas": 16,
       "role": "chapter",
-      "order": 116,
+      "order": 113,
       "prev": "alenka_v_kraji_divu_117.html",
       "next": "alenka_v_kraji_divu_119.html",
       "toc": [
@@ -2358,7 +2355,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 117,
+      "order": 114,
       "prev": "alenka_v_kraji_divu_118.html",
       "next": "alenka_v_kraji_divu_120.html",
       "toc": [
@@ -2378,7 +2375,7 @@
       "chars": 1434,
       "ideas": 11,
       "role": "chapter",
-      "order": 118,
+      "order": 115,
       "prev": "alenka_v_kraji_divu_119.html",
       "next": "alenka_v_kraji_divu_121.html",
       "toc": [
@@ -2398,7 +2395,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 119,
+      "order": 116,
       "prev": "alenka_v_kraji_divu_120.html",
       "next": "alenka_v_kraji_divu_122.html",
       "toc": [
@@ -2418,7 +2415,7 @@
       "chars": 2893,
       "ideas": 14,
       "role": "chapter",
-      "order": 120,
+      "order": 117,
       "prev": "alenka_v_kraji_divu_121.html",
       "next": "alenka_v_kraji_divu_123.html",
       "toc": [
@@ -2438,7 +2435,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 121,
+      "order": 118,
       "prev": "alenka_v_kraji_divu_122.html",
       "next": "alenka_v_kraji_divu_124.html",
       "toc": [
@@ -2458,7 +2455,7 @@
       "chars": 2565,
       "ideas": 16,
       "role": "chapter",
-      "order": 122,
+      "order": 119,
       "prev": "alenka_v_kraji_divu_123.html",
       "next": "alenka_v_kraji_divu_125.html",
       "toc": [
@@ -2478,7 +2475,7 @@
       "chars": 2702,
       "ideas": 13,
       "role": "chapter",
-      "order": 123,
+      "order": 120,
       "prev": "alenka_v_kraji_divu_124.html",
       "next": "alenka_v_kraji_divu_126.html",
       "toc": [
@@ -2498,7 +2495,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 124,
+      "order": 121,
       "prev": "alenka_v_kraji_divu_125.html",
       "next": "alenka_v_kraji_divu_127.html",
       "toc": [
@@ -2518,7 +2515,7 @@
       "chars": 3613,
       "ideas": 30,
       "role": "chapter",
-      "order": 125,
+      "order": 122,
       "prev": "alenka_v_kraji_divu_126.html",
       "next": "alenka_v_kraji_divu_128.html",
       "toc": [
@@ -2538,7 +2535,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 126,
+      "order": 123,
       "prev": "alenka_v_kraji_divu_127.html",
       "next": "alenka_v_kraji_divu_129.html",
       "toc": [
@@ -2558,7 +2555,7 @@
       "chars": 1796,
       "ideas": 17,
       "role": "chapter",
-      "order": 127,
+      "order": 124,
       "prev": "alenka_v_kraji_divu_128.html",
       "next": "alenka_v_kraji_divu_130.html",
       "toc": [
@@ -2578,7 +2575,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 128,
+      "order": 125,
       "prev": "alenka_v_kraji_divu_129.html",
       "next": "alenka_v_kraji_divu_131.html",
       "toc": [
@@ -2598,7 +2595,7 @@
       "chars": 1097,
       "ideas": 6,
       "role": "chapter",
-      "order": 129,
+      "order": 126,
       "prev": "alenka_v_kraji_divu_130.html",
       "next": "alenka_v_kraji_divu_132.html",
       "toc": [
@@ -2618,7 +2615,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 130,
+      "order": 127,
       "prev": "alenka_v_kraji_divu_131.html",
       "next": "alenka_v_kraji_divu_133.html",
       "toc": [
@@ -2638,7 +2635,7 @@
       "chars": 2518,
       "ideas": 13,
       "role": "chapter",
-      "order": 131,
+      "order": 128,
       "prev": "alenka_v_kraji_divu_132.html",
       "next": "alenka_v_kraji_divu_134.html",
       "toc": [
@@ -2658,7 +2655,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 132,
+      "order": 129,
       "prev": "alenka_v_kraji_divu_133.html",
       "next": "alenka_v_kraji_divu_135.html",
       "toc": [
@@ -2678,7 +2675,7 @@
       "chars": 1261,
       "ideas": 21,
       "role": "chapter",
-      "order": 133,
+      "order": 130,
       "prev": "alenka_v_kraji_divu_134.html",
       "next": "alenka_v_kraji_divu_136.html",
       "toc": [
@@ -2698,7 +2695,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 134,
+      "order": 131,
       "prev": "alenka_v_kraji_divu_135.html",
       "next": "alenka_v_kraji_divu_137.html",
       "toc": [
@@ -2718,7 +2715,7 @@
       "chars": 2462,
       "ideas": 43,
       "role": "chapter",
-      "order": 135,
+      "order": 132,
       "prev": "alenka_v_kraji_divu_136.html",
       "next": "alenka_v_kraji_divu_138.html",
       "toc": [
@@ -2738,7 +2735,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 136,
+      "order": 133,
       "prev": "alenka_v_kraji_divu_137.html",
       "next": "alenka_v_kraji_divu_139.html",
       "toc": [
@@ -2758,7 +2755,7 @@
       "chars": 272,
       "ideas": 16,
       "role": "chapter",
-      "order": 137,
+      "order": 134,
       "prev": "alenka_v_kraji_divu_138.html",
       "next": "alenka_v_kraji_divu_140.html",
       "toc": [
@@ -2778,7 +2775,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 138,
+      "order": 135,
       "prev": "alenka_v_kraji_divu_139.html",
       "next": "alenka_v_kraji_divu_141.html",
       "toc": [
@@ -2798,7 +2795,7 @@
       "chars": 899,
       "ideas": 56,
       "role": "chapter",
-      "order": 139,
+      "order": 136,
       "prev": "alenka_v_kraji_divu_140.html",
       "next": "alenka_v_kraji_divu_142.html",
       "toc": [
@@ -2818,7 +2815,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 140,
+      "order": 137,
       "prev": "alenka_v_kraji_divu_141.html",
       "next": "alenka_v_kraji_divu_143.html",
       "toc": [
@@ -2838,7 +2835,7 @@
       "chars": 2826,
       "ideas": 71,
       "role": "chapter",
-      "order": 141,
+      "order": 138,
       "prev": "alenka_v_kraji_divu_142.html",
       "next": "alenka_v_kraji_divu_144.html",
       "toc": [
@@ -2858,7 +2855,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 142,
+      "order": 139,
       "prev": "alenka_v_kraji_divu_143.html",
       "next": "alenka_v_kraji_divu_145.html",
       "toc": [
@@ -2878,7 +2875,7 @@
       "chars": 1816,
       "ideas": 12,
       "role": "chapter",
-      "order": 143,
+      "order": 140,
       "prev": "alenka_v_kraji_divu_144.html",
       "next": "alenka_v_kraji_divu_146.html",
       "toc": [
@@ -2898,7 +2895,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 144,
+      "order": 141,
       "prev": "alenka_v_kraji_divu_145.html",
       "next": "alenka_v_kraji_divu_147.html",
       "toc": [
@@ -2918,7 +2915,7 @@
       "chars": 1662,
       "ideas": 16,
       "role": "chapter",
-      "order": 145,
+      "order": 142,
       "prev": "alenka_v_kraji_divu_146.html",
       "next": "alenka_v_kraji_divu_148.html",
       "toc": [
@@ -2938,7 +2935,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 146,
+      "order": 143,
       "prev": "alenka_v_kraji_divu_147.html",
       "next": "alenka_v_kraji_divu_149.html",
       "toc": [
@@ -2958,7 +2955,7 @@
       "chars": 1042,
       "ideas": 10,
       "role": "chapter",
-      "order": 147,
+      "order": 144,
       "prev": "alenka_v_kraji_divu_148.html",
       "next": "alenka_v_kraji_divu_150.html",
       "toc": [
@@ -2978,7 +2975,7 @@
       "chars": 1531,
       "ideas": 13,
       "role": "chapter",
-      "order": 148,
+      "order": 145,
       "prev": "alenka_v_kraji_divu_149.html",
       "next": "alenka_v_kraji_divu_151.html",
       "toc": [
@@ -2998,7 +2995,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 149,
+      "order": 146,
       "prev": "alenka_v_kraji_divu_150.html",
       "next": "alenka_v_kraji_divu_152.html",
       "toc": [
@@ -3018,7 +3015,7 @@
       "chars": 2266,
       "ideas": 24,
       "role": "chapter",
-      "order": 150,
+      "order": 147,
       "prev": "alenka_v_kraji_divu_151.html",
       "next": "alenka_v_kraji_divu_153.html",
       "toc": [
@@ -3038,7 +3035,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 151,
+      "order": 148,
       "prev": "alenka_v_kraji_divu_152.html",
       "next": "alenka_v_kraji_divu_154.html",
       "toc": [
@@ -3058,7 +3055,7 @@
       "chars": 4440,
       "ideas": 34,
       "role": "chapter",
-      "order": 152,
+      "order": 149,
       "prev": "alenka_v_kraji_divu_153.html",
       "next": "alenka_v_kraji_divu_155.html",
       "toc": [
@@ -3078,7 +3075,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 153,
+      "order": 150,
       "prev": "alenka_v_kraji_divu_154.html",
       "next": "alenka_v_kraji_divu_156.html",
       "toc": [
@@ -3098,7 +3095,7 @@
       "chars": 1777,
       "ideas": 15,
       "role": "chapter",
-      "order": 154,
+      "order": 151,
       "prev": "alenka_v_kraji_divu_155.html",
       "next": "alenka_v_kraji_divu_157.html",
       "toc": [
@@ -3118,7 +3115,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 155,
+      "order": 152,
       "prev": "alenka_v_kraji_divu_156.html",
       "next": "alenka_v_kraji_divu_158.html",
       "toc": [
@@ -3138,7 +3135,7 @@
       "chars": 2718,
       "ideas": 15,
       "role": "chapter",
-      "order": 156,
+      "order": 153,
       "prev": "alenka_v_kraji_divu_157.html",
       "next": "alenka_v_kraji_divu_159.html",
       "toc": [
@@ -3158,7 +3155,7 @@
       "chars": 1433,
       "ideas": 15,
       "role": "chapter",
-      "order": 157,
+      "order": 154,
       "prev": "alenka_v_kraji_divu_158.html",
       "next": "alenka_v_kraji_divu_160.html",
       "toc": [
@@ -3178,7 +3175,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 158,
+      "order": 155,
       "prev": "alenka_v_kraji_divu_159.html",
       "next": "alenka_v_kraji_divu_161.html",
       "toc": [
@@ -3198,7 +3195,7 @@
       "chars": 8116,
       "ideas": 92,
       "role": "chapter",
-      "order": 159,
+      "order": 156,
       "prev": "alenka_v_kraji_divu_160.html",
       "next": "alenka_v_kraji_divu_162.html",
       "toc": [
@@ -3218,7 +3215,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 160,
+      "order": 157,
       "prev": "alenka_v_kraji_divu_161.html",
       "next": "alenka_v_kraji_divu_163.html",
       "toc": [
@@ -3238,7 +3235,7 @@
       "chars": 3329,
       "ideas": 103,
       "role": "chapter",
-      "order": 161,
+      "order": 158,
       "prev": "alenka_v_kraji_divu_162.html",
       "next": "alenka_v_kraji_divu_164.html",
       "toc": [
@@ -3258,7 +3255,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 162,
+      "order": 159,
       "prev": "alenka_v_kraji_divu_163.html",
       "next": "alenka_v_kraji_divu_165.html",
       "toc": [
@@ -3278,7 +3275,7 @@
       "chars": 1531,
       "ideas": 11,
       "role": "chapter",
-      "order": 163,
+      "order": 160,
       "prev": "alenka_v_kraji_divu_164.html",
       "next": "alenka_v_kraji_divu_166.html",
       "toc": [
@@ -3298,7 +3295,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 164,
+      "order": 161,
       "prev": "alenka_v_kraji_divu_165.html",
       "next": "alenka_v_kraji_divu_167.html",
       "toc": [
@@ -3318,7 +3315,7 @@
       "chars": 3244,
       "ideas": 37,
       "role": "chapter",
-      "order": 165,
+      "order": 162,
       "prev": "alenka_v_kraji_divu_166.html",
       "next": "alenka_v_kraji_divu_168.html",
       "toc": [
@@ -3338,7 +3335,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 166,
+      "order": 163,
       "prev": "alenka_v_kraji_divu_167.html",
       "next": "alenka_v_kraji_divu_169.html",
       "toc": [
@@ -3358,7 +3355,7 @@
       "chars": 1513,
       "ideas": 13,
       "role": "chapter",
-      "order": 167,
+      "order": 164,
       "prev": "alenka_v_kraji_divu_168.html",
       "next": "alenka_v_kraji_divu_170.html",
       "toc": [
@@ -3378,7 +3375,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 168,
+      "order": 165,
       "prev": "alenka_v_kraji_divu_169.html",
       "next": "alenka_v_kraji_divu_171.html",
       "toc": [
@@ -3398,7 +3395,7 @@
       "chars": 2615,
       "ideas": 22,
       "role": "chapter",
-      "order": 169,
+      "order": 166,
       "prev": "alenka_v_kraji_divu_170.html",
       "next": "alenka_v_kraji_divu_172.html",
       "toc": [
@@ -3418,7 +3415,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 170,
+      "order": 167,
       "prev": "alenka_v_kraji_divu_171.html",
       "next": "alenka_v_kraji_divu_173.html",
       "toc": [
@@ -3438,7 +3435,7 @@
       "chars": 419,
       "ideas": 5,
       "role": "chapter",
-      "order": 171,
+      "order": 168,
       "prev": "alenka_v_kraji_divu_172.html",
       "next": "alenka_v_kraji_divu_174.html",
       "toc": [
@@ -3458,7 +3455,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 172,
+      "order": 169,
       "prev": "alenka_v_kraji_divu_173.html",
       "next": "alenka_v_kraji_divu_175.html",
       "toc": [
@@ -3478,7 +3475,7 @@
       "chars": 1492,
       "ideas": 11,
       "role": "chapter",
-      "order": 173,
+      "order": 170,
       "prev": "alenka_v_kraji_divu_174.html",
       "next": "alenka_v_kraji_divu_176.html",
       "toc": [
@@ -3498,7 +3495,7 @@
       "chars": 2311,
       "ideas": 13,
       "role": "chapter",
-      "order": 174,
+      "order": 171,
       "prev": "alenka_v_kraji_divu_175.html",
       "next": "alenka_v_kraji_divu_177.html",
       "toc": [
@@ -3518,7 +3515,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 175,
+      "order": 172,
       "prev": "alenka_v_kraji_divu_176.html",
       "next": "alenka_v_kraji_divu_178.html",
       "toc": [
@@ -3538,7 +3535,7 @@
       "chars": 3601,
       "ideas": 29,
       "role": "chapter",
-      "order": 176,
+      "order": 173,
       "prev": "alenka_v_kraji_divu_177.html",
       "next": "alenka_v_kraji_divu_179.html",
       "toc": [
@@ -3558,7 +3555,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 177,
+      "order": 174,
       "prev": "alenka_v_kraji_divu_178.html",
       "next": "alenka_v_kraji_divu_180.html",
       "toc": [
@@ -3578,7 +3575,7 @@
       "chars": 2929,
       "ideas": 22,
       "role": "chapter",
-      "order": 178,
+      "order": 175,
       "prev": "alenka_v_kraji_divu_179.html",
       "next": "alenka_v_kraji_divu_181.html",
       "toc": [
@@ -3598,7 +3595,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 179,
+      "order": 176,
       "prev": "alenka_v_kraji_divu_180.html",
       "next": "alenka_v_kraji_divu_182.html",
       "toc": [
@@ -3618,7 +3615,7 @@
       "chars": 3577,
       "ideas": 30,
       "role": "chapter",
-      "order": 180,
+      "order": 177,
       "prev": "alenka_v_kraji_divu_181.html",
       "next": "alenka_v_kraji_divu_183.html",
       "toc": [
@@ -3638,7 +3635,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 181,
+      "order": 178,
       "prev": "alenka_v_kraji_divu_182.html",
       "next": "alenka_v_kraji_divu_184.html",
       "toc": [
@@ -3658,7 +3655,7 @@
       "chars": 9210,
       "ideas": 192,
       "role": "chapter",
-      "order": 182,
+      "order": 179,
       "prev": "alenka_v_kraji_divu_183.html",
       "next": "alenka_v_kraji_divu_185.html",
       "toc": [
@@ -3678,7 +3675,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 183,
+      "order": 180,
       "prev": "alenka_v_kraji_divu_184.html",
       "next": "alenka_v_kraji_divu_186.html",
       "toc": [
@@ -3698,7 +3695,7 @@
       "chars": 2637,
       "ideas": 19,
       "role": "chapter",
-      "order": 184,
+      "order": 181,
       "prev": "alenka_v_kraji_divu_185.html",
       "next": "alenka_v_kraji_divu_187.html",
       "toc": [
@@ -3718,7 +3715,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 185,
+      "order": 182,
       "prev": "alenka_v_kraji_divu_186.html",
       "next": "alenka_v_kraji_divu_188.html",
       "toc": [
@@ -3738,7 +3735,7 @@
       "chars": 5794,
       "ideas": 68,
       "role": "chapter",
-      "order": 186,
+      "order": 183,
       "prev": "alenka_v_kraji_divu_187.html",
       "next": "alenka_v_kraji_divu_189.html",
       "toc": [
@@ -3758,7 +3755,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 187,
+      "order": 184,
       "prev": "alenka_v_kraji_divu_188.html",
       "next": "alenka_v_kraji_divu_190.html",
       "toc": [
@@ -3778,7 +3775,7 @@
       "chars": 1872,
       "ideas": 12,
       "role": "chapter",
-      "order": 188,
+      "order": 185,
       "prev": "alenka_v_kraji_divu_189.html",
       "next": "alenka_v_kraji_divu_191.html",
       "toc": [
@@ -3798,7 +3795,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 189,
+      "order": 186,
       "prev": "alenka_v_kraji_divu_190.html",
       "next": "alenka_v_kraji_divu_192.html",
       "toc": [
@@ -3818,7 +3815,7 @@
       "chars": 2177,
       "ideas": 37,
       "role": "chapter",
-      "order": 190,
+      "order": 187,
       "prev": "alenka_v_kraji_divu_191.html",
       "next": "alenka_v_kraji_divu_193.html",
       "toc": [
@@ -3838,7 +3835,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 191,
+      "order": 188,
       "prev": "alenka_v_kraji_divu_192.html",
       "next": "alenka_v_kraji_divu_194.html",
       "toc": [
@@ -3858,7 +3855,7 @@
       "chars": 4521,
       "ideas": 48,
       "role": "chapter",
-      "order": 192,
+      "order": 189,
       "prev": "alenka_v_kraji_divu_193.html",
       "next": "alenka_v_kraji_divu_195.html",
       "toc": [
@@ -3878,7 +3875,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 193,
+      "order": 190,
       "prev": "alenka_v_kraji_divu_194.html",
       "next": "alenka_v_kraji_divu_196.html",
       "toc": [
@@ -3898,7 +3895,7 @@
       "chars": 571,
       "ideas": 3,
       "role": "chapter",
-      "order": 194,
+      "order": 191,
       "prev": "alenka_v_kraji_divu_195.html",
       "next": "alenka_v_kraji_divu_197.html",
       "toc": [
@@ -3918,7 +3915,7 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 195,
+      "order": 192,
       "prev": "alenka_v_kraji_divu_196.html",
       "next": "alenka_v_kraji_divu_198.html",
       "toc": [
@@ -3938,7 +3935,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 196,
+      "order": 193,
       "prev": "alenka_v_kraji_divu_197.html",
       "next": "alenka_v_kraji_divu_199.html",
       "toc": [
@@ -3958,7 +3955,7 @@
       "chars": 9,
       "ideas": 1,
       "role": "chapter",
-      "order": 197,
+      "order": 194,
       "prev": "alenka_v_kraji_divu_198.html",
       "next": "alenka_v_kraji_divu_200.html",
       "toc": [
@@ -3978,7 +3975,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 198,
+      "order": 195,
       "prev": "alenka_v_kraji_divu_199.html",
       "next": "alenka_v_kraji_divu_201.html",
       "toc": [
@@ -3998,7 +3995,7 @@
       "chars": 1827,
       "ideas": 9,
       "role": "chapter",
-      "order": 199,
+      "order": 196,
       "prev": "alenka_v_kraji_divu_200.html",
       "next": "alenka_v_kraji_divu_202.html",
       "toc": [
@@ -4018,7 +4015,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 200,
+      "order": 197,
       "prev": "alenka_v_kraji_divu_201.html",
       "next": "alenka_v_kraji_divu_203.html",
       "toc": [
@@ -4038,7 +4035,7 @@
       "chars": 762,
       "ideas": 3,
       "role": "chapter",
-      "order": 201,
+      "order": 198,
       "prev": "alenka_v_kraji_divu_202.html",
       "next": "alenka_v_kraji_divu_204.html",
       "toc": [
@@ -4058,7 +4055,7 @@
       "chars": 15343,
       "ideas": 53,
       "role": "chapter",
-      "order": 202,
+      "order": 199,
       "prev": "alenka_v_kraji_divu_203.html",
       "next": null,
       "toc": [
@@ -4079,7 +4076,7 @@
       "ideas": 21,
       "role": "colophon",
       "order": null,
-      "next": "alenka_v_kraji_divu_001.html",
+      "next": "alenka_v_kraji_divu_005.html",
       "toc": [
         {
           "index": 0,
@@ -4098,7 +4095,7 @@
       "ideas": 0,
       "role": "index",
       "order": null,
-      "next": "alenka_v_kraji_divu_001.html",
+      "next": "alenka_v_kraji_divu_005.html",
       "toc": []
     },
     {
@@ -4109,7 +4106,7 @@
       "ideas": 0,
       "role": "other",
       "order": null,
-      "next": "alenka_v_kraji_divu_001.html",
+      "next": "alenka_v_kraji_divu_005.html",
       "toc": []
     }
   ],
@@ -4120,9 +4117,9 @@
       "ideas": 2497
     },
     "chapters": {
-      "words": 44264,
-      "chars": 254613,
-      "ideas": 2476
+      "words": 44250,
+      "chars": 254534,
+      "ideas": 2473
     }
   }
 }
