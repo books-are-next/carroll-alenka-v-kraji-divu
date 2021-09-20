@@ -2,10 +2,10 @@
 title: ''
 ---
 
-> Na nose mám úhoře  
+> _Na nose mám úhoře  
 > a tak chodím po dvoře.  
 > Syn jen vzdychá: „Milý Rochu,  
-> otci rozumu dej trochu.“
+> otci rozumu dej trochu.“_
 
 „Tak to není,“ řekl Houseňák.
 

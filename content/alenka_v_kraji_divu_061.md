@@ -2,7 +2,7 @@
 title: ''
 ---
 
-„Ale ne, prosím vás, povídejte dál!“ prosila Alenka. „Už nebudu vyrušovat. Tak tedy jedna taková studánka je.“
+„Ale ne, prosím vás, povídejte dál!“ prosila Alenka. „Už nebudu vyrušovat. Tak tedy _jedna_ taková studánka je.“
 
 „Vida, jedna!“ horlil Plch, ale přece si dal říct a povídal dál.
 

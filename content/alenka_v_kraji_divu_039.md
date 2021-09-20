@@ -18,21 +18,21 @@ Alenka si řekla, že počká, stejně nemá co dělat, a možná že se přece 
 
 „Ale chtěla jsem odříkávat Polámal se mraveneček a ono se mi to nějak popletlo,“ posteskla si Alenka.
 
-„Tak mi říkej Na svatého Řehoře,“ řekl Houseňák.
+„Tak mi říkej _Na svatého Řehoře_,“ řekl Houseňák.
 
 Alenka složila ruce a spustila:
 
-> Na svatého Řehoře,  
+> _Na svatého Řehoře,  
 > slyšet kroky na dvoře.  
 > Syn otevře – duše zlatá!–  
-> na hlavě tam stojí táta.
+> na hlavě tam stojí táta._
 
-> K otci honem utíká,  
+> _K otci honem utíká,  
 > třese se jak osika.  
 > Ten se směje: Nevídáno,  
-> stojku dělám každé ráno.
+> stojku dělám každé ráno._
 
-> Nehubuj mě, Honzíku,  
+> _Nehubuj mě, Honzíku,  
 > nechci vyjít ze cviku.  
 > Elce pelce do pekelce,  
-> koukej na ty kotrmelce.
+> koukej na ty kotrmelce._

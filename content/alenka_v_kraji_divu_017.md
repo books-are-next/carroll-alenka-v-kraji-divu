@@ -8,15 +8,15 @@ title: Kaluž slz
 
 A tak si dále vymýšlela, jak to zařídí. „Budu jim je musit dát doručit,“ řekla si, „to bude legrace, posílat dárky vlastním nohám. A jak divně se bude vyjímat adresa!
 
-> Vážená
+> _Vážená_
 
-> Pravá Noha Alenčina
+> _Pravá Noha Alenčina_
 
-> Rohožka před Krbem
+> _Rohožka před Krbem_
 
-> u Mřížky
+> _u Mřížky_
 
-> (s pozdravem od Alenky)
+> _(s pozdravem od Alenky)_
 
 Jeje, co to mluvím za nesmysly!“
 

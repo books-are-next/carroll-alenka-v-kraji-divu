@@ -34,7 +34,7 @@ Alenku nemálo potěšilo, jak po nich okřívá. S chutí je žvýkal a najedno
 
 „Ještě lepší by snad bylo pokropit vás studenou vodou,“ nadhodila Alenka, „nebo vám dát čichnout čpavé soli.“
 
-„Já jsem neřekl: nic lepšího,“ odbyl ji Král, „řekl jsem: nic nad to.“ To Alenka popřít nemohla.
+„Já jsem neřekl: _nic lepšího_,“ odbyl ji Král, „řekl jsem: _nic nad to_.“ To Alenka popřít nemohla.
 
 „Kohopak jsi na silnici potkal?“ Král natáhl ruku ke kurýrovi, aby mu přidal Škubánků.
 
@@ -58,10 +58,10 @@ Spíš zemětřeseníčko! pomyslila si Alenka. „Kdo se zas pere?“ osmělila
 
 „Zajisté,“ přisvědčil Král, „a nejlepší na tom je, že ta koruna je moje! Běžme se na ně podívat.“ Hned vyrazili a Alenka si v tom běhu odříkávala slova staré písně:
 
-> O korunu se Jednorožec se Lvem porvali.  
+> _O korunu se Jednorožec se Lvem porvali.  
 > Lev přes město ho prohnal, shon byl nemalý.  
 > Chléb bílý, černý, koláče jim podali,  
-> až za město je potom vybubnovali.
+> až za město je potom vybubnovali._
 
 „A jestlipak – ten co vyhraje – dostane tu – korunu?“ vyrážela ze sebe Alenka, uřícená tím během.
 

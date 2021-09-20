@@ -2,81 +2,81 @@
 title: ''
 ---
 
-„Ale ten nápěv není jeho vynález,“ řekla si, „je to jako Co ten ptáček povídá.“ Stála a napjatě poslouchala, ale slzy jí nevyhrkly.
+„Ale ten nápěv není jeho vynález,“ řekla si, „je to jako _Co ten ptáček povídá_.“ Stála a napjatě poslouchala, ale slzy jí nevyhrkly.
 
-> Povím všechno, co bych já  
+> _Povím všechno, co bych já  
 > vám to nepověděl:  
 > jak jsem kolem branky šel,  
 > stařeček tam seděl.  
 > „Viďte,“ pravím, „stařečku,  
 > pěkně žije se to.“  
 > Odpověď mi procedil  
-> jako přes řešeto.
+> jako přes řešeto._
 
-> „Motýly,“ děl stařeček,  
+> _„Motýly,“ děl stařeček,  
 > „v žitě pilně chytám,  
 > vyrábím z nich paštiku,  
 > po ulicích ji tam  
 > rozprodávám matrózům.  
 > Tak a nejináče  
 > ve světě se protloukám –  
-> dejte na tabáček.“
+> dejte na tabáček.“_
 
-> Dumal jsem, jak licousy  
+> _Dumal jsem, jak licousy  
 > barvit do zelena,  
 > aby barva vějířem  
 > byla pozastřena.  
 > „Co vy máte, stařečku,  
 > vlastně tady za cíl?“  
 > Pro jistotu po hlavě  
-> pěstí jsem ho bacil.
+> pěstí jsem ho bacil._
 
-> „Cíl mám,“ pravil stařeček,  
+> _„Cíl mám,“ pravil stařeček,  
 > „ten a žádný jiný:  
 > spadeno mám na horách  
 > všude na bystřiny.  
 > Pálím je a potom z nich  
 > stáčím jedlý olej,  
 > však mě z této roboty  
-> ruce věčně bolej.“
+> ruce věčně bolej.“_
 
-> Poslouchat, co povídá,  
+> _Poslouchat, co povídá,  
 > dávno jsem už přestal,  
 > přemýšlel jsem, jak bych ztloust  
 > z šlehaného těsta.  
 > Řádně jsem jím zatřásl,  
 > až byl v tváři sivý,  
 > ať mi tedy prozradí,  
-> čím se vlastně živí.
+> čím se vlastně živí._
 
-> „Tresčí oči stopuju  
+> _„Tresčí oči stopuju  
 > tam na vřesovišti,  
 > vyrábím z nich knoflíky  
 > k vestě, jen se blyští.  
 > Stříbro, zlato nežádám,  
 > jen ty kupce hledám,  
 > co mi krejcar zaplatí,  
-> jinému je nedám.
+> jinému je nedám._
 
-> Někdy kopu žemličky,  
+> _Někdy kopu žemličky,  
 > kraby chytám v křoví,  
 > nebo kola z fiakru  
 > v husté trávě lovím.  
 > Při takovém řemesle  
 > mám se dobře nýčko.  
 > Nemoh bych vám, vašnosti,  
-> připít na zdravíčko?“
+> připít na zdravíčko?“_
 
-> Vyvařit most ve víně,  
+> _Vyvařit most ve víně,  
 > řekl jsem si právě,  
 > to je způsob nejlepší,  
 > aby nezrezavěl.  
 > Díky vzdal jsem za zprávu  
 > o tom blahobytě,  
 > za přípitek děkoval  
-> jsem mu jmenovitě.
+> jsem mu jmenovitě._
 
-> Když si někdy přilepím  
+> _Když si někdy přilepím  
 > prsty plné klihu,  
 > když si rovnou na palec  
 > pustím notnou tíhu,  
@@ -93,7 +93,7 @@ title: ''
 > jemuž z hloubi prsou vzlyk se ozýval,  
 > který jako buvol funíval,  
 > který na růžích ustláno nemíval  
-> – a na brance sedal.
+> – a na brance sedal._
 
 Jezdec dozpíval baladu, přitáhl otěže a stočil koně na silnici, po které přijeli. „Už ti zbývá,“ řekl, „jen několik yardů z kopce a přes potůček, a bude z tebe Královna –“ Alenka se nedočkavě ohlédla tím směrem, kam ji ukazoval, a Jezdec hned dodal: „Ale napřed se se mnou rozloučíš. Dlouho to nepotrvá. Počkáš a zamáváš mi šátkem, až dojedu tamhle k té zatáčce? Snad mi tím dodáš odvahy.“
 
@@ -107,7 +107,7 @@ Tak si povídala a dívala se za koněm, jak si zvolna vykračuje po silnici a J
 
 „Doufám, že jsem mu dodala odvahy,“ řekla a rozběhla se dolů z kopce. „Ještě poslední potůček, a bude ze mne Královna! To je báječné!“ Udělala pár kroků a octla se u potůčku, už chtěla potok přeskočit, vtom zaslechla hluboký vzdech, jako by přicházel z lesa za ní.
 
-Někdo je tam asi moc nešťastný, pomyslila si a starostlivě se ohlédla, co se to děje. Nějaký staroušek (jenže tvář měl spíš vosí) seděl na zemi, celý schoulený se opíral o strom a zimomřivě se třásl.
+Někdo je tam asi _moc_ nešťastný, pomyslila si a starostlivě se ohlédla, co se to děje. Nějaký staroušek (jenže tvář měl spíš vosí) seděl na zemi, celý schoulený se opíral o strom a zimomřivě se třásl.
 
 Tomu já sotva nějak pomohu, napadlo Alence, jak se chystala přeskočit potok: – ale na samém kraji se zarazila: „Zeptám se ho aspoň, co mu je. Jakmile přeskočím, všechno se změní a už mu nepomohu.“
 
@@ -193,30 +193,30 @@ Alenka dostala zvláštní nápad. Kdekdo jí na potkání odříkával básně,
 
 „Nemám v tom cvik,“ řekl Vosák, „ale zkusím to: počkej chvilku.“ Na chvíli se odmlčel a pak spustil **–**
 
-> Kučery dlouhé, vlnité  
+> _Kučery dlouhé, vlnité  
 >        já pyšně nosil zamlada.  
 > „Paruku když si koupíte,  
->        budete lépe vypadat.“
+>        budete lépe vypadat.“_
 
-> Dal jsem se tedy ostříhat,  
+> _Dal jsem se tedy ostříhat,  
 >        v té situaci bezradné.  
 > Začali mi zas nadávat,  
->        že paruka mi nepadne.
+>        že paruka mi nepadne._
 
-> Připraven o svou ozdobu,  
+> _Připraven o svou ozdobu,  
 >        nad ztrátou vlasů zoufalý,  
 > dostal jsem horší podobu.  
->        Vlasy mi růsti přestaly.
+>        Vlasy mi růsti přestaly._
 
-> Vlasy mi válem šediví,  
+> _Vlasy mi válem šediví,  
 >        co horšího, že řidnou též.  
 > Je ze mne dědek plesnivý,  
->        parukou zakrývám si pleš.
+>        parukou zakrývám si pleš._
 
-> Všude mi „Čuně“ spílají,  
+> _Všude mi „Čuně“ spílají,  
 >        běda, to mám vždy na krku,  
 > pokoj mi chvíli nedají  
->        pro moji žlutou paruku.
+>        pro moji žlutou paruku._
 
 „Moc je mi vás líto,“ řekla vřele Alenka; „kdyby vám paruka trochu líp padla, myslím, že by vás tolik neškádlili.“
 

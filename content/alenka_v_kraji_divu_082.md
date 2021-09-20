@@ -8,20 +8,20 @@ title: ''
 
 „Neměli bychom zkusit další figuru z Humří čtverylky?“ dodal Noh. „Nebo ti má Paželv něco zazpívat?“
 
-„Ať Paželv laskavě něco zazpívá,“ doprošovala se Alenka tak horlivě, že Noh nemálo dotčeně řekl: „Inu, každý má jiný vkus! Zazpívej jí, kamaráde, Želví polívku.“
+„Ať Paželv laskavě něco zazpívá,“ doprošovala se Alenka tak horlivě, že Noh nemálo dotčeně řekl: „Inu, každý má jiný vkus! Zazpívej jí, kamaráde, _Želví polívku_.“
 
 Paželv zhluboka vzdychl a přerývaným hlasem plačtivě zazpíval:
 
-> Když přijde večer, kouří se  
+> _Když přijde večer, kouří se  
 > z husté polívky na míse.  
 > Radostí všem září líčka,  
 > večer chutná polívčička,  
 >         polívčička!  
 >         polívčička!  
 > Večer chutná  
->         polívka, polívčička.
+>         polívka, polívčička._
 
-> Polívka! Co je proti té  
+> _Polívka! Co je proti té  
 > srnčí mandlemi nadité,  
 > holoubě, štika, krkovička!  
 > Nejlepší je polívčička,  
@@ -29,7 +29,7 @@ Paželv zhluboka vzdychl a přerývaným hlasem plačtivě zazpíval:
 >         polívčička!  
 >         polívčička!  
 > Večer chutná  
->         polívka, POLÍVČIČKA!
+>         polívka, POLÍVČIČKA!_
 
 „Ještě jednou refrén!“ zvolal Noh a Paželv už k němu nasazoval, a tu k nim zdálky dolehl křik: „Začíná soud!“
 
@@ -37,5 +37,5 @@ Paželv zhluboka vzdychl a přerývaným hlasem plačtivě zazpíval:
 
 „Co je to za soud?“ Alenka sotva popadala dech, ale Noh odsekl: „Pojď!“ a běžel ještě rychleji a vánek k nim stále slaběji a slaběji zanášel truchlivá slova:
 
-> Večer chutná – á – á  
-> polívka, polívčička!
+> _Večer chutná – á – á  
+> polívka, polívčička!_

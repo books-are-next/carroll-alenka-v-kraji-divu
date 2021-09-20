@@ -18,7 +18,7 @@ title: ''
 
 „Co myslíte, nebylo by to na zemi jistější?“ Alenka to řekla z upřímné starosti o to podivné stvoření, a ne jako hádanku. „Ta zídka je uzounká.“
 
-„Ty máš úžasně snadné hádanky!“ zavrčel Valihrach. „To jistě ne! Ale kdybych nakrásně spadl – což se nestane – i kdybych spadl –“ Tu našpulil rty a zatvářil se velkopansky, až Alenka málem vyprskla smíchy. „Kdybych opravdu spadl,“ hovořil Valihrach, „Král mi slíbil – jen si bledni, jak chceš! Že tohle řeknu, to sis nemyslila, viď. Král mi na to dal své královské slovo_,_ že – že –“
+„Ty máš úžasně snadné hádanky!“ zavrčel Valihrach. „To jistě ne! Ale kdybych nakrásně spadl – což se nestane – i kdybych spadl –“ Tu našpulil rty a zatvářil se velkopansky, až Alenka málem vyprskla smíchy. „Kdybych opravdu spadl,“ hovořil Valihrach, „_Král mi slíbil_ – jen si bledni, jak chceš! Že tohle řeknu, to sis nemyslila, viď. _Král mi na to dal své královské slovo__,_ že – že –“
 
 „Že vám pošle svou kavalerii a infanterii,“ vyhrkla unáhleně Alenka.
 
@@ -136,45 +136,45 @@ Alenka nad tím nadobro zkoprněla, a tak spustil Valihrach za chvíli znovu: �
 
 „To bys koukala,“ Valihrach vrtěl vážně hlavou na obě strany, „když si ke mně v sobotu navečer přijdou pro výplatu.“ (Zeptat se ho, čím je vyplácí, to si Alenka netroufala; a já vám to tedy taky nepovím.)
 
-„Jak se zdá, vy umíte každé slovo důmyslně vyložit,“ řekla Alenka. „Povězte mi prosím, co znamená Báseň Tlachapoud.“
+„Jak se zdá, vy umíte každé slovo důmyslně vyložit,“ řekla Alenka. „Povězte mi prosím, co znamená Báseň _Tlachapoud_.“
 
 „Nejprve si ji poslechnu,“ řekl Valihrach. „Já ti vyložím všechny básně, jaké kdy byly vymyšleny, a ještě spoustu těch, co vůbec ještě vymyšleny nejsou.“
 
 Vypadalo to slibně, a tak Alenka odříkávala první sloku:
 
-> Je svačvečer. Lysperní jezeleni  
+> _Je svačvečer. Lysperní jezeleni  
 > se vírně vrtáčejí v mokřavě.  
 > Vetchaří hadroušci jsou roztruchleni  
-> a selvy syští tesknoskuhravě.
+> a selvy syští tesknoskuhravě._
 
-„Pro začátek to stačí,“ skočil jí do řeči Valihrach. „Je tam spousta těžkých slov. Svačvečer je ta doba po svačině, kdy se peče něco dobrého na večer.“
+„Pro začátek to stačí,“ skočil jí do řeči Valihrach. „Je tam spousta těžkých slov. _Svačvečer_ je ta doba po svačině, kdy se peče něco dobrého na večer.“
 
-„To by šlo,“ řekla Alenka, „a co je lysperný?“
+„To by šlo,“ řekla Alenka, „a co je _lysperný_?“
 
-„Inu, lysperný je lysý a čiperný. To máš jako kufřík – do jednoho slova napěchuješ dvojí význam.“
+„Inu, _lysperný_ je lysý a čiperný. To máš jako kufřík – do jednoho slova napěchuješ dvojí význam.“
 
-„Už rozumím,“ řekla zamyšleně Alenka. „A co jezeleni?“
+„Už rozumím,“ řekla zamyšleně Alenka. „A co _jezeleni_?“
 
-„Inu, jezeleni jsou trochu jezevci – a trochu jeleni.“
+„Inu, _jezeleni_ jsou trochu jezevci – a trochu jeleni.“
 
 „Ti asi vypadají divně.“
 
 „To vypadají,“ řekl Valihrach, „hnízdí pod slunečními hodinami – a živí se sýrem.“
 
-„A co je _vírně vrtáčet_?“
+„A co je _vírně _vrtáčet__?“
 
 „To je tolik jako vířit, vrtat a otáčet se jako nebozez.“
 
-„A mokřava je snad trávník kolem slunečních hodin, ne?“ Alenku překvapilo, že na to sama kápla.
+„A _mokřava_ je snad trávník kolem slunečních hodin, ne?“ Alenku překvapilo, že na to sama kápla.
 
 „A mokrý je asi proto –“
 
 „– že tam na stráni hodně prší,“ dořekla za něho Alenka.
 
-„Správně. A vetcharý je vetchý a charý (už zase takový slovní kufřík). A hadroušek je vyzáblý opelichaný papoušek s nadrchaným peřím – jako nějaký živý hadr.“
+„Správně. A _vetcharý_ je vetchý a charý (už zase takový slovní kufřík). A _hadroušek_ je vyzáblý opelichaný papoušek s nadrchaným peřím – jako nějaký živý hadr.“
 
-„A co selva?“ řekla Alenka. „Nerada vás tolik obtěžuju.“
+„A co _selva_?“ řekla Alenka. „Nerada vás tolik obtěžuju.“
 
-„Inu, selva je trochu sele, trochu želva, aspoň se mi tak zdá.“
+„Inu, _selva_ je trochu sele, trochu želva, aspoň se mi tak zdá.“
 
-„A co syštět?“
+„A co _syštět_?“

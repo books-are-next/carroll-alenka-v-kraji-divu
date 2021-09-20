@@ -18,7 +18,7 @@ Alenka přistoupila nesměle ke dveřím a zaklepala.
 
 „Prosím vás,“ zeptala se Alenka, „jak se tedy mám dostat dovnitř?“
 
-„Jen tenkrát by mělo smysl klepat,“ vedl svou lokaj a vůbec si Alenky nevšímal, „kdyby byly mezi námi dveře. Kdybys byla například uvnitř, mohla bys zaklepat a já bych tě pustil ven.“ Jak mluvil, civěl pořád do nebe, a to Alence připadalo vyloženě nezdvořilé. „Ale snad za to nemůže,“ řekla si, „když má oči tak vysoko navrch hlavy. Ale mohl by aspoň odpovědět, když se ho ptám. – Jak se dostanu dovnitř?“ opakovala hlasitě.
+„Jen tenkrát by mělo smysl klepat,“ vedl svou lokaj a vůbec si Alenky nevšímal, „kdyby byly mezi námi dveře. Kdybys byla například _uvnitř,_ mohla bys zaklepat a já bych tě pustil ven.“ Jak mluvil, civěl pořád do nebe, a to Alence připadalo vyloženě nezdvořilé. „Ale snad za to nemůže,“ řekla si, „když má oči tak vysoko navrch hlavy. Ale mohl by aspoň odpovědět, když se ho ptám. – Jak se dostanu dovnitř?“ opakovala hlasitě.
 
 „Posedím tady do zítřka,“ prohodil lokaj.
 

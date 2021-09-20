@@ -8,9 +8,9 @@ Alenka dvířka otevřela a před ní byla chodbička o nic širší než krysí
 
 Čekat u dvířek nebylo nic platné, a tak se Alenka vrátila ke stolku, jestli tam třeba nenajde ještě nějaký klíček, nebo aspoň nějaký návod, jak se sklapnout jako dalekohled. Tentokrát tam našla lahvičku („ta tu předtím určitě nebyla,“ řekla si Alenka) a ta měla na hrdle cedulku s nápisem krásně vytištěným velkými písmeny: VYPIJ MĚ.
 
-To se lehko řekne „vypij mě“, ale moudrá Alenka se do toho nepohrne. „Ba ne,“ řekla si, „napřed se podívám, jestli tam není označení jed.“ Co se už načetla hezkých povídek o tom, jak děti uhořely, jak je divá zvěř sežrala a mnoho jiných nepříjemností je potkalo jen proto, že nedbaly prostých ponaučení, která jim jejich přátelé vštěpovali; tak např.: že se spálíš, když držíš moc dlouho v ruce žhavý pohrabáč, že ti obyčejně teče krev, když se hodně hluboko řízneš nožem, a také nezapomínala na to, že když si pořádně přihneš z lahvičky označené jed, dříve nebo později ti to nebude dělat dobře.
+To se lehko řekne „vypij mě“, ale moudrá Alenka se do toho nepohrne. „Ba ne,“ řekla si, „napřed se podívám, jestli tam není označení _jed_.“ Co se už načetla hezkých povídek o tom, jak děti uhořely, jak je divá zvěř sežrala a mnoho jiných nepříjemností je potkalo jen proto, že nedbaly prostých ponaučení, která jim jejich přátelé vštěpovali; tak např.: že se spálíš, když držíš moc dlouho v ruce žhavý pohrabáč, že ti obyčejně teče krev, když se hodně hluboko řízneš nožem, a také nezapomínala na to, že když si pořádně přihneš z lahvičky označené _jed_, dříve nebo později ti to nebude dělat dobře.
 
-Ale na lahvičce nestálo jed; Alenka se tedy odhodlala, že to ochutná. Bylo to moc dobré (chutnalo to jako třešňový koláč, krém, ananas, pečený krocan, karamel a topinky s máslem dohromady) a za chvilku to měla v sobě.
+Ale na lahvičce nestálo _jed_; Alenka se tedy odhodlala, že to ochutná. Bylo to moc dobré (chutnalo to jako třešňový koláč, krém, ananas, pečený krocan, karamel a topinky s máslem dohromady) a za chvilku to měla v sobě.
 
 „To je mi divně,“ řekla Alenka. „Nejspíš se už sklápím jako dalekohled.“
 

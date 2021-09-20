@@ -54,7 +54,7 @@ Alenka sice držela pytel jaksepatří otevřený, ale přece jen to dlouho trva
 
 „To bych ráda věděla, co.“
 
-„Vezmi nejprve rovnou hůl,“ řekl Jezdec. „Potom ať se vlasy pnou po ní nahoru jako štěp. Vlasy padají jen proto, že visí dolů – nahoru nic nepadá. Je to můj vynález. Chceš-li, vyzkoušej si ho.“
+„Vezmi nejprve rovnou hůl,“ řekl Jezdec. „Potom ať se vlasy pnou po ní nahoru jako štěp. Vlasy padají jen proto, že visí _dolů – nahoru_ nic nepadá. Je to můj vynález. Chceš-li, vyzkoušej si ho.“
 
 Alenku ten vynález nijak nepotěšil; chvíli kráčela mlčky a hloubala nad tím nápadem, jen chvílemi se zastavovala a vysazovala Jezdce na koně; jezdit opravdu moc neuměl.
 

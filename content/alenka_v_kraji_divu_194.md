@@ -28,25 +28,25 @@ Zeptala se na to Černé Královny a ta jí odpověděla neslaně nemastně. „
 
 Bílá Královna se polichoceně zasmála, pohladila Alenku po tváři a potom spustila:
 
-> Rybu v síti,  
+> _Rybu v síti,  
 > tu vám každé dítě chytí.  
 > Bez udice, bez saku,  
-> stojí jen pár šestáků.
+> stojí jen pár šestáků._
 
-> Na pekáči  
+> _Na pekáči  
 > udělat ji chvilka stačí.  
 > Do zlatova smaží se  
-> a už leží na míse.
+> a už leží na míse._
 
-> Potom spolu  
+> _Potom spolu  
 > s hosty zasedne se k stolu.  
 > Ach, ta vůně líbezná!  
-> Labužník ji dobře zná,
+> Labužník ji dobře zná,_
 
-> už se těší…  
+> _už se těší…  
 > Host a ryba. Co je těžší:  
 > rybu z kostí vykostit,  
-> nebo hosty vyhostit?
+> nebo hosty vyhostit?_
 
 „Chvilku přemýšlej a potom hádej,“ řekla Černá Královna. „Zatím ti připijeme na zdraví – Na zdraví Královny Alenky!“ zavřískla z plných plic a hosté rázem připili a dělali to prapodivně. Někteří si posadili sklenici na hlavu jako kratiknot a pili to, co jim kanulo po tváři – jiní zas převrátili džbány a pili víno, jak stékalo ze stolu – a tři (ti vypadali jako klokani) vlezli do mísy se skopovou pečení a chlemtali omáčku „jako prasata u koryta,“ řekla si Alenka.
 

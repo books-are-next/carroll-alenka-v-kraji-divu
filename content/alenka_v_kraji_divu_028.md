@@ -14,7 +14,7 @@ Nejdřív vyznačil jakžtakž do kruhu závodní dráhu („na přesném tvaru 
 
 Než jim Blboun odpověděl, hluboce se zadumal, dlouhou chvíli seděl a prst si tiskl na čelo (však víte, jak to na obrázcích dělává Shakespeare) a ostatní tiše čekali. Konečně řekl Blboun: „Všichni vyhráli a všichni budou odměněni cenou.“
 
-„Ale kdo bude udílet ceny?“ ozvali se sborem. „No samozřejmě ona,“ řekl Blboun a ukázal prstem na Alenku. Všichni ji obklopili a volali jeden přes druhého: „Ceny! Ceny!“
+„Ale kdo bude udílet ceny?“ ozvali se sborem. „No samozřejmě _ona_,“ řekl Blboun a ukázal prstem na Alenku. Všichni ji obklopili a volali jeden přes druhého: „Ceny! Ceny!“
 
 Alenka nevěděla, co počít, a v té bezradnosti sáhla do kapsy a vytáhla krabičku bonbónů (naštěstí je slaná voda nepromáčela) a za odměnu je rozdala. Na každého se dostal jeden.
 
