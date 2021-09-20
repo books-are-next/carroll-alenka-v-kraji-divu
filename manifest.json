@@ -1,14 +1,14 @@
 {
   "author": "Lewis Carroll",
-  "identifier": "carroll-alenka-v-kraji-divu-a-za-zrcadlem-3c9187a",
+  "identifier": "carroll-alenka-v-kraji-divu-a-za-zrcadlem-fce1e88",
   "languagecode": "cs",
   "modified": "2021-09-16T10:11:07.580Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Alenka v kraji divů a za zrcadlem",
-  "revision": "3c9187a",
+  "revision": "fce1e88",
   "generatedAt": {
-    "date": "Mon Sep 20 2021 12:35:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1632141307343
+    "date": "Mon Sep 20 2021 14:30:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1632148236458
   },
   "documents": [
     {
@@ -452,11 +452,11 @@
       ]
     },
     {
-      "title": "Kuriální závod\na sáhodlouhý obrázek",
+      "title": "Kuriální závod a sáhodlouhý obrázek",
       "file": "alenka_v_kraji_divu_024.html",
       "words": 268,
-      "chars": 1629,
-      "ideas": 13,
+      "chars": 1630,
+      "ideas": 12,
       "role": "chapter",
       "order": 22,
       "prev": "alenka_v_kraji_divu_023.html",
@@ -465,7 +465,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kuriální závod\na sáhodlouhý obrázek",
+          "name": "Kuriální závod a sáhodlouhý obrázek",
           "id": "chunk1",
           "children": []
         }
@@ -4116,13 +4116,13 @@
   "totals": {
     "all": {
       "words": 44423,
-      "chars": 255610,
-      "ideas": 2498
+      "chars": 255611,
+      "ideas": 2497
     },
     "chapters": {
       "words": 44264,
-      "chars": 254612,
-      "ideas": 2477
+      "chars": 254613,
+      "ideas": 2476
     }
   }
 }
