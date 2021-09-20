@@ -20,9 +20,9 @@
       "br": "",
       "brBefore": "",
       "brAfter": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 mlptextbez1radkub mlptextbez1radkui ",
-      "blockquote": "mlpdopisi mlpversei ",
+      "blockquote": "mlpdopisi mlpversei mlpversei1 mlpversei2 mlpvenovanicxspfirst mlpvenovanicxsplast mlpverse ",
       "figure": "mlpobrazky ",
-      "em": "",
+      "em": "mlpdopispodpisi mlpdopisi mlpversei mlpversei1 mlpversei2 mlpznakkurziva11b ",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -1911,7 +1911,7 @@
       "identifier": "97345893-fb86-4b5f-8e3e-bad8be9a84df",
       "author": "Lewis Carroll",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-16T10:17:39.612Z"
+      "modified": "2021-09-16T10:58:35.078Z"
     },
     "chapters": [
       {
@@ -3622,6 +3622,6 @@
       "user": "books-are-next",
       "repo": "carroll-alenka-v-kraji-divu"
     },
-    "generatedAt": 1631787460907
+    "generatedAt": 1631789916774
   }
 }
