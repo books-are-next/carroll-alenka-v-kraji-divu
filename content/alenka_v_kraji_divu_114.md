@@ -10,53 +10,53 @@ Na stole vedle Alenky ležela kniha, a jak tak pozorovala Bílého Krále (měla
 
 Znělo to takto:
 
-> duopachalT  
+> _duopachalT  
 > inelezej ínrepsyL .rečevčavs eJ  
 > .ěvařkom v íječátrv ěnrív es  
 > inelchurtzor uosj icšuordah ířachteV  
-> .ěvarhuksonkset ítšys yvles a
+> .ěvarhuksonkset ítšys yvles a_
 
 Chvíli nad tím hloubala, až najednou jí blesklo hlavou: Ale ovšem, je to zrcadlová kniha! Když ji přidržím u zrcadla, slova zas půjdou správným směrem.
 
 Alenka četla tuto báseň:
 
-> Tlachapoud
+> _Tlachapoud_
 
-> Je svačvečer. Lysperní jezeleni  
+> _Je svačvečer. Lysperní jezeleni  
 > se vírně vrtáčejí v mokřavě.  
 > Vetchaří hadroušci jsou roztruchleni  
-> a selvy syští tesknoskuhravě.
+> a selvy syští tesknoskuhravě._
 
-> „Střež se, střež Tlachapouda, milý synu,  
+> _„Střež se, střež Tlachapouda, milý synu,  
 > má tlamu zubatou a ostrý dráp.  
 > Pták Zloškrv už se těší na hostinu,  
-> vzteklitě číhá na tě Pentlochňap.“
+> vzteklitě číhá na tě Pentlochňap.“_
 
-> Meč Šaršoun vytrh, pevně sevřel v dlani  
+> _Meč Šaršoun vytrh, pevně sevřel v dlani  
 > a v lese stopoval ty chvostnatce,  
 > pak pod strom Tumtum used v zadumání  
-> a hotovil se k divé šarvátce.
+> a hotovil se k divé šarvátce._
 
-> A když tak zachmurděně odpočíval,  
+> _A když tak zachmurděně odpočíval,  
 > tu z huňastého lesa Tlachapoud  
 > tam vtrhl šumohvizdně jako příval  
-> a s vrňoukáním chtěl ho napadnout.
+> a s vrňoukáním chtěl ho napadnout._
 
-> Ráz naráz sekal, šmik! šmik! v stínu stromů  
+> _Ráz naráz sekal, šmik! šmik! v stínu stromů  
 > Šaršounem mával stále lítěji,  
 > až hlavu uťal mu a potom domů  
-> se harcoslavně vrátil s trofejí.
+> se harcoslavně vrátil s trofejí._
 
-> „Pojď na má prsa, však to byla túra  
+> _„Pojď na má prsa, však to byla túra  
 > s tím Tlachapoudem, chlap jsi od kosti.  
 > Oj nádhernajs, oj bašta. Hoja! hurá!“  
-> a pochruchňával samou radostí.
+> a pochruchňával samou radostí._
 
-> Je svačvečer. Lysperní jezeleni  
+> _Je svačvečer. Lysperní jezeleni  
 > se vírně vrtáčejí v mokřavě.  
 > Vetchaří hadroušci jsou roztruchleni  
-> a selvy syští tesknoskuhravě.
+> a selvy syští tesknoskuhravě._
 
-„Velmi hezké,“ řekla si Alenka, když dočtla, „ale tak trochu nesrozumitelné!“ (Nechtěla si totiž přiznat, že se v tom vůbec nevyzná.) „Všelico mě sice napadá – ale nevím, co si z toho mám vybrat! Někdo tam něco zabil: to je jisté –“
+„Velmi hezké,“ řekla si Alenka, když dočtla, „ale tak trochu nesrozumitelné!“ (Nechtěla si totiž přiznat, že se v tom vůbec nevyzná.) „Všelico mě sice napadá – ale nevím, co si z toho mám vybrat! _Někdo_ tam _něco_ zabil: to je jisté –“
 
 „Ach jéje!“ Alenka sebou trhla. „Jestli si nepospíším, budu se musit vrátit zrcadlem a ostatek domu vůbec neuvidím! Koukněme se nejprve na zahradu!“ A už byla venku z pokoje a běžela po schodech – ale spíše než běh byl to, jak si Alenka řekla, nový způsob, jak se dostat snadno a rychle ze schodů. S konečky prstů na zábradlí, aniž se nohama dotýkala schodů, snesla se lehce dolů a dál chodbou, a kdyby se nebyla zachytila o veřeje, málem se octla venku ze dveří. Z toho vznášení se jí točila hlava a byla docela ráda, že zase jde po zemi jako jindy.

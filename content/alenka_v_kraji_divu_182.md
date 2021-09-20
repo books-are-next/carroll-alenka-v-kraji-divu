@@ -44,19 +44,19 @@ Alenka nevycházela z údivu; myslila na pudink.
 
 „Nebo co?“ zeptala se Alenka, protože se Jezdec odmlčel.
 
-„Nebo nevyhrknou. Názvu té písničky se říká Tresčí oči.“
+„Nebo nevyhrknou. Názvu té písničky se říká _Tresčí oči_.“
 
 „To je název té písničky, ne?“ Alenka dělala, že ji to zajímá.
 
-„Ty mi nerozumíš,“ řekl rozmrzele Jezdec. „Tak se tomu názvu říká. Název vlastně je Stařeček.“
+„Ty mi nerozumíš,“ řekl rozmrzele Jezdec. „Tak se tomu názvu říká. Název vlastně je _Stařeček_.“
 
 „To jsem tedy měla říct: ‚Tak se té písničce říká?‘“ opravila se Alenka.
 
-„Ne, neměla. To je něco jiného. Písničce se říká Návod, jak zbohatnout, ale to se jí jenom tak říká.“
+„Ne, neměla. To je něco jiného. Písničce se říká _Návod, jak zbohatnout_, ale to se jí jenom tak říká.“
 
 „Tak jaká je ta písnička,“ Alenka už z toho byla nadobro popletená.
 
-„Už jsem u toho,“ řekl Jezdec. „Ta písnička je vlastně Seděl na brance. Nápěv je taky můj vynález.“
+„Už jsem u toho,“ řekl Jezdec. „Ta písnička je vlastně _Seděl na brance._ Nápěv je taky můj vynález.“
 
 Po těch slovech zarazil koně a spustil mu otěže na šíji. Jednou rukou si zvolna taktoval, po ušlechtilém bláhovém obličeji mu pohrával úsměv a tak začal zpívat.
 

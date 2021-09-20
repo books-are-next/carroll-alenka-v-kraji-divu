@@ -14,15 +14,15 @@ Jak tak strnule stáli, nadobro zapomněla, že jsou živí, a prohlížela si j
 
 „Odpusťte mi to prosím,“ vypravila ze sebe Alenka; slova staré písničky zněla jí v hlavě jako tikot hodin a jen taktak že je neodříkala nahlas:
 
-> Tydliták vám s Tydlitkem  
+> _Tydliták vám s Tydlitkem  
 >          začal divou rvačku,  
 > protože mu Tydlitek  
->          šlápl na řehtačku.
+>          šlápl na řehtačku._
 
-> Najednou, propánajána!  
+> _Najednou, propánajána!  
 >          ti se ale lekli,  
 > přiletěla černá vrána,  
->          hned se rozutekli.
+>          hned se rozutekli._
 
 „Já vím, nač myslíš,“ řekl Tydliták, „jenže tak to není, nikterak.“
 

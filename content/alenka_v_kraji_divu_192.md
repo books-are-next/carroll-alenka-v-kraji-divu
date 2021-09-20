@@ -14,31 +14,31 @@ title: ''
 
 Vtom se dveře rozlétly a někdo pronikavým hlasem prozpěvoval:
 
-> Kolem se Alenka rozhlédla pátravě:  
+> _Kolem se Alenka rozhlédla pátravě:  
 > „Žezlo mám v dlani a korunu na hlavě,  
 > poddaným zazrcadlovým až pokynu,  
-> každý nechť pospíchá na slavnou hostinu.“
+> každý nechť pospíchá na slavnou hostinu.“_
 
 Stovky hlasů pak spustily refrén:
 
-Po okraj dolejte šumivé koflíky,  
-na stole rozhoďte otruby s knoflíky,  
-myši šup do čaje a kočky do kávy –  
-každý nechť Královnu Alenku třikrát po třiceti pozdraví.
+> _Po okraj dolejte šumivé koflíky,  
+> na stole rozhoďte otruby s knoflíky,  
+> myši šup do čaje a kočky do kávy –  
+> každý nechť Královnu Alenku třikrát po třiceti pozdraví._
 
 Potom se ozvalo hlomozné provolávání slávy a Alenka si řekla: „Třikrát po třiceti je devadesát. Jestlipak to někdo počítá?“ Rozhostilo se ticho a někdo zas pronikavým hlasem zpíval další sloku:
 
-> Všichni vy zazrcadloví mí poddaní,  
+> _Všichni vy zazrcadloví mí poddaní,  
 > přistupte ke mně blíž, nestrpím meškání,  
 > za vzácnou výsadu vzdejte hold děkovný.  
-> Vítá vás Alenka, s ní obě Královny.
+> Vítá vás Alenka, s ní obě Královny._
 
 A zase se ozval refrén:
 
-Sirup a inkoust v číších nechť nechybí  
-neb nápoj jinačí podobně přelibý,  
-šup vlnu do vína do moštu píseček skřípavý –  
-každý nechť Královnu Alenku devětkrát po devadesáti pozdraví.
+> _Sirup a inkoust v číších nechť nechybí  
+> neb nápoj jinačí podobně přelibý,  
+> šup vlnu do vína do moštu píseček skřípavý –  
+> každý nechť Královnu Alenku devětkrát po devadesáti pozdraví._
 
 „Devětkrát po devadesáti!“ opakovala zoufale Alenka. „To nikdo nedokáže! Půjdu rovnou dovnitř –“ Vešla, a jen se tam objevila, nastalo hrobové ticho.
 

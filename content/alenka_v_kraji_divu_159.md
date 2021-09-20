@@ -18,9 +18,9 @@ Valihrach jí zase jediný pohled neuštědřil a řekl: „Někteří lidé nem
 
 Alenka se nezmohla na odpověď; jakápak rozmluva, pomyslila si, když on s ní nemluví – to, co naposled řekl, zřejmě platí stromu –, a tak stála a potichu si odříkávala:
 
-> Valihrach ze zídky spad jako knedlík.  
+> _Valihrach ze zídky spad jako knedlík.  
 > Královská kavalerie,  
 > královská infanterie  
-> ho zvedaly a zvedaly, a přece neuzvedly.
+> ho zvedaly a zvedaly, a přece neuzvedly._
 
 „Poslední řádek je na tu básničku moc dlouhý,“ pronesla polohlasem; že ji Valihrach uslyší, na to docela zapomněla.

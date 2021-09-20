@@ -64,4 +64,4 @@ Nakonec řekl Noh Paželvovi: „Tak povídej dál, kamaráde, ať to netrvá ce
 
 „To vůbec ne,“ nadurdila se Alenka.
 
-„Á! Tak to moc dobrá škola nebyla,“ oddychl si Paželv. „To u nás jsme měli na konci vysvědčení nepovinné předměty: Francouzština a hudba a prádlo.“
+„Á! Tak to moc dobrá škola nebyla,“ oddychl si Paželv. „To u nás jsme měli na konci vysvědčení nepovinné předměty: Francouzština a hudba a _prádlo_.“

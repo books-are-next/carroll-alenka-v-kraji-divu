@@ -18,8 +18,8 @@ Na Vévodkyni už docela zapomněla a skoro se lekla, když se jí ozvala u sam�
 
 Že se na ni tolik lepí, to nebylo Alence po chuti. Předně je tuze ošklivá; a za druhé jí sahá bradou právě na rameno, a jak se o ně opírá, bradu má protivně špičatou. Ale nechtěla k ní být nezdvořilá a snášela to statečně. „Jak se zdá, jde jim hra lépe,“ řekla.
 
-„Tak jest,“ řekla Vévodkyně. „A z toho plyne naučení – že světem hýbe láska!“
+„Tak jest,“ řekla Vévodkyně. „A z toho plyne naučení – _že světem hýbe láska!_“
 
 „Někdo řekl,“ zašeptala Alenka, „že se svět hýbe tehdy, když si každý hledí svého!“
 
-„No dobře! To je skoro totéž,“ řekla Vévodkyně, špičatou bradu zaryla do Alenčina ramene a dodala: „A z toho plyne naučení – dbej na smysl, slova přijdou sama_._“
+„No dobře! To je skoro totéž,“ řekla Vévodkyně, špičatou bradu zaryla do Alenčina ramene a dodala: „A z toho plyne naučení – _dbej na smysl, slova přijdou sama__._“

@@ -14,7 +14,7 @@ Vypadali úplně jako školáci, a tak Alenka bezděky ukázala na Tydlitáka pr
 
 Alence se nechtělo podávat ruku napřed jednomu, aby se snad druhý neurazil; pomohla si tím, že je oba popadla za ruce najednou – a už se točili dokolečka dokola. Jak si potom vzpomínala, připadalo jí to tehdy samozřejmé a nic se nedivila, že jim vyhrává hudba. Ozývala se ze stromu, pod nímž tančili, a vyluzovaly ji, jak se zdálo, větve. Třely se o sebe jako housle a smyčec.
 
-„K smíchu mi to přece jen bylo“ (vyprávěla o tom později Alenka sestře), „že zpívám Kolo, kolo mlýnský. Kdy jsem se dala do zpěvu, nevím, ale připadalo mi, že zpívám dlouho a dlouho!“
+„K smíchu mi to přece jen bylo“ (vyprávěla o tom později Alenka sestře), „že zpívám _Kolo, kolo mlýnský_. Kdy jsem se dala do zpěvu, nevím, ale připadalo mi, že zpívám dlouho a dlouho!“
 
 Druzí dva tanečníci se při své tloušťce brzy zadýchali. „Čtyřikrát dokola je na jeden tanec až dost,“ hekal Tydliták, a jak se roztočili, právě tak naráz přestali. V tu chvíli umlkla také hudba.
 
@@ -30,31 +30,31 @@ Pustili Alenčiny ruce a chvíli na ni koukali. Alenka tonula v trapných rozpac
 
 „Kterou mám přednášet?“ Tydlitek se vážně vykulenýma očima ohlédl po Tydlitákovi a Alenčiny otázky si nevšímal.
 
-„Nejdelší je Mrož a tesař,“ odpověděl mu bratr a něžně ho přitiskl k sobě. Tydlitek hned spustil:
+„Nejdelší je _Mrož a tesař,_“ odpověděl mu bratr a něžně ho přitiskl k sobě. Tydlitek hned spustil:
 
-> Nad mořem vyšlo slunečko –
+> _Nad mořem vyšlo slunečko –_
 
 A tu se Alenka osmělila skočit mu do řeči: „Jestli je ta báseň hodně dlouhá,“ řekla co nejzdvořileji, „povězte mi prosím, kudy –“
 
 Tydlitek se vlídně usmál a spustil znovu:
 
-> Nad mořem vyšlo slunečko  
+> _Nad mořem vyšlo slunečko  
 > a září planoucí  
 > zlatilo vlnky, snažilo  
 > se příboj přemoci –  
 > Divná to věru, divná věc:  
-> bylo už k půlnoci.
+> bylo už k půlnoci._
 
-> Luna, ta nad tím pořádkem  
+> _Luna, ta nad tím pořádkem  
 > jen hlavou vrtěla  
 > a na neslušné slunečko  
 > zlost měla docela –  
 > Takhle jí kazit řemeslo,  
-> to se přec nedělá!
+> to se přec nedělá!_
 
-> Mokře, přemokře vlnil se  
+> _Mokře, přemokře vlnil se  
 > mohutný mořský proud,  
 > a přece písek na břehu  
 > byl suchý jako troud.  
 > Obláčky nikde, proto je  
-> neviděl nikdo plout.
+> neviděl nikdo plout._

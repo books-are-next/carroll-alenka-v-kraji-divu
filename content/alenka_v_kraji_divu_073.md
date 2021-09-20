@@ -8,7 +8,7 @@ Ta hledá ve všem naučení, pomyslila si Alenka.
 
 „Třeba vás štípne,“ varovala ji Alenka, protože nestála Vévodkyni o to, aby to zkusila.
 
-„To je pravda,“ řekla Vévodkyně, „plameňák a hořčice štípou. Z toho plyne naučení – vrána k vráně sedá, rovný rovného si hledá_._“
+„To je pravda,“ řekla Vévodkyně, „plameňák a hořčice štípou. Z toho plyne naučení – _vrána k vráně sedá, rovný rovného si hledá__._“
 
 „Jenže hořčice není pták,“ podotkla Alenka.
 
@@ -16,11 +16,11 @@ Ta hledá ve všem naučení, pomyslila si Alenka.
 
 „Je to myslím nerost,“ řekla Alenka.
 
-„Samozřejmě.“ Vévodkyně si nejspíš umínila na všechno jí přizvukovat. „Jsou tady opodál velké hořčicové doly. Z toho plyne naučení – tam, kde jsou doly, nejsou žádné hory.“
+„Samozřejmě.“ Vévodkyně si nejspíš umínila na všechno jí přizvukovat. „Jsou tady opodál velké hořčicové doly. Z toho plyne naučení – _tam, kde jsou doly, nejsou žádné hory_.“
 
 „Už to mám!“ Alenka poslední větu přeslechla. „Je to zelenina. Nevypadá jako zelenina, ale je.“
 
-„Úplně s tebou souhlasím,“ řekla Vévodkyně, „a z toho plyne naučení – buď tím, čím se zdáš – nebo stručně řečeno – nikdy se nedomýšlej, že nejsi jiná, než by ses jiným mohla zdát, že buď jsi, nebo jsi byla, a nejiná, než by ses jim byla bývala zdála_._“
+„Úplně s tebou souhlasím,“ řekla Vévodkyně, „a z toho plyne naučení – _buď tím, čím se zdáš_ – nebo stručně řečeno – _nikdy se nedomýšlej, že nejsi jiná, než by ses jiným mohla zdát, že buď jsi, nebo jsi byla, a nejiná, než by ses jim byla bývala zdála__._“
 
 „Snad bych to lépe pochopila,“ řekla Alenka zdvořile, „kdybych si to napsala – když to povídáte, nějak mi to není jasné.“
 

@@ -6,15 +6,15 @@ Alenka zvedla rukavice a vějíř, a protože bylo v síni horko, ovívala se a 
 
 „Určitě nejsem Ada,“ řekla si Alenka, „ona má takové dlouhé lokýnky a já nemám žádné; a Mabel přece taky nejsem, já toho tolik umím a ona, ach, ta neumí skoro nic! A ostatně ona je ona a já jsem já – a vůbec, je to záhada! Zkusím, jestli ještě umím, co jsem dřív uměla. Tak tedy: čtyřikrát pět je dvanáct, čtyřikrát šest je třináct, čtyřikrát sedm je – ach, jéje! Takhle se do dvaceti vůbec nedopočítám! Ale na násobilce tolik nezáleží, zkusíme to se zeměpisem. Londýn je hlavní město Paříže a Paříž je hlavní město Říma a Řím – kdepak, tak to vůbec není. Nejspíš jsem se proměnila v Mabel. Zkusím odříkat ‚Nad Berounkou‘ –“ Složila ruce v klín, jako by odříkávala úlohu, a spustila, ale hlas měla chraplavý a cizí a slova nezněla stejně jako dřív:
 
-> Na Berounce pod Tetínem  
+> _Na Berounce pod Tetínem  
 > krokodýl se vyhřívá,  
 > hoví si v tom proudu líném  
-> jako kláda neživá.
+> jako kláda neživá._
 
-> Potutelně usmívá se  
+> _Potutelně usmívá se  
 > v šupinatém pancíři,  
 > očkem po rybičkách pase,  
-> zda mu ve chřtán zamíří.
+> zda mu ve chřtán zamíří._
 
 „Takhle to jistě není,“ řekla Alenka a znovu se jí zalily oči slzami, když povídala: „To už je jisté, je ze mě Mabel, teď se musím odstěhovat do toho jejich baráčku, hračky žádné a ouvej! toho učení! Kdepak, už to mám; jestli jsem Mabel, zůstanu tady! Jen ať si sem strkají hlavu a volají: ‚Pojď ven, milánku!‘ Jenom zvednu hlavu a řeknu: ‚Tak kdo tedy jsem? Napřed mi to povězte, a když budu tou osobou ráda, vyjdu ven – když ne, zůstanu tady, dokud se nestanu někým jiným.‘ Ach jéje,“ Alenka se znovu rozplakala: „Kdyby sem tak někdo strčil hlavu! Už se mi tu nechce být tak sama!“
 

@@ -126,7 +126,7 @@ Alenka jí podle příkazu přihlazovala vlasy a řekla: „Nemám s sebou nočn
 
 „Co naplat, tak jí zazpívám sama,“ řekla Černá Královna a spustila:
 
-> Spinkej sladce v Alenčině klíně,  
+> _Spinkej sladce v Alenčině klíně,  
 > krasavice, půjdem po hostině –  
 > Alenka a obě Královny –  
-> zatančit si na ples čarovný.
+> zatančit si na ples čarovný._
