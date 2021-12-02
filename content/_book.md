@@ -9,7 +9,11 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-09-16T10:11:07.580Z'
   languageCode: cs
-chapters:
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
+  - alenka_v_kraji_divu_002.html
+  - alenka_v_kraji_divu_003.html
   - alenka_v_kraji_divu_005.html
   - alenka_v_kraji_divu_006.html
   - alenka_v_kraji_divu_007.html
@@ -210,6 +214,7 @@ chapters:
   - alenka_v_kraji_divu_202.html
   - alenka_v_kraji_divu_203.html
   - alenka_v_kraji_divu_204.html
+  - colophon.html
 tocBase:
   - link: alenka_v_kraji_divu_007.html
     title: Alenka v kraji divů
@@ -219,7 +224,9 @@ tocBase:
       - link: alenka_v_kraji_divu_017.html
         title: Kaluž slz
       - link: alenka_v_kraji_divu_024.html
-        title: Kuriální závod a sáhodlouhý obrázek
+        title: |-
+          Kuriální závod
+          a sáhodlouhý obrázek
       - link: alenka_v_kraji_divu_029.html
         title: O tom, jak Vilík komínem vylít
       - link: alenka_v_kraji_divu_037.html
@@ -238,7 +245,6 @@ tocBase:
         title: Kdo ukradl vdolky
       - link: alenka_v_kraji_divu_089.html
         title: Alenčino svědectví
-    numberedChildren: false
   - link: alenka_v_kraji_divu_097.html
     title: Za zrcadlem, a s čím se tam Alenka setkala
     children:
@@ -268,7 +274,6 @@ tocBase:
         title: Probuzení
       - link: alenka_v_kraji_divu_201.html
         title: Komu se to zdálo?
-    numberedChildren: false
   - link: alenka_v_kraji_divu_204.html
     title: O autorovi Alenčiných dobrodružných příběhů
 static:
@@ -277,5 +282,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
