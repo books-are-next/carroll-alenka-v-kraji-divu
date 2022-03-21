@@ -1,12 +1,13 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Alenka v kraji divů a za zrcadlem",
       "identifier": "97345893-fb86-4b5f-8e3e-bad8be9a84df",
       "author": "Lewis Carroll",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-16T10:11:07.580Z",
-      "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie"
     },
@@ -37,25 +38,28 @@
         "role": "cover",
         "inToc": true,
         "listType": "plain",
-        "children": []
+        "children": [],
+        "devoured": false
       },
       {
         "filename": "alenka_v_kraji_divu_002.md",
         "xhtml": "alenka_v_kraji_divu_002.html",
         "id": 1,
         "role": "chapter",
-        "inToc": true,
+        "inToc": false,
         "listType": "plain",
-        "children": []
+        "children": [],
+        "devoured": false
       },
       {
         "filename": "alenka_v_kraji_divu_003.md",
         "xhtml": "alenka_v_kraji_divu_003.html",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "inToc": true,
         "listType": "plain",
-        "children": []
+        "children": [],
+        "devoured": false
       },
       {
         "filename": "alenka_v_kraji_divu_004.md",
@@ -64,7 +68,8 @@
         "role": "colophon",
         "inToc": true,
         "listType": "plain",
-        "children": []
+        "children": [],
+        "devoured": false
       },
       {
         "filename": "alenka_v_kraji_divu_005.md",
@@ -73,7 +78,10 @@
         "role": "chapter",
         "inToc": true,
         "listType": "plain",
-        "children": []
+        "children": [],
+        "devoured": false,
+        "title": "Věnování",
+        "hiddenTitle": true
       },
       {
         "filename": "alenka_v_kraji_divu_006.md",
@@ -82,13 +90,14 @@
         "role": "break",
         "inToc": true,
         "listType": "plain",
-        "children": []
+        "children": [],
+        "devoured": false
       },
       {
         "filename": "alenka_v_kraji_divu_007.md",
         "xhtml": "alenka_v_kraji_divu_007.html",
         "id": 6,
-        "role": "break",
+        "role": "chapter",
         "inToc": true,
         "title": "Alenka v kraji divů",
         "listType": "plain",
@@ -101,7 +110,9 @@
             "inToc": true,
             "title": "Dolů králičí dírou",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "hungry": true,
+            "devoured": false
           },
           {
             "filename": "alenka_v_kraji_divu_009.md",
@@ -110,7 +121,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_010.md",
@@ -119,7 +131,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_011.md",
@@ -128,7 +141,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_012.md",
@@ -137,7 +151,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_013.md",
@@ -146,7 +161,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_014.md",
@@ -155,7 +171,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_015.md",
@@ -164,7 +181,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_016.md",
@@ -173,7 +191,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_017.md",
@@ -183,7 +202,9 @@
             "inToc": true,
             "title": "Kaluž slz",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_018.md",
@@ -192,7 +213,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_019.md",
@@ -201,7 +223,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_020.md",
@@ -210,7 +233,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_021.md",
@@ -219,7 +243,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_022.md",
@@ -228,7 +253,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_023.md",
@@ -237,7 +263,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_024.md",
@@ -247,7 +274,9 @@
             "inToc": true,
             "title": "Kuriální závod\na sáhodlouhý obrázek",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_025.md",
@@ -256,7 +285,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_026.md",
@@ -265,7 +295,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_027.md",
@@ -274,7 +305,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_028.md",
@@ -283,7 +315,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_029.md",
@@ -293,7 +326,9 @@
             "inToc": true,
             "title": "O tom, jak Vilík komínem vylít",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_030.md",
@@ -302,7 +337,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_031.md",
@@ -311,7 +347,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_032.md",
@@ -320,7 +357,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_033.md",
@@ -329,7 +367,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_034.md",
@@ -338,7 +377,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_035.md",
@@ -347,7 +387,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_036.md",
@@ -356,7 +397,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_037.md",
@@ -366,7 +408,9 @@
             "inToc": true,
             "title": "Houseňákova rada",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_038.md",
@@ -375,7 +419,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_039.md",
@@ -384,7 +429,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_040.md",
@@ -393,7 +439,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_041.md",
@@ -402,7 +449,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_042.md",
@@ -411,7 +459,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_043.md",
@@ -420,7 +469,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_044.md",
@@ -429,7 +479,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_045.md",
@@ -439,7 +490,9 @@
             "inToc": true,
             "title": "Vepř a pepř",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_046.md",
@@ -448,7 +501,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_047.md",
@@ -457,7 +511,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_048.md",
@@ -466,7 +521,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_049.md",
@@ -475,7 +531,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_050.md",
@@ -484,7 +541,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_051.md",
@@ -493,7 +551,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_052.md",
@@ -502,7 +561,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_053.md",
@@ -511,7 +571,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_054.md",
@@ -520,7 +581,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_055.md",
@@ -530,7 +592,9 @@
             "inToc": true,
             "title": "Bláznivá svačina",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_056.md",
@@ -539,7 +603,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_057.md",
@@ -548,7 +613,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_058.md",
@@ -557,7 +623,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_059.md",
@@ -566,7 +633,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_060.md",
@@ -575,7 +643,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_061.md",
@@ -584,7 +653,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_062.md",
@@ -594,7 +664,9 @@
             "inToc": true,
             "title": "Královnino kroketové hřiště",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_063.md",
@@ -603,7 +675,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_064.md",
@@ -612,7 +685,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_065.md",
@@ -621,7 +695,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_066.md",
@@ -630,7 +705,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_067.md",
@@ -639,7 +715,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_068.md",
@@ -648,7 +725,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_069.md",
@@ -657,7 +735,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_070.md",
@@ -666,7 +745,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_071.md",
@@ -676,7 +756,9 @@
             "inToc": true,
             "title": "Paželví povídka",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_072.md",
@@ -685,7 +767,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_073.md",
@@ -694,7 +777,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_074.md",
@@ -703,7 +787,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_075.md",
@@ -712,7 +797,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_076.md",
@@ -721,7 +807,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_077.md",
@@ -730,7 +817,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_078.md",
@@ -740,7 +828,9 @@
             "inToc": true,
             "title": "Humří čtverylka",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_079.md",
@@ -749,7 +839,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_080.md",
@@ -758,7 +849,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_081.md",
@@ -767,7 +859,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_082.md",
@@ -776,7 +869,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_083.md",
@@ -786,7 +880,9 @@
             "inToc": true,
             "title": "Kdo ukradl vdolky",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_084.md",
@@ -795,7 +891,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_085.md",
@@ -804,7 +901,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_086.md",
@@ -813,7 +911,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_087.md",
@@ -822,7 +921,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_088.md",
@@ -831,7 +931,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_089.md",
@@ -841,7 +942,9 @@
             "inToc": true,
             "title": "Alenčino svědectví",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_090.md",
@@ -850,7 +953,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_091.md",
@@ -859,7 +963,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_092.md",
@@ -868,7 +973,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_093.md",
@@ -877,7 +983,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_094.md",
@@ -886,7 +993,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_095.md",
@@ -895,18 +1003,22 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
+          },
+          {
+            "filename": "alenka_v_kraji_divu_096.md",
+            "xhtml": "alenka_v_kraji_divu_096.html",
+            "id": 95,
+            "role": "chapter",
+            "inToc": true,
+            "listType": "plain",
+            "children": [],
+            "devoured": true,
+            "hungry": false
           }
-        ]
-      },
-      {
-        "filename": "alenka_v_kraji_divu_096.md",
-        "xhtml": "alenka_v_kraji_divu_096.html",
-        "id": 95,
-        "role": "break",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
+        ],
+        "devoured": false
       },
       {
         "filename": "alenka_v_kraji_divu_097.md",
@@ -924,7 +1036,9 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": false
           },
           {
             "filename": "alenka_v_kraji_divu_099.md",
@@ -934,7 +1048,8 @@
             "inToc": true,
             "title": "Předmluva",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false
           },
           {
             "filename": "alenka_v_kraji_divu_100.md",
@@ -944,7 +1059,9 @@
             "inToc": true,
             "title": "Dům za zrcadlem",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_101.md",
@@ -953,7 +1070,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_102.md",
@@ -962,7 +1080,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_103.md",
@@ -971,7 +1090,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_104.md",
@@ -980,7 +1100,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_105.md",
@@ -989,7 +1110,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_106.md",
@@ -998,7 +1120,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_107.md",
@@ -1007,7 +1130,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_108.md",
@@ -1016,7 +1140,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_109.md",
@@ -1025,7 +1150,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_110.md",
@@ -1034,7 +1160,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_111.md",
@@ -1043,7 +1170,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_112.md",
@@ -1052,7 +1180,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_113.md",
@@ -1061,7 +1190,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_114.md",
@@ -1070,7 +1200,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_115.md",
@@ -1079,7 +1210,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_116.md",
@@ -1089,7 +1221,9 @@
             "inToc": true,
             "title": "Zahrada živých květin",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_117.md",
@@ -1098,7 +1232,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_118.md",
@@ -1107,7 +1242,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_119.md",
@@ -1116,7 +1252,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_120.md",
@@ -1125,7 +1262,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_121.md",
@@ -1134,7 +1272,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_122.md",
@@ -1143,7 +1282,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_123.md",
@@ -1152,7 +1292,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_124.md",
@@ -1161,7 +1302,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_125.md",
@@ -1171,7 +1313,9 @@
             "inToc": true,
             "title": "Hmyz za zrcadlem",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_126.md",
@@ -1180,7 +1324,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_127.md",
@@ -1189,7 +1334,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_128.md",
@@ -1198,7 +1344,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_129.md",
@@ -1207,7 +1354,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_130.md",
@@ -1216,7 +1364,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_131.md",
@@ -1225,7 +1374,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_132.md",
@@ -1234,7 +1384,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_133.md",
@@ -1243,7 +1394,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_134.md",
@@ -1252,7 +1404,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_135.md",
@@ -1262,7 +1415,9 @@
             "inToc": true,
             "title": "Tydliták a Tydlitek",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_136.md",
@@ -1271,7 +1426,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_137.md",
@@ -1280,7 +1436,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_138.md",
@@ -1289,7 +1446,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_139.md",
@@ -1298,7 +1456,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_140.md",
@@ -1307,7 +1466,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_141.md",
@@ -1316,7 +1476,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_142.md",
@@ -1325,7 +1486,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_143.md",
@@ -1334,7 +1496,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_144.md",
@@ -1343,7 +1506,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_145.md",
@@ -1352,7 +1516,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_146.md",
@@ -1361,7 +1526,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_147.md",
@@ -1370,7 +1536,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_148.md",
@@ -1379,7 +1546,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_149.md",
@@ -1388,7 +1556,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_150.md",
@@ -1398,7 +1567,9 @@
             "inToc": true,
             "title": "Vlna a voda",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_151.md",
@@ -1407,7 +1578,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_152.md",
@@ -1416,7 +1588,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_153.md",
@@ -1425,7 +1598,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_154.md",
@@ -1434,7 +1608,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_155.md",
@@ -1443,7 +1618,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_156.md",
@@ -1452,7 +1628,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_157.md",
@@ -1461,7 +1638,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_158.md",
@@ -1470,7 +1648,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_159.md",
@@ -1480,7 +1659,9 @@
             "inToc": true,
             "title": "Valihrach",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_160.md",
@@ -1489,7 +1670,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_161.md",
@@ -1498,7 +1680,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_162.md",
@@ -1507,7 +1690,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_163.md",
@@ -1516,7 +1700,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_164.md",
@@ -1525,7 +1710,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_165.md",
@@ -1535,7 +1721,9 @@
             "inToc": true,
             "title": "Lev a jednorožec",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_166.md",
@@ -1544,7 +1732,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_167.md",
@@ -1553,7 +1742,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_168.md",
@@ -1562,7 +1752,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_169.md",
@@ -1571,7 +1762,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_170.md",
@@ -1580,7 +1772,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_171.md",
@@ -1589,7 +1782,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_172.md",
@@ -1598,7 +1792,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_173.md",
@@ -1607,7 +1802,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_174.md",
@@ -1616,7 +1812,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_175.md",
@@ -1625,7 +1822,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_176.md",
@@ -1635,7 +1833,9 @@
             "inToc": true,
             "title": "„Je to můj vynález“",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_177.md",
@@ -1644,7 +1844,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_178.md",
@@ -1653,7 +1854,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_179.md",
@@ -1662,7 +1864,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_180.md",
@@ -1671,7 +1874,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_181.md",
@@ -1680,7 +1884,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_182.md",
@@ -1689,7 +1894,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_183.md",
@@ -1698,7 +1904,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_184.md",
@@ -1707,7 +1914,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_185.md",
@@ -1716,7 +1924,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_186.md",
@@ -1726,7 +1935,9 @@
             "inToc": true,
             "title": "Královna Alenka",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_187.md",
@@ -1735,7 +1946,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_188.md",
@@ -1744,7 +1956,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_189.md",
@@ -1753,7 +1966,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_190.md",
@@ -1762,7 +1976,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_191.md",
@@ -1771,7 +1986,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_192.md",
@@ -1780,7 +1996,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_193.md",
@@ -1789,7 +2006,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_194.md",
@@ -1798,7 +2016,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_195.md",
@@ -1807,7 +2026,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_196.md",
@@ -1816,7 +2036,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_197.md",
@@ -1826,7 +2047,9 @@
             "inToc": true,
             "title": "Třesení",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_198.md",
@@ -1835,7 +2058,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_199.md",
@@ -1845,7 +2069,9 @@
             "inToc": true,
             "title": "Probuzení",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_200.md",
@@ -1854,7 +2080,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_201.md",
@@ -1864,7 +2091,9 @@
             "inToc": true,
             "title": "Komu se to zdálo?",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "alenka_v_kraji_divu_202.md",
@@ -1873,7 +2102,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "alenka_v_kraji_divu_203.md",
@@ -1882,9 +2112,11 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           }
-        ]
+        ],
+        "devoured": false
       },
       {
         "filename": "alenka_v_kraji_divu_204.md",
@@ -1894,7 +2126,8 @@
         "inToc": true,
         "title": "O autorovi Alenčiných dobrodružných příběhů",
         "listType": "plain",
-        "children": []
+        "children": [],
+        "devoured": false
       },
       {
         "filename": "alenka_v_kraji_divu_205.md",
@@ -1903,9 +2136,11 @@
         "role": "colophon",
         "inToc": true,
         "listType": "plain",
-        "children": []
+        "children": [],
+        "devoured": false
       }
-    ]
+    ],
+    "replacements": []
   },
   "epub": {
     "metadata": {
@@ -3624,6 +3859,6 @@
       "user": "books-are-next",
       "repo": "carroll-alenka-v-kraji-divu"
     },
-    "generatedAt": 1647855442214
+    "generatedAt": 1647856114634
   }
 }
