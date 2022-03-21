@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Vůbec se mi nelíbí,“ řekla Alenka, „ona je tak strašně –“ Tu si všimla, že Královna stojí přímo za ní a poslouchá, a tak dopověděla: „šikovná, že ani nestojí za to, hrát až do konce.“

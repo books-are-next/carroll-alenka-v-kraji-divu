@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „– nebo taky do pozítřka,“ dořekl lokaj stejným hlasem, jako by se nic nestalo.

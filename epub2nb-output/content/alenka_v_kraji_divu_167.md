@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Ba ne, neloudá se,“ řekl Král. „Je to anglosaský kurýr – a má anglosaský postoj. Ten zaujímá, jenom když je šťastný. Jmenuje se Švejda.“ (Vyslovil to tak, že se to rýmovalo na „strejda“.)

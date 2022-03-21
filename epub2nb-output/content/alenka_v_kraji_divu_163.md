@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „To je tolik jako syčet a svištět a uprostřed toho ještě zvuk, jako když kýchneš; však to možná – tamhle v lese – sama uslyšíš – a až to uslyšíš, budeš toho mít dost. Kdopak ti tu těžkou báseň odříkával?“

@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Dítě znovu zachrochtalo a Alenka se mu starostlivě zahleděla do tváře, co to s ním je. Nic naplat, nos mělo ohrnutý nahoru, byl to spíš rypáček než pořádný nos; také oči mělo na dítě příliš maličké; Alence se ten jeho kukuč vůbec nezamlouval. Snad jenom zavzlykalo, pomyslila si Alenka a znovu se koukla, má-li v očích slzy.

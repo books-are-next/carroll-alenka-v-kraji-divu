@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Kouzelná lahvička naštěstí už dále neúčinkovala, takže Alenka přestala růst. I tak jí bylo nepříjemně; vypadalo to, že v té světnici zůstane do smrti trčet, kdo by se tedy divil, že byla celá nešťastná.

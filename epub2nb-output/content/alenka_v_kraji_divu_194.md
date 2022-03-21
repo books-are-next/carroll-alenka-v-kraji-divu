@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Jsi nějaká nesmělá, dovol, abych ti představila Skopovou Kýtu,“ řekla Černá Královna. „Tohle je Alenka – tohle je Kýta. Tohle je Kýta – tohle je Alenka.“ Skopová Kýta na míse povstala a poklonila se Alence; Alenka jí poklonu oplatila a nevěděla, má-li se bát, nebo se smát.

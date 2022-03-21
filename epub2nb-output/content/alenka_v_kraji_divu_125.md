@@ -1,5 +1,6 @@
 ---
 title: Hmyz za zrcadlem
+contentType: prose
 ---
 
 Nejprve bylo ovšem nutno prozkoumat krajinu, po které měla putovat. Alenka si stoupla na špičky, že tak dohlédne kousek dál, a řekla si: „Je to, jako když se učím zeměpis. Největší řeky – žádné. Největší hory – je jediná a na té stojím, ale nijak se nejmenuje. Největší města – copak jsou to tamhle za stvoření, co dělají med? Včely to nebudou – copak je včelu vidět na míli daleko –“ a delší chvíli mlčky pozorovala, jak s hlomozem lítá od jedné květiny ke druhé a strká do nich chobot, „docela jako obyčejná včela,“ řekla si Alenka.

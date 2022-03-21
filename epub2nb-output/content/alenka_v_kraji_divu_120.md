@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „To je vyloučeno,“ řekla Růže, „radím ti, pusť se opačným směrem.“

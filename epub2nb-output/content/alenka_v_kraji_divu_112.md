@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Král padl naznak a zůstal bez hnutí ležet. Alenka se lekla, co to udělala, a po celém pokoji hledala vodu, aby ho pokropila. Ale našla jenom lahvičku s inkoustem, a když se s ní vrátila, Král už přišel k sobě a zděšeně si s Královnou šeptal – jenže tak potichu, že Alenka skoro neslyšela, co si říkají.

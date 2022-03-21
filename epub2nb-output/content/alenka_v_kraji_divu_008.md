@@ -1,5 +1,6 @@
 ---
 title: Dolů králičí dírou
+contentType: prose
 ---
 
 Alenku už mrzelo sedět na břehu vedle cesty a nic nedělat. Párkrát nakoukla sestře do rozečtené knížky, ale nebyly tam žádné obrázky a nic se tam nepovídalo, a co je do knížky, když v ní nejsou žádné obrázky a nic se tam nepovídá, řekla si Alenka.

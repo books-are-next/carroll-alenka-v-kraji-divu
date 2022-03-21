@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Ale ten nápěv není jeho vynález,“ řekla si, „je to jako _Co ten ptáček povídá_.“ Stála a napjatě poslouchala, ale slzy jí nevyhrkly.

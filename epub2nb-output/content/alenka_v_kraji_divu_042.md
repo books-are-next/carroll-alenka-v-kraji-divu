@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 > _Že jsem tuze starý? Ať!  

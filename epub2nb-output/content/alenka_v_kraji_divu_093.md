@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „A nebudu!“ řekla Alenka.

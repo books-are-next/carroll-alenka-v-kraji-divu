@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Vtom na stole něco zapištělo, Alenka se otočila a ještě zahlédla, jak se jeden Bílý Pěšec svalil a jak kolem sebe kope. Zvědavě se dívala, co bude dál.

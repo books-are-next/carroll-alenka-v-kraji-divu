@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Královna celá udýchaná nechala hry a zeptala se Alenky: „Už jsi viděla Paželva?“

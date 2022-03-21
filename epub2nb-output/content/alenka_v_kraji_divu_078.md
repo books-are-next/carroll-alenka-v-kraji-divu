@@ -1,5 +1,6 @@
 ---
 title: Humří čtverylka
+contentType: prose
 ---
 
 Paželv si zhluboka vzdychl a jednou prackou si otřel oči. Hleděl na Alenku, soukal ze sebe slova, ale hrdlo měl sevřené samým štkaním. „Jako by mu kost zaskočila,“ Noh jím zalomcoval a bouchal ho do zad. Posléze se Paželv zmohl na řeč a všecek uslzen takto hovořil dále:

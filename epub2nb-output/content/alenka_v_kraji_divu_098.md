@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 ![alenka_038](./resources/alenka_038.jpg)   

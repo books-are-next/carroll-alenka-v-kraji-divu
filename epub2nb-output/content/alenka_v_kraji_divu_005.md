@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 > _Svůj překlad obou knih Alenčiných dobrodružství  

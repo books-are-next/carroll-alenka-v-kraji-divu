@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Tamtím směrem,“ mávla kočka pravou tlapkou, „bydlí Švec. A tamtím směrem,“ a mávla druhou tlapkou, „bydlí Zajíc Březňák. Jdi si ke kterému chceš, oba jsou potrhlí.“

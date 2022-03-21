@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Toť se ví, že bezvýznamné,“ vyhrkl Král a potichu si pak odříkával „významné – bezvýznamné – bezvýznamné – významné –“, jako by zkoušel, co zní lépe.

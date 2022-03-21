@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Dobře žes mi to připomněla,“ řekla Vévodkyně, „usekněte jí hlavu!“

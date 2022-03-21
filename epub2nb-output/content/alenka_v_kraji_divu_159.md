@@ -1,5 +1,6 @@
 ---
 title: Valihrach
+contentType: prose
 ---
 
 Ale zatím vejce rostlo a rostlo do lidské podoby. Ze vzdálenosti několika metrů na něm Alenka rozeznala oči a nos a ústa; přistoupila až k němu a tu nade vši pochybnost zjistila, že je to sám Valihrach. „Nikdo jiný to být nemůže!“ řekla si. „Vím to jistě, jako by to měl na tváři napsáno!“

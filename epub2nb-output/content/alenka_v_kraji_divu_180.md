@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Skutálel se už popáté, Alenka ho zase vysadila a osmělila se prohodit: „Moc zkušeností v ježdění asi nemáte.“

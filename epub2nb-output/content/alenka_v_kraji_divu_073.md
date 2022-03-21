@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Ta hledá ve všem naučení, pomyslila si Alenka.

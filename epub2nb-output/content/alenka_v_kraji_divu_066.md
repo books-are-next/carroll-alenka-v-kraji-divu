@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Královna si už zatím prohlédla růže a přerušila ho: „No bodejť! Hlavu jim srazit!“ Průvod se hnul kupředu, zůstali tam jen tři vojáci – měli popravit zahradníky, jenže ti se uchýlili pod Alenčinu ochranu.

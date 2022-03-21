@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Hlasateli, přečtěte obžalobu!“ řekl Král.

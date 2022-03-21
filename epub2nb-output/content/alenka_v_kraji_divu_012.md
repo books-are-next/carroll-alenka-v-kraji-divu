@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 A potom zase spustila: „To jsem zvědavá, jestli propadnu skrz celou zeměkouli! To bude legrace, až vylezu u lidí, co chodí po hlavě! U Protichodců, myslím –“ (byla ráda, že ji teď nikdo neslyší, to slovo nějak správně neznělo) „– přece jen se budu muset zeptat, jak se to tam u nich jmenuje. Prosím vás, paní, je tady Nový Zéland nebo Austrálie?“ (při těch slovech se pokoušela uklonit – to je nápad, klanět se, když člověk padá! Jestlipak byste to dokázali?) „Co si ta paní o mně pomyslí, jaká jsem nevzdělaná holka! Ba ne, ptát se nebudu; třeba uvidím nějaký nápis.“

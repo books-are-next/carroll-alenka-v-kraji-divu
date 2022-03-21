@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Hodný jsem dost,“ řekl Král, „ale ne dost silný. Minoutka uteče jako nic. To bys spíš Pentlochňapa zastavila.“

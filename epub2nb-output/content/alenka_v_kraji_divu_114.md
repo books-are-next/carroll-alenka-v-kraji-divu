@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Chudák Král byl celý zmatený a chvíli s tužkou zápolil a nic neříkal; jenže Alenka byla silnější než on, a tak nakonec zahekal: „Musím si, má zlatá, opatřit tenčí tužku. Tuhle už nezvládnu; píše všechno možné, co ani nechci –“

@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Aby někdo tak hloupě vypadal, to jsem neviděla,“ pronesla Fialka tak neočekávaně, že sebou Alenka trhla; předtím totiž vůbec nemluvila.

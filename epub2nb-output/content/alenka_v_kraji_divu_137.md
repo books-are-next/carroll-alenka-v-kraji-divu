@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Ale tlouštíci jenom koukli po sobě a oba se ušklíbli.

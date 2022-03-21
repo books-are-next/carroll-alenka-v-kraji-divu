@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Někdo se zlostně rozkřikl – byl to Králík – „Anton! Anton! Kde jsi?“ a pak se ozval hlas, který Alenka dosud neslyšela: „Tade so! Vekopávám erteple, milospane!“

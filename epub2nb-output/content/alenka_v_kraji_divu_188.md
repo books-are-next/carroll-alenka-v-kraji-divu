@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Slušným způsobům se ve škole neučí,“ řekla Alenka, „tam se učí počtům a podobným věcem.“

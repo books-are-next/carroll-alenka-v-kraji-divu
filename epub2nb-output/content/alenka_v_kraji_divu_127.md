@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Vedle pána v bílých papírových šatech seděl Kozel; přivřel oči a silně zamečel: „Má vědět, jak se jde k pokladně, i když třeba neumí abecedu.“

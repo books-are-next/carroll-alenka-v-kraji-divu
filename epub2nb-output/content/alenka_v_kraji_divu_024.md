@@ -2,6 +2,7 @@
 title: |-
   Kuriální závod
   a sáhodlouhý obrázek
+contentType: prose
 ---
 
 Sešla se tam na břehu prapodivná cháska – ptáci s urousaným peřím a ostatní zvířata se zplihlou srstí, všichni promočení, podráždění, nevrlí.

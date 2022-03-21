@@ -1,5 +1,6 @@
 ---
 title: Dům za zrcadlem
+contentType: prose
 ---
 
 Tolik je jisté, že bílé kotě za to vůbec nemohlo; – jen a jen černé to mělo na svědomí. Bílé kotě si totiž už dobré čtvrt hodiny dalo od staré kočky umývat obličej (a celkem dobře to snášelo); tu nezbednost tedy ztropit nemohlo, to je jasné.

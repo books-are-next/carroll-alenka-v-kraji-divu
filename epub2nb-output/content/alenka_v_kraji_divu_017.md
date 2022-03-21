@@ -1,5 +1,6 @@
 ---
 title: Kaluž slz
+contentType: prose
 ---
 
 „Úžasnoucnější a úžasnoucnější!“ zvolala Alenka (tu chvíli zapomněla samým překvapením správně mluvit); „teď se zas vytahuji jako ten nejdelší dalekohled na světě. Sbohem, nožičky!“ (Když se totiž podívala na nohy, skoro na ně nedohlédla, tak byly daleko.) „Ach mé nožičky, kdo vám teď, chudinky, bude obouvat boty a punčochy? Já jistě ne! Budu od vás tuze daleko, kdepak bych se o vás mohla starat: musíte si poradit samy – ale musím na ně být hodná,“ řekla si Alenka, „nebo nepůjdou, kam budu chtít! Třeba jim dám vždycky nové boty pod stromeček.“

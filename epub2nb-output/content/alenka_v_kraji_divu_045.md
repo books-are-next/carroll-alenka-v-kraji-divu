@@ -1,5 +1,6 @@
 ---
 title: Vepř a pepř
+contentType: prose
 ---
 
 Alenka chvíli koukala na domek a uvažovala, co má dělat, a tu přiběhl z lesa livrejovaný lokaj – za lokaje ho pokládala, protože měl livrej (jinak podle obličeje by hádala spíše na rybu) – a zabušil kotníky na dveře. Otevřel mu jiný livrejovaný lokaj s kulatou tváří a vykulenýma žabíma očima; jak si Alenka všimla, oba lokajové měli po celé hlavě napudrované kadeře. Byla zvědavá, co to znamená, a vyplížila se z lesa, aby si je poslechla.

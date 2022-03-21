@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „A proč jsem ho měla udělat?“ divila se Alenka. „Vždyť je špatný.“ Ale Komár jenom hluboce vzdychl a po lících mu skanuly dvě veliké slzy.

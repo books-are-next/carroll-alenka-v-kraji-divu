@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Mluv jasně!“ řekl Orlík. „Já těm dlouhatánským slovům nerozumím a ostatně ty, jak se mi zdá, taky ne!“ A Orlík sklopil hlavu, aby nebylo vidět, jak se usmívá, zato jiní ptáci se uchichtli.

@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Moc ráda,“ řekla Alenka.

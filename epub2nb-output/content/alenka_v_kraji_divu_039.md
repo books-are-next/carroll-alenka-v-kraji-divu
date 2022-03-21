@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 To věru vypadalo slibně; Alenka se otočila a šla zpátky.

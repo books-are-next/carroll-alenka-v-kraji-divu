@@ -1,5 +1,6 @@
 ---
 title: Královnino kroketové hřiště
+contentType: prose
 ---
 
 U vchodu do zahrady stál velký růžový štěp. Rostly na něm bílé růže, ale tři zahradníci je usilovně přetírali na červeno. Alence to bylo velmi divné, šla se tedy na ně podívat zblízka, a když k nim došla, zaslechla: „Dávej pozor, Pětko! Nestříkej po mně pořád barvou.“

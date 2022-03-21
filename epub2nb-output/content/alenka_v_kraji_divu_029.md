@@ -1,5 +1,6 @@
 ---
 title: O tom, jak Vilík komínem vylít
+contentType: prose
 ---
 
 Ale to k ní zvolna hupkal zpátky Bílý Králík a starostlivě se rozhlížel, jako by byl něco ztratil; mumlal si pro sebe: „Ta vévodkyně! Ta vévodkyně! Ach vy mé běhy! Ach ty můj kožíšku, ach vy mé fousky! Ta mě dá jistě popravit, jakože jsou fretky fretky! Kde jsem je asi pohodil?“ Alenka ihned uhodla, že se shání po vějíři a bílých kozinkových rukavicích, a bez říkání je hledala a hledala, ale nebylo po nich ani vidu – po té koupeli v kaluži jako by se všechno změnilo a velká síň se skleněným stolkem a dvířky nadobro zmizela.

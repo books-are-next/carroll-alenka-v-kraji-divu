@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Nemluvte hlouposti,“ spustila zostra Alenka, „však vy rostete taky.“

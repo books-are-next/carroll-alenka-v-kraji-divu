@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Rozhlížela se kolem sebe a zjistila, že co je vidět z tamtoho pokoje, je obyčejné a nezajímavé, zato ostatek je docela jinačí. Tak hned obrázky na zdi krbu jako by ožily, a dokonce i hodiny na krbové římse (v zrcadle, jak víte, je z nich vidět jen zadní stranu) měly podobu stařečka, který se na ni vesele usmíval.

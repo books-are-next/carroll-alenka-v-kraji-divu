@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Když říkáš vršek,“ skočila jí do řeči Královna, „já bych ti mohla ukázat vršky, proti kterým tamhleten nazveš hotovým údolím.“

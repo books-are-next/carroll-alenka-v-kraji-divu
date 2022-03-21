@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Až když se jí zdálo, že ji překřičí, řekla: „Copak se vám stalo? Píchla jste se do prstu?“

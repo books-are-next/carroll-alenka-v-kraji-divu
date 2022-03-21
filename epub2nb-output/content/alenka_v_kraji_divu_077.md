@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Tomu, kdo žije na dně mořském, to není zapotřebí,“ řekla Alenka.

@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 A tu zahlédla pod stolem skleněnou krabičku; otevřela ji a našla v ní koláček a na něm z hrozinek krásný nápis: SNĚZ MĚ. „Tak ho sním,“ řekla Alenka, „a jestli po něm povyrostu, dosáhnu na klíček; a jestli se ještě scvrknu, podlezu pod dvířky. Tak se přece jen do zahrady dostanu, ať se stane, co chce!“

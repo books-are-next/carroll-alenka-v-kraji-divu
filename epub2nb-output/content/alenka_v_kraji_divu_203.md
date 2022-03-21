@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Ostatně být tak, Katko, v mém snu doopravdy se mnou, to by sis užila – těch básniček, co mi odříkávali, a všechny byly o rybách! Zítra ráno se poměješ. K snídani ti budu odříkávat ‚Mrože a tesaře‘. A ty potom můžeš, milánku, dělat, jako že jsou to ústřice!

@@ -1,5 +1,6 @@
 ---
 title: Kdo ukradl vdolky
+contentType: prose
 ---
 
 Když tam přišli, Srdcový Král s Královnou seděli na trůně a kolem nich se kupil hustý dav – všelijací ptáčci a zvířátka a k tomu všechny karty. Před nimi stál spoutaný Spodek, po boku střežený vojáky; poblíž Krále stál Bílý Králík, v jedné ruce trubku, v druhé pergamenový svitek. Uprostřed soudního dvora byl pak stůl a na něm velká mísa vdolků; vypadaly tak chutně, že při pohledu na ně dostala Alenka hlad. – Už aby bylo po přelíčení, napadlo ji, a podávaly se zákusky! Ale na to nebylo ani pomyšlení, a tak se rozhlížela kolem sebe, aby si ukrátila dlouhou chvíli.

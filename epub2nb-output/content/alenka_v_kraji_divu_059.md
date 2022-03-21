@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „A vy to tak děláte?“ zeptala se Alenka.

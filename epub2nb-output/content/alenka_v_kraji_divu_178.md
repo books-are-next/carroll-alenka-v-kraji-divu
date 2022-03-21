@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Ani bych neřekla,“ zapochybovala Alenka. „Nechci být nikým zajata. Chci být Královnou.“

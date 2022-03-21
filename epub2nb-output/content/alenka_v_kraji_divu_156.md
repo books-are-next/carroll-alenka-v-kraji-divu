@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Brčko!“ křikla Ovce a přibrala další jehlice.

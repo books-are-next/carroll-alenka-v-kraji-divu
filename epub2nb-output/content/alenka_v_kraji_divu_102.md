@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Micka by tě věru měla naučit způsobům. To bys měla, Micko, však ty víš!“ Zahleděla se káravě na starou kočku a mluvila tak rozezleně, jak to jen dovedla – potom si vlezla zpátky do lenošky i s kotětem a s vlnou a znovu navíjela klubko. Ale moc rychle jí to nešlo, protože přitom pořád mluvila buď s kotětem, nebo sama se sebou. Katka jí způsobně seděla na koleně, naoko sledovala navíjení a občas vystrčila pracku a zlehka chňapla po klubku, jako by měla chuť pomáhat.
