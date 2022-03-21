@@ -4,6 +4,15 @@ title: Tiráž
 
 ***
 
+Alenka v kraji divů a za zrcadlem
+
+Lewis Carroll
+
+Přeložili Aloys a Hana Skoumalovi
+
+
+***
+
 Znění tohoto textu vychází z díla [Alenka v kraji divů a za zrcadlem](https://search.mlp.cz/cz/titul/alenka-v-kraji-divu-a-za-zrcadlem/6143/) tak, jak bylo vydáno v Praze nakladatelstvím Albatros v roce 1983. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
   

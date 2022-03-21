@@ -20,3 +20,15 @@ Alenka prohrabala na stole figurky, až našla Černou Královnu, potom poklekla
 „Sněhulko, ty můj mazlíku!“ ohlédla se přes rameno po Bílém Kotěti, které se pořád trpělivě dalo upravovat, „kdypak už bude Micka hotova s Vaším Bílým Veličenstvem? Snad proto jsi byla v mém snu tak rozcuchaná. – Micko! Jestlipak víš, že drbeš Bílou Královnu? Že k ní můžeš být tak neuctivá, to se divím!“
 
 „A v copak se asi proměnila Micka?“ žvatlala si a loktem pohodlně opřená o rohožku a bradu v dlaních pozorovala koťata. „Pověz mi, Micko, neproměnila ty ses ve Valihracha? Tak se mi zdá, že ano – ale jistě to nevím, tak o tom zatím před známými nemluv.
+
+
+
+![alenka_080](./resources/alenka_080.jpg)
+
+
+
+Ostatně být tak, Katko, v mém snu doopravdy se mnou, to by sis užila – těch básniček, co mi odříkávali, a všechny byly o rybách! Zítra ráno se poměješ. K snídani ti budu odříkávat ‚Mrože a tesaře‘. A ty potom můžeš, milánku, dělat, jako že jsou to ústřice!
+
+Teď se, Katko, zamysleme, komu se to vlastně zdálo. Je to, milánku, vážná věc, a neolizuj si pořád tu pracku – copak ti ji Micka dnes ráno neumyla? To máš tak, Katko, buď se to zdálo mně, nebo Černému Královi. On ovšem patřil do mého snu – jenže já zas jsem patřila do jeho! A byl to, Katko, Černý Král? Ty to budeš, milánku, vědět, bylas jeho ženou – Tak Katko, pomoz mi to rozluštit. Ta pracka počká!“ Ale to protivné kotě si olizovalo zas druhou pracku a dělalo, že neslyší.
+
+Komu se to zdálo, co myslíte?
