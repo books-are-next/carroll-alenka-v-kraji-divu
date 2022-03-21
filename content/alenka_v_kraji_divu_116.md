@@ -1,5 +1,6 @@
 ---
 title: Zahrada živých květin
+contentType: prose
 ---
 
 „Tamhle z toho vršku,“ řekla si Alenka, „se po zahradě líp rozhlédnu. Tady k němu vede pěšinka – snad, ba ne, nevede –“ (ušla kousek po pěšině a několikrát ostře zahnula), „ale nakonec třeba přece povede. Ta se nějak divně klikatí! To je vývrtka, a ne pěšina! A tudy snad odbočuje na vršek – ne, neodbočuje! Míří zpátky k domu. Zkusím to jinudy.“

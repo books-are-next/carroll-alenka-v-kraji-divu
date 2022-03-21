@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Alenka se zasmála a řekla: „Tak to asi rozsekáš hodně stromů.“

@@ -1,5 +1,6 @@
 ---
 title: Lev a jednorožec
+contentType: prose
 ---
 
 Vzápětí se rozběhli po lese vojáci, nejprve běhali po dvou, po třech, potom po desíti, po dvacíti a nakonec v houfech, až jich bylo všude plno. Aby ji snad neporazili, schovala se Alenka za strom a odtamtud je pozorovala.

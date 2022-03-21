@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Alenka v kraji divů a za zrcadlem
@@ -245,6 +246,7 @@ tocBase:
         title: Kdo ukradl vdolky
       - link: alenka_v_kraji_divu_089.html
         title: Alenčino svědectví
+    listType: plain
   - link: alenka_v_kraji_divu_097.html
     title: Za zrcadlem, a s čím se tam Alenka setkala
     children:
@@ -274,6 +276,7 @@ tocBase:
         title: Probuzení
       - link: alenka_v_kraji_divu_201.html
         title: Komu se to zdálo?
+    listType: plain
   - link: alenka_v_kraji_divu_204.html
     title: O autorovi Alenčiných dobrodružných příběhů
 static:

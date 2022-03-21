@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Potom dodala: „Slova už znáš, teď ji celou zazpívej mně, na mě jdou taky dřímoty,“ a opřela hlavu o druhé Alenčino rameno. A v mžiku spaly obě Královny, jako když je do vody hodí, a chrápaly na celé kolo.

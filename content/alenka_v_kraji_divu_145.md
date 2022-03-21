@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Kdybych nebyla skutečná,“ Alenka se přes slzy pousmála, tak jí to připadalo směšné, „nemohla bych plakat.“

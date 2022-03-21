@@ -1,5 +1,6 @@
 ---
 title: Tydliták a Tydlitek
+contentType: prose
 ---
 
 Stáli pod stromem, drželi se kolem krku, a kdo je kdo, poznala Alenka rázem podle toho, že jeden měl na límci vyšito ták a druhý tek. „Vzadu na límci mají asi oba tydli,“ řekla si Alenka.

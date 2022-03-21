@@ -1,5 +1,6 @@
 ---
 title: Komu se to zdálo?
+contentType: prose
 ---
 
 „Vaše Černé Veličenstvo by nemělo tak vrnět,“ řekla Alenka uctivě, a přece jen dost přísně kotěti a protřela si oči. „Probudila jste mě ze sna – ach, to byl krásný sen! A ty jsi byla, Katko, se mnou – v tom světě za zrcadlem. Jestlipak jsi o tom, milánku, věděla?“

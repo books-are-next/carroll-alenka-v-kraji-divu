@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Ale ne, prosím vás, povídejte dál!“ prosila Alenka. „Už nebudu vyrušovat. Tak tedy _jedna_ taková studánka je.“

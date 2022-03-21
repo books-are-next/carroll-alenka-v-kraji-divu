@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Alenka se rozmýšlela, nemá-li se taky vrhnout tváří k zemi jako ti tři zahradníci, ale na žádné takové pravidlo při průvodu si nevzpomínala; a nač by ostatně byl průvod, napadlo jí, kdyby kdekdo musil ležet tváří k zemi a nic by z něho neviděl? A tak tam bez hnutí stála a čekala.

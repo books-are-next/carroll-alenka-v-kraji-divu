@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Dnes už myslím bojovat nebudou,“ řekl Král Zejdovi. „Jdi a poruč, ať zavíří bubny.“ Zejda odhopkal jako luční kobylka.

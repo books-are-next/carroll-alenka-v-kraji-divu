@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Král se oháněl tím, že to, co má hlavu, dá se taky o hlavu zkrátit, a nikdo ať mu nepovídá hlouposti.

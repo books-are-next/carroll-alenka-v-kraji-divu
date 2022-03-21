@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Zavládlo hrobové ticho a Alenka si pomyslila: To jsem zvědavá, co bude teď. Kdyby měli špetku rozumu, sundali by střechu. Po chvilce už zas šukali kolem a Alenka zaslechla Králíka, jak říká: „Jeden trakař prozatím stačí.“ Trakař čeho? přemýšlela Alenka. Ale dlouho na pochybách nezůstala, neboť vzápětí zafičely do okna oblázky a některé ji zasáhly do tváře. „Tohle jim zatrhnu,“ řekla si a houkla na ně: „Nechte toho!“ a znovu zavládlo hrobové ticho.

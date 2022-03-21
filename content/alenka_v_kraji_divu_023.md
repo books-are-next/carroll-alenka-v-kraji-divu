@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Asi ne,“ chlácholila ji Alenka, „už se proto nezlob. Ale naši Micku bych ti přec ráda ukázala, jen bys ji uviděla, hned by sis kočky zamilovala. To je ti mírné stvoření.“ Alenka pomaloučku plavala po kaluži a spíše jen pro sebe si povídala: „Tak mile přede u krbu, líže si packy a myje si čumáček – a když ji chovám, je taková měkounká – a báječně chytá myši – Ach, promiň!“ znovu zvolala Alenka, protože Myš se celá zježila, jistě byla uražená. „Jestli nechceš, nebudeme už o ní mluvit.“

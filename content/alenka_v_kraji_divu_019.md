@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Alenka zvedla rukavice a vějíř, a protože bylo v síni horko, ovívala se a takto si povídala: „Ach jo! Dnes je všechno naruby. A ještě včera to bylo jako jindy. Copak se se mnou v noci stala nějaká změna? Počkat: byla jsem to já, když jsem ráno vstávala? Tak se mi zdá, že mi bylo nějak divně. Ale jestli to nejsem já, ptám se dál, kdo tedy jsem? To je ta záhada!“ A probírala všechny známé děti, stejně staré jako ona, jestli se snad v některé z nich neproměnila.

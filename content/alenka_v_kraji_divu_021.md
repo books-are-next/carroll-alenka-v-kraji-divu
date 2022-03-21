@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Při těch slovech uklouzla a žbluňk! byla po krk ve slané vodě. Nejprve ji napadlo, že snad spadla do moře, „tak to pojedu domů vlakem,“ řekla si Alenka. (Byla totiž jednou jedinkrát u moře a hned usoudila, že ať jde člověk na anglickém pobřeží, kam chce, všude uvidí v moři spoustu převozných kabin, dále děti, jak nabírají dřevěnými lopatkami písek, potom řadu penziónů a za nimi nádraží.) Ale brzy přišla na to, že je v kaluži slz, které naplakala, když měřila devět stop.

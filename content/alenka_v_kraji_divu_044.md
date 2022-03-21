@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 > _Na nose mám úhoře  

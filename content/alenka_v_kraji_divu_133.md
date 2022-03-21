@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Tak kráčela, až došla do lesa; připadal jí chladný a stinný. „To se člověku uleví,“ řekla si, když se octla pod stromy, „z takového vedra vkročit do – do – do čeho?“ Bylo jí divné, že na to slovo nemůže kápnout. „Totiž octnout se pod – pod – no přece pod tímhle!“ a sáhla rukou na kmen stromu. „Jakpak se mu říká? Snad žádné jméno nemá – ba určitě ne.“

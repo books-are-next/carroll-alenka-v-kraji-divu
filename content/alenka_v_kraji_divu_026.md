@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Myš si této otázky nevšímala a rychle pokračovala: „– to shledal prospěšným, vydal se s Edgarem Athelingem Vilémovi v ústrety nabídnout mu korunu. Vilém si zpočátku vedl umírněně. Ale zpupnost jeho Normanů – Jak je vám, milá?“ obrátila se Myš k Alence.

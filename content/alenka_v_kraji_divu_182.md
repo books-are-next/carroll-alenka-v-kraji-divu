@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Jezdec se zatvářil smrtelně vážně, až Alenku přešel smích. „To jste mu snad ublížil,“ řekla rozechvěně, „když jste mu seděl na hlavě.“

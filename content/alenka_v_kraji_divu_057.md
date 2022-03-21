@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Alenka mu zvědavě koukala přes rameno. „To jsou mi divné hodinky!“ utrousila. „Ukazují, kolikátého je, a ne kolik je hodin!“

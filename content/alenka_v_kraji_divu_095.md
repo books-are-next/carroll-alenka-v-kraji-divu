@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 A tak tam seděla se zavřenýma očima a namlouvala si, že je v Kraji divů, a přece věděla, že jakmile je otevře, všechno se promění v šedou skutečnost – tráva bude šustit jenom větrem a tůňka šplouchat od rozevlátého rákosí – řinkot šálků se promění v cinkání ovčích zvonců a Královnino vřískání v ovčákův pokřik – a kýchání prasátka, Nohův skřek a všechny ty ostatní podivné zvuky se promění (to věděla) v zmatený halas na statku – a Paželvovy usedavé vzlyky budou jen vzdálené bučení dobytka.

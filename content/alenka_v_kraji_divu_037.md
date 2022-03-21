@@ -2,6 +2,7 @@
 title: |-
   Houseňákova
   rada
+contentType: prose
 ---
 
 Houseňák s Alenkou na sebe chvíli mlčky hleděli. Nakonec vyndal Houseňák fajfku z úst a lenivě, ospale promluvil.

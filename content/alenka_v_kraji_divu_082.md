@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Nač celý ten krám opakovat,“ přetrhl jí to Paželv, „když nám to pořádně nevysvětlíš. Takovou slátaninu jsem jakživ neslyšel.“

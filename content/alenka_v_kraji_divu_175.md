@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Vždyť jsem tě, ty strašpytle, prohnal přes celé město!“ řekl. „To je pěkný kus cesty. Šli jste po starém mostě, nebo přes rynek? Nejlepší vyhlídka je ze starého mostu.“

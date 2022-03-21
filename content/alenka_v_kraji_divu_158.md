@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Jen aby se loďka nepřevrhla!“ řekla si. „Ach, to je hezounké! Jenže jsem na něj nedosáhla.“ A opravdu mohla z kůže vyletět (je to jako naschvál, pomyslila si), jak se s loďkou šinula vpřed, krásného puškvorce natrhala sice hromadu, ale ten ještě hezčí nedostala.

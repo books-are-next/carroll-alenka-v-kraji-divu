@@ -1,5 +1,6 @@
 ---
 title: „Je to můj vynález“
+contentType: prose
 ---
 
 Ponenáhlu hřmot slábl, až nastalo hrobové ticho; Alenka znepokojeně zdvihla hlavu. Nikde nikdo, i napadlo ji, že se jí o Lvu a Jednorožci a těch podivných anglosaských kurýrech jenom zdálo. Jenže u nohou jí dosud ležela velká mísa, na které předtím krájela koláč. „Přece jen se mi to nezdálo,“ řekla si, „nebo snad všichni sníme jeden jediný sen. Ale je to doufám sen můj, a ne sen Černého Krále! Do cizího snu patřit nechci,“ reptala. „Mám chuť vzbudit ho a přesvědčit se, co se stane.“

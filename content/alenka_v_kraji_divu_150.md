@@ -2,6 +2,7 @@
 title: |-
   Vlna
   a voda
+contentType: prose
 ---
 
 Při těch slovech šálu chytila; rozhlížela se, komu patří. Vzápětí se s rozpřaženýma rukama vyřítila z lesa Bílá Královna a Alenka jí šla s šálou zdvořile naproti.

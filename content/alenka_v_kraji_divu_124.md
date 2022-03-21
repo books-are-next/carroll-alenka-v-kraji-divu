@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „To v naší zemi,“ Alenka se stále ještě zajíkala, „když se běží tak dlouho, jak my jsme běžely, obyčejně se dojde někam jinam.“

@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Už to nevydržím!“ vykřikla Alenka, skočila a oběma rukama popadla ubrus – prudce trhla, a talíře, mísy, hosté i svíce, všechno se to s řinkotem sesypalo na zem.

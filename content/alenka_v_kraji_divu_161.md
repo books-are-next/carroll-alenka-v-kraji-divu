@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Co tady stojíš a brebentíš si pro sebe,“ teprve nyní Valihrach na ni pohlédl, „radši mi pověz, jak se jmenuješ a co děláš.“

@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Ale bít se budeš, ne?“ řekl Tydliták klidnějším hlasem.

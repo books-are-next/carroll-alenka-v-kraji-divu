@@ -1,5 +1,6 @@
 ---
 title: O autorovi Alenčiných dobrodružných příběhů
+contentType: prose
 ---
 
 Nejstarší anglická univerzita vznikla v Oxfordu někdy v druhé polovině 12. století, tedy skoro dvě stě let před založením pražského vysokého učení Karlova. Oxfordská univerzita (podobně jako její o něco mladší odnož v Cambridgi) se skládá z desítek samostatných kolejí. Když tam člověk přijíždí, už zdálky vidí uprostřed roviny trčet mezi stromovím hranaté normanské (nebo jak my říkáme románské) bašty, zubatým cimbuřím vroubené čtverhranné gotické věže i vznosné zvonice, mohutné renesanční kupole, zdobné vížky 18. století, vzdáleně připomínající naše baroko i rokoko, až po novější stavby všemožných cizokrajných slohů, mezi nimiž nechybí ani napodobeniny slohu starořeckého. Univerzitní kolej, zabírající střed starobylého města, leží v rozlehlých parcích a zahradách a jejich šedobílé, máslově žluté i do hnědá ztmavělé zdi obrůstá břečťan a psí víno.

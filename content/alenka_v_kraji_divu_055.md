@@ -2,6 +2,7 @@
 title: |-
   Bláznivá
   svačina
+contentType: prose
 ---
 
 Pod stromem u domu bylo prostřeno a svačili tam Zajíc Březňák se Ševcem. Mezi nimi seděl Plch a tvrdě spal a oni loktem o něho opřeni bavili se mu nad hlavou.

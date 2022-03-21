@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 > _Mrož úlisný tón nasadil:  

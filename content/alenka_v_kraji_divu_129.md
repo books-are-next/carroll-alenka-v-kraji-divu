@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Alenka si Houpacího Koníčka se zájmem prohlídla a usoudila, že je nejspíš čerstvě natřen, protože je tak lesklý a lepkavý; potom zase vypočítávala.

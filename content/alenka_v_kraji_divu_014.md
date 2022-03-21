@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Najednou se octla před dvounohým stolkem a ten byl celý ze skla; byl na něm jenom zlatý klíček a Alence hned napadlo, jestli není od některých dveří v síni. Ale ouha! Buď byl zámek moc velký, nebo klíček moc malý, žádné dveře se nedaly otevřít. Ale když podruhé obcházela síň, octla se před záclonkou, které si předtím nevšimla, a za ní byla dvířka nějakých patnáct palců vysoká; zkoušela zlatým klíčkem odemknout a sláva, klíček se k zámku hodil!

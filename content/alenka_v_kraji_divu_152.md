@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Mileráda si tě vezmu do služby,“ řekla Královna. „Dva krejcary týdně a obden marmeláda.“

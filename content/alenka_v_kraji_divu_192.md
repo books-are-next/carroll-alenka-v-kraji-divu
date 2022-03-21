@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Obsluhuje dveře?“ řekl. „A čím je má obsloužit?“ Tak sípal, že mu Alenka sotva rozuměla.

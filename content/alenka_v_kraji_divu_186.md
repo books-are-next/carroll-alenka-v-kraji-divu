@@ -2,6 +2,7 @@
 title: |-
   Královna
   Alenka
+contentType: prose
 ---
 
 „To je báječné!“ řekla Alenka. „Ani jsem se nenadála, že budu tak brzo Královnou – a řeknu vám, Vaše Veličenstvo,“ dodala přísným hlasem (vždycky se totiž ráda peskovala), „to nejde, takhle se povalovat v trávě! Královny musí zachovávat důstojnost!“

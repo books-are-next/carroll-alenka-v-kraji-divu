@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Tak podej koláč, Obludo,“ řekl Lev a ulehl s bradou opřenou o pracky. „A vy se posaďte,“ řekl Králi a Jednorožci, „koláč ať mi rozdělíte spravedlivě!“

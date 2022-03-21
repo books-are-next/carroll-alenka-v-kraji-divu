@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Umíš hrát, Katko, šachy? Nic se nesměj, milánku, ptám se tě docela vážně. Jak jsme teď hráli, ty ses dívala, jako bys tomu rozuměla, a když jsem řekla ‚šach‘, tak jsi zavrněla! Byl to, Katko, pěkný šach, a nebýt toho zlého jezdce, který se vetřel mezi mé figurky, tak jsem to jistě vyhrála. Víš co, Katko budeme jako –“ Kdybych vám tak mohl vypočítat aspoň polovinu všeho toho, co u Alenky začínalo jejím oblíbeným: „Budeme jako.“ Zrovna den předtím se dostaly se sestrou do hádky, a to jen proto, že Alenka zas spustila: „Budeme jako králové a královny,“ a sestra, která si potrpěla na přesnost, jí dokazovala, to že být nemohou, protože jsou jen dvě, až nakonec Alenka slevila: „Dobře, ty budeš dělat jednu a já ty ostatní.“ A jednou k smrti vylekala starou chůvu, když jí houkla do ucha: „Náno! Já budu jako hladová hyena a ty budeš kost!“

@@ -1,5 +1,6 @@
 ---
 title: Paželví povídka
+contentType: prose
 ---
 
 „Ani nevíš, jak jsem ráda, že jsem se s tebou, dušinko, zase shledala,“ řekla Vévodkyně, něžně se do Alenky zavěsila a tak spolu odešly z hřiště.

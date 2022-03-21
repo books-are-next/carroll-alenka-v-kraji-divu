@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 > _„Bochníkem chleba,“ pravil Mrož,  

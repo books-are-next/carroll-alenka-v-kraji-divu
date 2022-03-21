@@ -1,5 +1,6 @@
 ---
 title: Alenčino svědectví
+contentType: prose
 ---
 
 „Zde!“ vykřikla Alenka; v tom rozčilení nadobro zapomněla, jak za tu chvilku vyrostla, a vylítla tak prudce, že obrubou sukně převrátila lavici porotců a porotce vyklopila divákům na hlavu; jak se tam rozplácli, připomínali jí akvárium se zlatými rybkami, které zrovna před týdnem nedopatřením převrhla.
