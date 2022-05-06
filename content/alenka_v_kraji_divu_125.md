@@ -41,7 +41,7 @@ Vedle Kozla seděl Brouk (cestující to byli prapodivní), a protože se zřejm
 
 Kdo sedí za Broukem, to Alenka neviděla; někdo tam zasípal: „Připojte novou lokomotivu –“ a tu se zajíkl a ustal.
 
-„Mluví jako kůň,“ řekla si Alenka. A tu se jí u samého ucha ozval slabounký hlásek: „Na to bys mohla udělat vtip, třeba něco jako ‚slyším koně sípat‘ a ‚jdu mu oves sypat‘.“
+„Mluví jako kůň,“ řekla si Alenka. A tu se jí u samého ucha ozval slabounký hlásek: **„Na to bys mohla udělat vtip, třeba něco jako ‚slyším koně sípat‘ a ‚jdu mu oves sypat‘.“**
 
 A tu se někdo zdálky slabounce ozval: „Musíte na ni nalepit cedulku: A/Sk LENKA, NEKLOPIT –“
 
@@ -51,17 +51,17 @@ Ale pán v bílých papírových šatech se k ní nahnul a zašuškal jí: „D�
 
 „A nekoupím!“ utrhla se na něj Alenka- „Vždyť já do tohohle vlaku vůbec nepatřím – byla jsem v lese – kdybych tak mohla zpátky.“
 
-„Na to bys mohla udělat vtip,“ u samého ucha se jí zas ozval ten hlásek, „třeba něco jako kdyby jsou chyby.“
+**„Na to bys mohla udělat vtip,“** u samého ucha se jí zas ozval ten hlásek, **„třeba něco jako kdyby jsou chyby.“**
 
 „Netrap mě,“ řekla Alenka a marně pátrala, odkud se ten hlas ozývá, „když tolik stojíš o vtipy, proč je neděláš sám?“
 
 Někdo si tenounkým hláskem hluboce povzdychl. Zřejmě byl velmi smutný a Alenka užuž měla na jazyku nějakou útěchu, ale tu jí napadlo: Pročpak nevzdychá jako druzí! On vzdychal tak slaboulince, že nemít ho až u samého ucha, ani by ho neslyšela. Šimral ji do ucha a tím se stalo, že na smutek toho nešťastníka nadobro zapomněla.
 
-„Vím, že jsi má přítelkyně,“ ozýval se hlásek, „milá přítelkyně, dávná přítelkyně. A že mi neublížíš, i když jsem pouhý hmyz.“
+**„Vím, že jsi má přítelkyně,“** ozýval se hlásek, **„milá přítelkyně, dávná přítelkyně. A že mi neublížíš, i když jsem pouhý hmyz.“**
 
 „Jaký hmyz?“ zatrnula Alenka. Chtěla jen vědět, jestli píchá, nebo ne, ale ptát se na to jí nepřipadalo dost slušné.
 
-„Tak ty ne –,“ pípl hlásek, ale tu ho přehlušil hvizd lokomotivy tak ostrý, že kdekdo vyskočil a Alenka s nimi.
+**„Tak ty ne –,“** pípl hlásek, ale tu ho přehlušil hvizd lokomotivy tak ostrý, že kdekdo vyskočil a Alenka s nimi.
 
 Kůň vystrčil hlavu z okna, klidně ji zas vtáhl zpátky a řekl: „To jenom přeskočíme potůček.“ Všichni se uklidnili, jen Alenka trnula nad tím, že by měl vlak skákat. „Aspoň nás zaveze na čtvrté políčko!“ utěšovala se. Vzápětí se vlak vznesl do povětří; Alenka samým leknutím chňapla, co měla nejblíž, a byla to kozlí brada.
 
@@ -181,7 +181,7 @@ Alenka se za ním dívala, div se nerozplakala žalem nad tím, jak náhle zas o
 
 Odpověď na to nebyla těžká, vedla tam jenom jedna cesta a oba ukazatele směřovaly po ní. „Však na to přijdu,“ řekla si Alenka, „až budou ukazatele někde na rozcestí mířit každý jinam.“
 
-Ale moc slibně to nevypadalo. Dlouho šla a šla, ale na každém rozcestí ukazatele mířily vždycky jedním směrem, na jednom stálo: K TYDLITÁKOVI a na druhém K TYDLITKOVI!
+Ale moc slibně to nevypadalo. Dlouho šla a šla, ale na každém rozcestí ukazatele mířily vždycky jedním směrem, na jednom stálo: **K TYDLITÁKOVI** a na druhém **K TYDLITKOVI**!
 
 „Jak se zdá,“ řekla posléze Alenka, „oni bydlí spolu! Že mi to dřív nenapadlo – Ale dlouho u nich nepobudu. Jenom si k nim zaskočím, slušně pozdravím a vyptám se jich na cestu z lesa. Jestlipak se před soumrakem dostanu na osmé políčko!“ A tak se ubírala dál a něco si jen tak pro sebe povídala, až v prudké zatáčce narazila na dva tlouštíky, a to tak neočekávaně, že leknutím ucouvla, ale hned se zas vzpamatovala; věděla, že to jsou jistě –
 

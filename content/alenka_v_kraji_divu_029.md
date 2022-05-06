@@ -11,7 +11,7 @@ Králík si toho Alenčina shánění všiml a hned se na ni osopil: „Prosím 
 
 „To je divné, že obstarávám Králíkovi posílky,“ řekla si Alenka. „S takovou mi brzy něco uloží naše Micka!“ A hned si domýšlela, jak to asi bude: „Slečno Alenko! Pojďte sem a oblečte se na procházku!“ „Hned, hned, Náno! Než se Micka vrátí, musím jí pohlídat myší díru, aby jí neutekla myš.“ „Jenže,“ říkala si dále Alenka „jenže ona by u nás Micka nesměla zůstat, kdyby si takhle poroučela.“
 
-Zatím se už Alenka dostala do úhledné světničky; stál tam u okna stůl a na něm (jak se nadála) ležel vějíř a několik párů bílých kozinkových rukaviček. Popadla vějíř a jedny rukavičky, a jak odcházela ze světnice, najednou zahlédla u zrcadla lahvičku. Cedulka s nápisem VYPIJ MĚ na ní sice tentokrát nebyla, ale Alenka ji přece odzátkovala a přiložila k ústům. „Jakmile něco sním nebo vypiju,“ řekla si Alenka, „vždycky to zajímavě dopadne. Zkusím tedy, co tahle lahvička způsobí. Doufám, že po ní zas vyrostu, už toho mám po krk, být taková mrňavá!“
+Zatím se už Alenka dostala do úhledné světničky; stál tam u okna stůl a na něm (jak se nadála) ležel vějíř a několik párů bílých kozinkových rukaviček. Popadla vějíř a jedny rukavičky, a jak odcházela ze světnice, najednou zahlédla u zrcadla lahvičku. Cedulka s nápisem **VYPIJ MĚ** na ní sice tentokrát nebyla, ale Alenka ji přece odzátkovala a přiložila k ústům. „Jakmile něco sním nebo vypiju,“ řekla si Alenka, „vždycky to zajímavě dopadne. Zkusím tedy, co tahle lahvička způsobí. Doufám, že po ní zas vyrostu, už toho mám po krk, být taková mrňavá!“
 
 Tak se také stalo, dřív než se nadála. Ještě ani půl lahvičky nedopila, a už narazila hlavou o strop a musila se sehnout, aby si nezlomila vaz.
 

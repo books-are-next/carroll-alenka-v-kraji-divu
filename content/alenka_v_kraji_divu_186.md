@@ -188,7 +188,7 @@ Potom dodala: „Slova už znáš, teď ji celou zazpívej mně, na mě jdou tak
 
 Chrápání stále silnější a silnější přecházelo v nápěv, až nakonec bylo rozumět i slovům; Alenka poslouchala s takovým zaujetím, že obě hlavy vůbec nepohřešila, když jí najednou zmizely z klína.
 
-Stála před klenutým vchodem, nad nímž byl velkými písmeny nápis královna alenka a po obou stranách vchodu zvonek. Na jednom stálo „Pro hosty“ a na druhém „Pro služebnictvo“.
+Stála před klenutým vchodem, nad nímž byl velkými písmeny nápis **královna alenka** a po obou stranách vchodu zvonek. Na jednom stálo „Pro hosty“ a na druhém „Pro služebnictvo“.
 
 „Počkám, až ta píseň dozní,“ řekla si Alenka, „a potom zazvoním – zazvoním – ale na který zvonek?“ Hloubala nad těmi nápisy: „Nejsem ani host, ani služebná. Měl by tu být zvonek ‚Pro Královnu‘ –“
 

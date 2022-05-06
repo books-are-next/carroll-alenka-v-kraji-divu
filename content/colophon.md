@@ -76,7 +76,7 @@ Redakce Jaroslava Bednářová
 
   
 
-Vydala Městská knihovna v Praze
+Vydala **Městská knihovna v Praze**
 
   
 

@@ -15,7 +15,7 @@ V mžiku se pustila Alenka za ním, a jak se zas dostane ven, na to vůbec nepom
 
 Králičí díra vedla kus rovně jako tunel a pak najednou se prudce svažovala dolů, tak prudce, že Alenka neměla vůbec kdy se zastavit a padala do hluboké jámy.
 
-Buď byla ta jáma velmi hluboká, nebo padala Alenka tak pomalu, že měla kdy rozhlížet se kolem sebe a přemýšlet, co bude asi dál. Nejprve zkoušela dívat se dolů, kam to vlastně padá, ale nic neviděla, bylo tam tma; ohlížela se tedy po stěnách jámy a všimla si, že je tam plno polic a přihrádek: tu a tam visely na skobách mapy a obrázky. Cestou sebrala z jedné police sklenici; stálo na ní POMERANČOVÁ ZAVAŘENINA, ale zklamala se, byla prázdná. Zahodit ji, to se jí nezdálo, aby snad někoho nezabila, a tak ji při tom padání šťastně strčila do jedné poličky.
+Buď byla ta jáma velmi hluboká, nebo padala Alenka tak pomalu, že měla kdy rozhlížet se kolem sebe a přemýšlet, co bude asi dál. Nejprve zkoušela dívat se dolů, kam to vlastně padá, ale nic neviděla, bylo tam tma; ohlížela se tedy po stěnách jámy a všimla si, že je tam plno polic a přihrádek: tu a tam visely na skobách mapy a obrázky. Cestou sebrala z jedné police sklenici; stálo na ní **POMERANČOVÁ ZAVAŘENINA**, ale zklamala se, byla prázdná. Zahodit ji, to se jí nezdálo, aby snad někoho nezabila, a tak ji při tom padání šťastně strčila do jedné poličky.
 
 
 
@@ -51,7 +51,7 @@ Najednou se octla před dvounohým stolkem a ten byl celý ze skla; byl na něm 
 
 Alenka dvířka otevřela a před ní byla chodbička o nic širší než krysí díra. Alenka poklekla a tou chodbičkou hleděla do divukrásné zahrady. Zatoužila dostat se z té tmavé síně a procházet se mezi bujně kvetoucími záhonky a chladivými vodotrysky, ale nemohla dvířky prostrčit ani hlavu: „A i kdybych hlavou prošla, co je mi to platné, když neprojdu rameny. Kdybych se tak mohla sklapnout jako dalekohled! Snad by to šlo, jenom vědět, jak na to.“ Ono totiž Alenku potkalo za tu chvíli tolik nevídaného, že už jí skoro všechno připadalo možné.
 
-Čekat u dvířek nebylo nic platné, a tak se Alenka vrátila ke stolku, jestli tam třeba nenajde ještě nějaký klíček, nebo aspoň nějaký návod, jak se sklapnout jako dalekohled. Tentokrát tam našla lahvičku („ta tu předtím určitě nebyla,“ řekla si Alenka) a ta měla na hrdle cedulku s nápisem krásně vytištěným velkými písmeny: VYPIJ MĚ.
+Čekat u dvířek nebylo nic platné, a tak se Alenka vrátila ke stolku, jestli tam třeba nenajde ještě nějaký klíček, nebo aspoň nějaký návod, jak se sklapnout jako dalekohled. Tentokrát tam našla lahvičku („ta tu předtím určitě nebyla,“ řekla si Alenka) a ta měla na hrdle cedulku s nápisem krásně vytištěným velkými písmeny: **VYPIJ MĚ**.
 
 To se lehko řekne „vypij mě“, ale moudrá Alenka se do toho nepohrne. „Ba ne,“ řekla si, „napřed se podívám, jestli tam není označení _jed_.“ Co se už načetla hezkých povídek o tom, jak děti uhořely, jak je divá zvěř sežrala a mnoho jiných nepříjemností je potkalo jen proto, že nedbaly prostých ponaučení, která jim jejich přátelé vštěpovali; tak např.: že se spálíš, když držíš moc dlouho v ruce žhavý pohrabáč, že ti obyčejně teče krev, když se hodně hluboko řízneš nožem, a také nezapomínala na to, že když si pořádně přihneš z lahvičky označené _jed_, dříve nebo později ti to nebude dělat dobře.
 
@@ -73,6 +73,6 @@ Nic se s ní už nedělo, a tak se za chvíli rozhodla, že půjde rovnou do zah
 
 
 
-A tu zahlédla pod stolem skleněnou krabičku; otevřela ji a našla v ní koláček a na něm z hrozinek krásný nápis: SNĚZ MĚ. „Tak ho sním,“ řekla Alenka, „a jestli po něm povyrostu, dosáhnu na klíček; a jestli se ještě scvrknu, podlezu pod dvířky. Tak se přece jen do zahrady dostanu, ať se stane, co chce!“
+A tu zahlédla pod stolem skleněnou krabičku; otevřela ji a našla v ní koláček a na něm z hrozinek krásný nápis: SNĚZ **MĚ**. „Tak ho sním,“ řekla Alenka, „a jestli po něm povyrostu, dosáhnu na klíček; a jestli se ještě scvrknu, podlezu pod dvířky. Tak se přece jen do zahrady dostanu, ať se stane, co chce!“
 
 Kousek ujedla a starostlivě si říkala: „Nahoru, nebo dolů“; sáhla si na hlavu, zdali jí přibývá, nebo ubývá, a nemálo ji překvapilo, že zůstává stejně velká; toť se ví, to už tak bývá, když se jí koláč, ale Alenka si už tak zvykla na samé nevídané věci, že obyčejnský život jí připadal nudný a hloupý. Pustila se tedy do koláče a hned ho měla v sobě.
