@@ -1,22 +1,58 @@
 {
-  "author": "Lewis Carroll",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "carroll-alenka-v-kraji-divu-a-za-zrcadlem-1fc19f7",
-  "languagecode": "cs",
-  "modified": "2021-09-16T10:11:07.580Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Alenka v kraji divů a za zrcadlem",
-  "revision": "1fc19f7",
+  "author": "Lewis Carroll",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "carroll-alenka-v-kraji-divu-a-za-zrcadlem-60a5bf1",
+  "revision": "60a5bf1",
+  "readingOrder": [
+    "promo.html",
+    "alenka_v_kraji_divu_005.html",
+    "alenka_v_kraji_divu_006.html",
+    "alenka_v_kraji_divu_007.html",
+    "alenka_v_kraji_divu_008.html",
+    "alenka_v_kraji_divu_017.html",
+    "alenka_v_kraji_divu_024.html",
+    "alenka_v_kraji_divu_029.html",
+    "alenka_v_kraji_divu_037.html",
+    "alenka_v_kraji_divu_045.html",
+    "alenka_v_kraji_divu_055.html",
+    "alenka_v_kraji_divu_062.html",
+    "alenka_v_kraji_divu_071.html",
+    "alenka_v_kraji_divu_078.html",
+    "alenka_v_kraji_divu_083.html",
+    "alenka_v_kraji_divu_089.html",
+    "alenka_v_kraji_divu_097.html",
+    "alenka_v_kraji_divu_098.html",
+    "alenka_v_kraji_divu_099.html",
+    "alenka_v_kraji_divu_100.html",
+    "alenka_v_kraji_divu_116.html",
+    "alenka_v_kraji_divu_125.html",
+    "alenka_v_kraji_divu_135.html",
+    "alenka_v_kraji_divu_150.html",
+    "alenka_v_kraji_divu_159.html",
+    "alenka_v_kraji_divu_165.html",
+    "alenka_v_kraji_divu_176.html",
+    "alenka_v_kraji_divu_186.html",
+    "alenka_v_kraji_divu_197.html",
+    "alenka_v_kraji_divu_199.html",
+    "alenka_v_kraji_divu_201.html",
+    "alenka_v_kraji_divu_204.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri May 06 2022 11:20:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651836058407
+    "date": "Thu May 12 2022 10:44:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352282318
   },
   "documents": [
     {
-      "title": "Alenka v kraji divů a za zrcadlem",
-      "file": "alenka_v_kraji_divu_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +60,7 @@
       "order": 0,
       "prev": null,
       "next": "alenka_v_kraji_divu_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Alenka v kraji divů a za zrcadlem",
@@ -42,7 +70,7 @@
       "ideas": 11,
       "role": "chapter",
       "order": 1,
-      "prev": "alenka_v_kraji_divu_002.html",
+      "prev": "promo.html",
       "next": "alenka_v_kraji_divu_006.html",
       "toc": [
         {
@@ -75,7 +103,7 @@
       ]
     },
     {
-      "title": "Alenka v kraji divů • Alenka v kraji divů a za zrcadlem",
+      "title": "Alenka v kraji divů",
       "file": "alenka_v_kraji_divu_007.html",
       "words": 4,
       "chars": 19,
@@ -95,7 +123,7 @@
       ]
     },
     {
-      "title": "Dolů králičí dírou • Alenka v kraji divů a za zrcadlem",
+      "title": "Dolů králičí dírou",
       "file": "alenka_v_kraji_divu_008.html",
       "words": 1588,
       "chars": 8819,
@@ -115,7 +143,7 @@
       ]
     },
     {
-      "title": "Kaluž slz • Alenka v kraji divů a za zrcadlem",
+      "title": "Kaluž slz",
       "file": "alenka_v_kraji_divu_017.html",
       "words": 1523,
       "chars": 8406,
@@ -135,11 +163,11 @@
       ]
     },
     {
-      "title": "Kuriální závod\na sáhodlouhý obrázek • Alenka v kraji divů a za zrcadlem",
+      "title": "Kuriální závod a sáhodlouhý obrázek",
       "file": "alenka_v_kraji_divu_024.html",
       "words": 1234,
-      "chars": 7336,
-      "ideas": 74,
+      "chars": 7337,
+      "ideas": 73,
       "role": "chapter",
       "order": 6,
       "prev": "alenka_v_kraji_divu_017.html",
@@ -148,14 +176,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kuriální závod\na sáhodlouhý obrázek",
+          "name": "Kuriální závod a sáhodlouhý obrázek",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "O tom, jak Vilík komínem vylít • Alenka v kraji divů a za zrcadlem",
+      "title": "O tom, jak Vilík komínem vylít",
       "file": "alenka_v_kraji_divu_029.html",
       "words": 1894,
       "chars": 10534,
@@ -175,11 +203,11 @@
       ]
     },
     {
-      "title": "Houseňákova\nrada • Alenka v kraji divů a za zrcadlem",
+      "title": "Houseňákova rada",
       "file": "alenka_v_kraji_divu_037.html",
       "words": 1527,
-      "chars": 8627,
-      "ideas": 101,
+      "chars": 8628,
+      "ideas": 100,
       "role": "chapter",
       "order": 8,
       "prev": "alenka_v_kraji_divu_029.html",
@@ -188,14 +216,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Houseňákova\nrada",
+          "name": "Houseňákova rada",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Vepř a pepř • Alenka v kraji divů a za zrcadlem",
+      "title": "Vepř a pepř",
       "file": "alenka_v_kraji_divu_045.html",
       "words": 1816,
       "chars": 10459,
@@ -215,11 +243,11 @@
       ]
     },
     {
-      "title": "Bláznivá\nsvačina • Alenka v kraji divů a za zrcadlem",
+      "title": "Bláznivá svačina",
       "file": "alenka_v_kraji_divu_055.html",
       "words": 1636,
-      "chars": 9343,
-      "ideas": 111,
+      "chars": 9344,
+      "ideas": 110,
       "role": "chapter",
       "order": 10,
       "prev": "alenka_v_kraji_divu_045.html",
@@ -228,14 +256,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Bláznivá\nsvačina",
+          "name": "Bláznivá svačina",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Královnino kroketové hřiště • Alenka v kraji divů a za zrcadlem",
+      "title": "Královnino kroketové hřiště",
       "file": "alenka_v_kraji_divu_062.html",
       "words": 1922,
       "chars": 11034,
@@ -255,7 +283,7 @@
       ]
     },
     {
-      "title": "Paželví povídka • Alenka v kraji divů a za zrcadlem",
+      "title": "Paželví povídka",
       "file": "alenka_v_kraji_divu_071.html",
       "words": 1690,
       "chars": 9879,
@@ -275,7 +303,7 @@
       ]
     },
     {
-      "title": "Humří čtverylka • Alenka v kraji divů a za zrcadlem",
+      "title": "Humří čtverylka",
       "file": "alenka_v_kraji_divu_078.html",
       "words": 1467,
       "chars": 8364,
@@ -295,7 +323,7 @@
       ]
     },
     {
-      "title": "Kdo ukradl vdolky • Alenka v kraji divů a za zrcadlem",
+      "title": "Kdo ukradl vdolky",
       "file": "alenka_v_kraji_divu_083.html",
       "words": 1367,
       "chars": 8157,
@@ -315,7 +343,7 @@
       ]
     },
     {
-      "title": "Alenčino svědectví • Alenka v kraji divů a za zrcadlem",
+      "title": "Alenčino svědectví",
       "file": "alenka_v_kraji_divu_089.html",
       "words": 1579,
       "chars": 9106,
@@ -335,7 +363,7 @@
       ]
     },
     {
-      "title": "Za zrcadlem, a s čím se tam Alenka setkala • Alenka v kraji divů a za zrcadlem",
+      "title": "Za zrcadlem, a s čím se tam Alenka setkala",
       "file": "alenka_v_kraji_divu_097.html",
       "words": 9,
       "chars": 42,
@@ -375,7 +403,7 @@
       ]
     },
     {
-      "title": "Předmluva • Alenka v kraji divů a za zrcadlem",
+      "title": "Předmluva",
       "file": "alenka_v_kraji_divu_099.html",
       "words": 1,
       "chars": 9,
@@ -395,7 +423,7 @@
       ]
     },
     {
-      "title": "Dům za zrcadlem • Alenka v kraji divů a za zrcadlem",
+      "title": "Dům za zrcadlem",
       "file": "alenka_v_kraji_divu_100.html",
       "words": 2355,
       "chars": 13142,
@@ -415,7 +443,7 @@
       ]
     },
     {
-      "title": "Zahrada živých květin • Alenka v kraji divů a za zrcadlem",
+      "title": "Zahrada živých květin",
       "file": "alenka_v_kraji_divu_116.html",
       "words": 2123,
       "chars": 12273,
@@ -435,7 +463,7 @@
       ]
     },
     {
-      "title": "Hmyz za zrcadlem • Alenka v kraji divů a za zrcadlem",
+      "title": "Hmyz za zrcadlem",
       "file": "alenka_v_kraji_divu_125.html",
       "words": 2089,
       "chars": 11726,
@@ -455,7 +483,7 @@
       ]
     },
     {
-      "title": "Tydliták a Tydlitek • Alenka v kraji divů a za zrcadlem",
+      "title": "Tydliták a Tydlitek",
       "file": "alenka_v_kraji_divu_135.html",
       "words": 2140,
       "chars": 12204,
@@ -475,11 +503,11 @@
       ]
     },
     {
-      "title": "Vlna\na voda • Alenka v kraji divů a za zrcadlem",
+      "title": "Vlna a voda",
       "file": "alenka_v_kraji_divu_150.html",
       "words": 2189,
-      "chars": 12732,
-      "ideas": 105,
+      "chars": 12733,
+      "ideas": 104,
       "role": "chapter",
       "order": 23,
       "prev": "alenka_v_kraji_divu_135.html",
@@ -488,14 +516,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vlna\na voda",
+          "name": "Vlna a voda",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Valihrach • Alenka v kraji divů a za zrcadlem",
+      "title": "Valihrach",
       "file": "alenka_v_kraji_divu_159.html",
       "words": 2219,
       "chars": 12878,
@@ -515,7 +543,7 @@
       ]
     },
     {
-      "title": "Lev a jednorožec • Alenka v kraji divů a za zrcadlem",
+      "title": "Lev a jednorožec",
       "file": "alenka_v_kraji_divu_165.html",
       "words": 1877,
       "chars": 10814,
@@ -535,7 +563,7 @@
       ]
     },
     {
-      "title": "„Je to můj vynález“ • Alenka v kraji divů a za zrcadlem",
+      "title": "„Je to můj vynález“",
       "file": "alenka_v_kraji_divu_176.html",
       "words": 3805,
       "chars": 21558,
@@ -555,11 +583,11 @@
       ]
     },
     {
-      "title": "Královna\nAlenka • Alenka v kraji divů a za zrcadlem",
+      "title": "Královna Alenka",
       "file": "alenka_v_kraji_divu_186.html",
       "words": 2995,
-      "chars": 17572,
-      "ideas": 174,
+      "chars": 17573,
+      "ideas": 173,
       "role": "chapter",
       "order": 27,
       "prev": "alenka_v_kraji_divu_176.html",
@@ -568,14 +596,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Královna\nAlenka",
+          "name": "Královna Alenka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Třesení • Alenka v kraji divů a za zrcadlem",
+      "title": "Třesení",
       "file": "alenka_v_kraji_divu_197.html",
       "words": 53,
       "chars": 256,
@@ -595,7 +623,7 @@
       ]
     },
     {
-      "title": "Probuzení • Alenka v kraji divů a za zrcadlem",
+      "title": "Probuzení",
       "file": "alenka_v_kraji_divu_199.html",
       "words": 12,
       "chars": 42,
@@ -615,7 +643,7 @@
       ]
     },
     {
-      "title": "Komu se to zdálo? • Alenka v kraji divů a za zrcadlem",
+      "title": "Komu se to zdálo?",
       "file": "alenka_v_kraji_divu_201.html",
       "words": 464,
       "chars": 2589,
@@ -635,7 +663,7 @@
       ]
     },
     {
-      "title": "O autorovi Alenčiných dobrodružných příběhů • Alenka v kraji divů a za zrcadlem",
+      "title": "O autorovi Alenčiných dobrodružných příběhů",
       "file": "alenka_v_kraji_divu_204.html",
       "words": 2435,
       "chars": 15343,
@@ -655,11 +683,11 @@
       ]
     },
     {
-      "title": "Tiráž • Alenka v kraji divů a za zrcadlem",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 173,
-      "chars": 1077,
-      "ideas": 24,
+      "words": 138,
+      "chars": 872,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "alenka_v_kraji_divu_204.html",
@@ -677,14 +705,14 @@
   ],
   "totals": {
     "all": {
-      "words": 44387,
-      "chars": 255355,
-      "ideas": 2374
+      "words": 44352,
+      "chars": 255155,
+      "ideas": 2360
     },
     "chapters": {
       "words": 44203,
-      "chars": 254221,
-      "ideas": 2346
+      "chars": 254226,
+      "ideas": 2341
     }
   }
 }

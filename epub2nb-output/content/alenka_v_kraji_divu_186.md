@@ -1,7 +1,5 @@
 ---
-title: |-
-  Královna
-  Alenka
+title: Královna Alenka
 contentType: prose
 ---
 

@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - alenka_v_kraji_divu_002.html
+  - promo.html
   - alenka_v_kraji_divu_005.html
   - alenka_v_kraji_divu_006.html
   - alenka_v_kraji_divu_007.html

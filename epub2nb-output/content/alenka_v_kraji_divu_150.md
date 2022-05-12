@@ -1,7 +1,5 @@
 ---
-title: |-
-  Vlna
-  a voda
+title: Vlna a voda
 contentType: prose
 ---
 

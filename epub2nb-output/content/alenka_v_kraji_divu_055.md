@@ -1,7 +1,5 @@
 ---
-title: |-
-  Bláznivá
-  svačina
+title: Bláznivá svačina
 contentType: prose
 ---
 

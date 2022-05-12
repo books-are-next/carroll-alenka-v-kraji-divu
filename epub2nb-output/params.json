@@ -45,7 +45,7 @@
         "filename": "alenka_v_kraji_divu_002.md",
         "xhtml": "alenka_v_kraji_divu_002.html",
         "id": 1,
-        "role": "chapter",
+        "role": "promo",
         "inToc": false,
         "listType": "plain",
         "devoured": false,
@@ -2289,7 +2289,7 @@
         "xhtml": "alenka_v_kraji_divu_023.html"
       },
       {
-        "titleSuggest": "Kuriální závod\na sáhodlouhý obrázek",
+        "titleSuggest": "Kuriální závod a sáhodlouhý obrázek",
         "subtitleSuggest": "",
         "filename": "alenka_v_kraji_divu_024.md",
         "xhtml": "alenka_v_kraji_divu_024.html"
@@ -2367,7 +2367,7 @@
         "xhtml": "alenka_v_kraji_divu_036.html"
       },
       {
-        "titleSuggest": "Houseňákova\nrada",
+        "titleSuggest": "Houseňákova rada",
         "subtitleSuggest": "",
         "filename": "alenka_v_kraji_divu_037.md",
         "xhtml": "alenka_v_kraji_divu_037.html"
@@ -2475,7 +2475,7 @@
         "xhtml": "alenka_v_kraji_divu_054.html"
       },
       {
-        "titleSuggest": "Bláznivá\nsvačina",
+        "titleSuggest": "Bláznivá svačina",
         "subtitleSuggest": "",
         "filename": "alenka_v_kraji_divu_055.md",
         "xhtml": "alenka_v_kraji_divu_055.html"
@@ -3045,7 +3045,7 @@
         "xhtml": "alenka_v_kraji_divu_149.html"
       },
       {
-        "titleSuggest": "Vlna\na voda",
+        "titleSuggest": "Vlna a voda",
         "subtitleSuggest": "",
         "filename": "alenka_v_kraji_divu_150.md",
         "xhtml": "alenka_v_kraji_divu_150.html"
@@ -3261,7 +3261,7 @@
         "xhtml": "alenka_v_kraji_divu_185.html"
       },
       {
-        "titleSuggest": "Královna\nAlenka",
+        "titleSuggest": "Královna Alenka",
         "subtitleSuggest": "",
         "filename": "alenka_v_kraji_divu_186.md",
         "xhtml": "alenka_v_kraji_divu_186.html"
@@ -3858,6 +3858,6 @@
       "user": "books-are-next",
       "repo": "carroll-alenka-v-kraji-divu"
     },
-    "generatedAt": 1651835990516
+    "generatedAt": 1652351693642
   }
 }
