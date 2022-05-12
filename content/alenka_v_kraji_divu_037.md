@@ -1,7 +1,5 @@
 ---
-title: |-
-  Houseňákova
-  rada
+title: Houseňákova rada
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Kuriální závod
-  a sáhodlouhý obrázek
+title: Kuriální závod a sáhodlouhý obrázek
 contentType: prose
 ---
 
