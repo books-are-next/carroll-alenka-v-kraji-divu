@@ -3,9 +3,13 @@ title: Královnino kroketové hřiště
 contentType: prose
 ---
 
+<section>
+
 U vchodu do zahrady stál velký růžový štěp. Rostly na něm bílé růže, ale tři zahradníci je usilovně přetírali na červeno. Alence to bylo velmi divné, šla se tedy na ně podívat zblízka, a když k nim došla, zaslechla: „Dávej pozor, Pětko! Nestříkej po mně pořád barvou.“
 
-  
+</section>
+
+<section>
 
 „Já za to nemohu,“ zavrčel Pětka, „Sedmička mě šťouchl do lokte.“ Sedmička hned zdvihl hlavu a řekl: „Tak, tak, Pětko. Jen to vždycky svaluj na druhé.“
 
@@ -25,11 +29,19 @@ Pětka a Sedmička neříkali nic, jenom hleděli na Dvojku. Dvojka tichounce vy
 
 Napřed šlo deset křížových vojáků. Vzhled měli stejný jako ti tři zahradníci, byli podlouhlí a ploší a ruce a nohy měli v rozích. Za nimi šlo deset skvostně károvaných dvořanů. Stejně jako vojáci i oni pochodovali ve dvojstupu. Pak šly královské děti, bylo jich deset; vedly se po dvou za ruce a tak cupitala vesele ta drobotina, celá ozdobená srdci. Za nimi se hrnuli hosté, samí Králové a Královny, Alenka mezi nimi zahlédla také Bílého Králíka. Rozčileně drmolil, všemu se culil a tak prošel vedle Alenky a ani si jí nevšiml. Potom šel Srdcový Spodek a na podušce z nachového sametu nesl královskou korunu. Na samém konci tohoto nádherného průvodu kráčel pak Král s Královnou.
 
+</section>
 
+
+
+<section>
 
 ![alenka_023](./resources/alenka_023.jpg)
 
+</section>
 
+
+
+<section>
 
 Alenka se rozmýšlela, nemá-li se taky vrhnout tváří k zemi jako ti tři zahradníci, ale na žádné takové pravidlo při průvodu si nevzpomínala; a nač by ostatně byl průvod, napadlo jí, kdyby kdekdo musil ležet tváří k zemi a nic by z něho neviděl? A tak tam bez hnutí stála a čekala.
 
@@ -59,11 +71,19 @@ Zahradníci se rázem postavili na nohy a klaněli se Králi, Královně, králo
 
 „Vaše Veličenstvo,“ promluvil poníženě Dvojka a poklekl na jedno koleno, „my jsme se snažili –“
 
+</section>
 
+
+
+<section>
 
 ![alenka_023a](./resources/alenka_023a.jpg)
 
+</section>
 
+
+
+<section>
 
 Královna si už zatím prohlédla růže a přerušila ho: „No bodejť! Hlavu jim srazit!“ Průvod se hnul kupředu, zůstali tam jen tři vojáci – měli popravit zahradníky, jenže ti se uchýlili pod Alenčinu ochranu.
 
@@ -113,11 +133,19 @@ Alenka čekala, až se objeví oči, a potom kývla hlavou. „Darmo s ní mluvi
 
 „Jak se ti líbí Královna?“ zeptala se tiše Šklíba.
 
+</section>
 
+
+
+<section>
 
 ![alenka_024](./resources/alenka_024.jpg)
 
+</section>
 
+
+
+<section>
 
 „Vůbec se mi nelíbí,“ řekla Alenka, „ona je tak strašně –“ Tu si všimla, že Královna stojí přímo za ní a poslouchá, a tak dopověděla: „šikovná, že ani nestojí za to, hrát až do konce.“
 
@@ -153,11 +181,19 @@ Sotva se tam Alenka objevila, hned se všichni tři doprošovali, aby jejich spo
 
 Kat se oháněl tím, že hlava se dá srazit jenom tehdy, když sedí na nějakém těle; něco takového jaktěživ nedělal, a aby si s tím teď začínal, na to je už moc starý.
 
+</section>
 
+
+
+<section>
 
 ![alenka_025](./resources/alenka_025.jpg)
 
+</section>
 
+
+
+<section>
 
 Král se oháněl tím, že to, co má hlavu, dá se taky o hlavu zkrátit, a nikdo ať mu nepovídá hlouposti.
 
@@ -168,3 +204,5 @@ Alence něco napadlo a hned vyhrkla: „Vždyť ta Šklíba patří Vévodkyni, 
 „Vévodkyně je v žaláři.“ Královna řekla katovi: „Přiveď ji sem!“ Než bys řekl švec, kat byl v prachu.
 
 Sotva kat odešel, začala se kočičí hlava rozplývat, a než se s Vévodkyní vrátil, byla tatam. Král s katem lítali jak splašení a hledali ji a ostatní se pustili znovu do hry.
+
+</section>

@@ -3,9 +3,13 @@ title: Lev a jednorožec
 contentType: prose
 ---
 
+<section>
+
 Vzápětí se rozběhli po lese vojáci, nejprve běhali po dvou, po třech, potom po desíti, po dvacíti a nakonec v houfech, až jich bylo všude plno. Aby ji snad neporazili, schovala se Alenka za strom a odtamtud je pozorovala.
 
-  
+</section>
+
+<section>
 
 Takové vrávoravé vojáky jakživa neviděla. Pořád o něco zakopávali, a jak jeden upadl, upadli přes něho další, až nakonec byla země kupami vojáků přímo poseta.
 
@@ -25,11 +29,19 @@ A na takovou dálku! Za takového světla já mám co dělat, abych vůbec něko
 
 Alenka to přeslechla; jednou rukou si zacláněla oči, upřeně zírala na silnici, až najednou zvolala: „Už někoho vidím! Ale nějak se loudá – a v jakém divném postoji to sem kráčí!“ (Kurýr totiž ustavičně přeskakoval z nohy na nohu, úhořovitě se kroutil vpřed, mohutné dlaně rozpřažené jako ploutve.)
 
+</section>
 
+
+
+<section>
 
 ![alenka_064](./resources/alenka_064.jpg)
 
+</section>
 
+
+
+<section>
 
 „Ba ne, neloudá se,“ řekl Král. „Je to anglosaský kurýr – a má anglosaský postoj. Ten zaujímá, jenom když je šťastný. Jmenuje se Švejda.“ (Vyslovil to tak, že se to rýmovalo na „strejda“.)
 
@@ -98,11 +110,19 @@ Spíš zemětřeseníčko! pomyslila si Alenka. „Kdo se zas pere?“ osmělila
 
 Alenka zase kus běžela a potom zahekala: „Buďte tak – hodný – zastavte – minoutku – ať trochu – vydechnu.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_065](./resources/alenka_065.jpg)
 
+</section>
 
+
+
+<section>
 
 „Hodný jsem dost,“ řekl Král, „ale ne dost silný. Minoutka uteče jako nic. To bys spíš Pentlochňapa zastavila.“
 
@@ -130,11 +150,19 @@ Zejda s nadlidským úsilím spolkl pořádný žvanec chleba. „Činí se jedn
 
 V boji nastala přestávka, Lev a Jednorožec se celí schvácení posadili a Král zvolal: „Deset minut na občerstvení!“ Švejda a Zejda nelenili a roznášeli mísy s bílým a černým chlebem. Alenka si také vzala kousek na ochutnání, ale byl náramně suchý.
 
+</section>
 
+
+
+<section>
 
 ![alenka_066](./resources/alenka_066.jpg)
 
+</section>
 
+
+
+<section>
 
 „Dnes už myslím bojovat nebudou,“ řekl Král Zejdovi. „Jdi a poruč, ať zavíří bubny.“ Zejda odhopkal jako luční kobylka.
 
@@ -179,11 +207,19 @@ Lev se omrzele podíval po Alence a „jsi živočich – rostlina – nebo nero
 
 Než mu Alenka odpověděla, vykřikl Jednorožec: „Je to bájná obluda!“
 
+</section>
 
+
+
+<section>
 
 ![alenka_067](./resources/alenka_067.jpg)
 
+</section>
 
+
+
+<section>
 
 „Tak podej koláč, Obludo,“ řekl Lev a ulehl s bradou opřenou o pracky. „A vy se posaďte,“ řekl Králi a Jednorožci, „koláč ať mi rozdělíte spravedlivě!“
 
@@ -195,11 +231,19 @@ Sedět mezi dvěma takovými šelmami bylo Králi zřejmě nemilé, ale jinam si
 
 „Jen jestli,“ řekl Jednorožec.
 
+</section>
 
+
+
+<section>
 
 ![alenka_068](./resources/alenka_068.jpg)
 
+</section>
 
+
+
+<section>
 
 „Vždyť jsem tě, ty strašpytle, prohnal přes celé město!“ řekl. „To je pěkný kus cesty. Šli jste po starém mostě, nebo přes rynek? Nejlepší vyhlídka je ze starého mostu.“
 
@@ -221,6 +265,10 @@ Marně pátrala, odkud se ten hřmot ozývá; ze všech stran jí zaléhal do u�
 
 potom padla na kolena a zacpala si uši, aby ten strašlivý rámus neslyšela.
 
-  
+</section>
+
+<section>
 
 „Jestli tímhle je nevybubnují až za město,“ řekla si, „tak už ničím.“
+
+</section>

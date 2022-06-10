@@ -3,9 +3,13 @@ title: O tom, jak Vilík komínem vylít
 contentType: prose
 ---
 
+<section>
+
 Ale to k ní zvolna hupkal zpátky Bílý Králík a starostlivě se rozhlížel, jako by byl něco ztratil; mumlal si pro sebe: „Ta vévodkyně! Ta vévodkyně! Ach vy mé běhy! Ach ty můj kožíšku, ach vy mé fousky! Ta mě dá jistě popravit, jakože jsou fretky fretky! Kde jsem je asi pohodil?“ Alenka ihned uhodla, že se shání po vějíři a bílých kozinkových rukavicích, a bez říkání je hledala a hledala, ale nebylo po nich ani vidu – po té koupeli v kaluži jako by se všechno změnilo a velká síň se skleněným stolkem a dvířky nadobro zmizela.
 
-  
+</section>
+
+<section>
 
 Králík si toho Alenčina shánění všiml a hned se na ni osopil: „Prosím vás, Marjánko, co vy tady děláte! Hned běžte domů a přineste mi rukavice a vějíř. Ale honem!“ Alenka se polekala a běžela, kam jí Králík ukázal, ani se nepokusila vyvést ho z omylu. „On myslel, že jsem jeho služka,“ řekla si v běhu. „Ten se podiví, až pozná, kdo jsem. Ale přece jen mu vějíř a rukavice donesu – jestli je ovšem najdu.“ Sotva to dořekla, octla se u pěkného domečku a na dveřích se blyštěla mosazná tabulka s vyrytým jménem „V. Králík“. Bez klepání vešla dovnitř a uháněla po schodech nahoru, celá bez sebe strachy, aby ji pravá Marjánka nepotkala a nevyhodila z domu, ještě než najde vějíř a rukavice.
 
@@ -19,11 +23,19 @@ Honem zas lahvičku postavila a řekla si: „To úplně stačí – doufám, ž
 
 Ale pozdě bycha honit! Alenka rostla a rostla, a tak chtíc nechtíc klekla na zem: za chvíli už ani v pokleku nevydržela, zkusila si tedy lehnout a loktem se opřít o dveře a druhou rukou si podložit hlavu. Ale pořád rostla, a tak jí nakonec nezbylo, než vystrčit jednu ruku z okna a jednu nohu strčit do komína a pak si řekla: „Už nemohu nic dělat, ať se stane, co stane. Co mě ještě čeká?“
 
+</section>
 
+
+
+<section>
 
 ![alenka_010](./resources/alenka_010.jpg)
 
+</section>
 
+
+
+<section>
 
 Kouzelná lahvička naštěstí už dále neúčinkovala, takže Alenka přestala růst. I tak jí bylo nepříjemně; vypadalo to, že v té světnici zůstane do smrti trčet, kdo by se tedy divil, že byla celá nešťastná.
 
@@ -41,11 +53,19 @@ Vtom došel Králík ke dveřím a chtěl je otevřít, ale protože se dveře o
 
 A nevlezeš, pomyslila si Alenka, čekala, až zaslechne Králíka přímo pod oknem, potom naráz rozevřela dlaň a nazdařbůh chňapla. Nic nechytla, ale někdo zavřískl a svalil se a zařinčelo sklo; usoudila, že Králík spadl do pařeniště s okurkami nebo něčím takovým.
 
+</section>
 
+
+
+<section>
 
 ![alenka_010a](./resources/alenka_010a.jpg)
 
+</section>
 
+
+
+<section>
 
 Někdo se zlostně rozkřikl – byl to Králík – „Anton! Anton! Kde jsi?“ a pak se ozval hlas, který Alenka dosud neslyšela: „Tade so! Vekopávám erteple, milospane!“
 
@@ -77,11 +97,19 @@ Konečně někdo slabounce zapištěl (To bude Vilík, pomyslila si Alenka). „
 
 „Musíme dům podpálit!“ ozval se Králík. A Alenka se rozkřikla: „Jen se opovažte, pošlu na vás Micku!“
 
+</section>
 
+
+
+<section>
 
 ![alenka_012](./resources/alenka_012.jpg)
 
+</section>
 
+
+
+<section>
 
 Zavládlo hrobové ticho a Alenka si pomyslila: To jsem zvědavá, co bude teď. Kdyby měli špetku rozumu, sundali by střechu. Po chvilce už zas šukali kolem a Alenka zaslechla Králíka, jak říká: „Jeden trakař prozatím stačí.“ Trakař čeho? přemýšlela Alenka. Ale dlouho na pochybách nezůstala, neboť vzápětí zafičely do okna oblázky a některé ji zasáhly do tváře. „Tohle jim zatrhnu,“ řekla si a houkla na ně: „Nechte toho!“ a znovu zavládlo hrobové ticho.
 
@@ -105,6 +133,12 @@ Co, to bylo jistě hlavní. Alenka se ohlížela po květinách a travinách, al
 
 Vystoupla na špičky a nakoukla přes okraj houby, a tu se střetla s velkýma modrýma očima Houseňáka; seděl na houbě se založenýma rukama, klidně bafal z dlouhé fajfky a ničeho si nevšímal, ani Alenky.
 
+</section>
 
+
+
+<section>
 
 ![alenka_013](./resources/alenka_013.jpg)
+
+</section>

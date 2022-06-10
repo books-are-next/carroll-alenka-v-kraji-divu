@@ -3,9 +3,13 @@ title: Tydliták a Tydlitek
 contentType: prose
 ---
 
+<section>
+
 Stáli pod stromem, drželi se kolem krku, a kdo je kdo, poznala Alenka rázem podle toho, že jeden měl na límci vyšito **ták** a druhý **tek.** „Vzadu na límci mají asi oba **tydli**,“ řekla si Alenka.
 
-  
+</section>
+
+<section>
 
 Jak tak strnule stáli, nadobro zapomněla, že jsou živí, a prohlížela si je, mají-li opravdu vzadu na límci **tydli**, a tu ten, který byl označen **ták**, promluvil, až sebou trhla.
 
@@ -31,11 +35,19 @@ Jak tak strnule stáli, nadobro zapomněla, že jsou živí, a prohlížela si j
 
 „Myslím jen na to,“ řekla zdvořile Alenka, „kudy se dostanu ven z lesa. Už se stmívá. Povězte mi to prosím.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_052](./resources/alenka_052.jpg)
 
+</section>
 
+
+
+<section>
 
 Ale tlouštíci jenom koukli po sobě a oba se ušklíbli.
 
@@ -94,11 +106,19 @@ Tydlitek se vlídně usmál a spustil znovu:
 > Obláčky nikde, proto je  
 > neviděl nikdo plout._
 
+</section>
 
+
+
+<section>
 
 ![alenka_053a](./resources/alenka_053a.jpg)
 
+</section>
 
+
+
+<section>
 
 > _Mrož s Tesařem tam na břehu  
 > chodili ostošest.  
@@ -114,11 +134,19 @@ Tydlitek se vlídně usmál a spustil znovu:
 > „To ne,“ děl Tesař, slza se  
 > mu vkradla do oka._
 
+</section>
 
+
+
+<section>
 
 ![alenka_053b](./resources/alenka_053b.jpg)
 
+</section>
 
+
+
+<section>
 
 > _Mrož úlisný tón nasadil:  
 > „Jen pojďte, ústřice,  
@@ -169,11 +197,19 @@ Tydlitek se vlídně usmál a spustil znovu:
 > Děl Tesař: „Počkám.“ Děkoval  
 > mu ústřic plný břeh._
 
+</section>
 
+
+
+<section>
 
 ![alenka_054](./resources/alenka_054.jpg)
 
+</section>
 
+
+
+<section>
 
 > _„Bochníkem chleba,“ pravil Mrož,  
 > „je nutno zahnat hlad,  
@@ -263,11 +299,19 @@ Tak hlasitě se rozkřikl, že ho Alenka bezděky napomenula: „Pst! Ještě ho
 
 „Pláčem se o nic skutečnější nestaneš,“ prohodil Tydlitek, „nač tedy plakat.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_055](./resources/alenka_055.jpg)
 
+</section>
 
+
+
+<section>
 
 „Kdybych nebyla skutečná,“ Alenka se přes slzy pousmála, tak jí to připadalo směšné, „nemohla bych plakat.“
 
@@ -293,11 +337,19 @@ Sobci! pomyslila si Alenka a už jim chtěla dát sbohem a odejít, ale tu vysko
 
 Tydlitek se zatím snažil sklapnout deštník a sám se do něho zaklapnout. Bylo to tak úžasné, že si Alenka rozhněvaného bratra už nevšímala. Ale nějak se mu to nepovedlo a nakonec se zachumlaný do deštníku skulil na zem, jenom hlava mu čouhala. Ležel tam a otvíral a zavíral ústa a poulil a mhouřil kukadla – docela jako ryba, pomyslila si Alenka.
 
+</section>
 
+
+
+<section>
 
 ![alenka_056a](./resources/alenka_056a.jpg)
 
+</section>
 
+
+
+<section>
 
 „Ale bít se budeš, ne?“ řekl Tydliták klidnějším hlasem.
 
@@ -331,11 +383,19 @@ Tydlitek koukl na hodinky a řekl: „Půl páté.“
 
 „A já zas rozsekám všechno, nač dosáhnu, ať to vidím, nebo ne,“ křikl Tydliták.
 
+</section>
 
+
+
+<section>
 
 ![alenka_056b](./resources/alenka_056b.jpg)
 
+</section>
 
+
+
+<section>
 
 Alenka se zasmála a řekla: „Tak to asi rozsekáš hodně stromů.“
 
@@ -356,3 +416,5 @@ Najednou se setmělo; to bude bouřka, pomyslila si Alenka.
 „To je mi nějaký hustý černý mrak!“ řekla. „A jak se valí. Co to, snad má křídla!“
 
 „Vrána!“ zapištěl zděšeně Tydliták. Oba bratři vzali do zaječích a v tu ránu byli pryč. Alenka vběhla do lesa a zůstala stát pod rozložitým stromem. Sem na mě nemůže, pomyslila si, je tak mohutná, že se mezi stromy nevmáčkne. Ale nemusela by tolik mávat křídly – po celém lese tím rozdouvá vichřici – tady někomu ulítla šála!
+
+</section>

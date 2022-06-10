@@ -3,9 +3,13 @@ title: Bláznivá svačina
 contentType: prose
 ---
 
+<section>
+
 Pod stromem u domu bylo prostřeno a svačili tam Zajíc Březňák se Ševcem. Mezi nimi seděl Plch a tvrdě spal a oni loktem o něho opřeni bavili se mu nad hlavou.
 
-  
+</section>
+
+<section>
 
 Moc pohodlné to ten Plch zrovna nemá, pomyslila si Alenka, ale když spí, snad je mu to jedno.
 
@@ -55,11 +59,19 @@ Alenka se chvilku rozmýšlela, pak řekla: „Čtvrtého.“
 
 Zajíc Březňák vzal hodinky a zachmuřeně si je prohlížel. Pak je ponořil do šálku s čajem, znovu si je prohlížel, ale na nic lepšího nepřipadl, než co řekl prve: „Vždyť to bylo nejlepší máslo.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_020](./resources/alenka_020.jpg)
 
+</section>
 
+
+
+<section>
 
 Alenka mu zvědavě koukala přes rameno. „To jsou mi divné hodinky!“ utrousila. „Ukazují, kolikátého je, a ne kolik je hodin!“
 
@@ -101,11 +113,19 @@ Alenka si omrzele povzdechla. „Taky byste mohli naložit s časem líp a nema�
 
 „Třeba ne hned,“ řekl Švec, „ale hodiny ti zůstanou na půl druhé, jak dlouho chceš.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_021](./resources/alenka_021.jpg)
 
+</section>
 
+
+
+<section>
 
 „A vy to tak děláte?“ zeptala se Alenka.
 
@@ -182,11 +202,19 @@ Plch chvilku přemýšlel a pak řekl: „Byla to sirupová studánka.“
 
 „Vždyť žádná není,“ hartusila Alenka, ale Švec a Zajíc Březňák na ni dělali Pst! Pst! a Plch vybuchl: „Když se neumíš slušně chovat, tak si to dopověz sama.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_022](./resources/alenka_022.jpg)
 
+</section>
 
+
+
+<section>
 
 „Ale ne, prosím vás, povídejte dál!“ prosila Alenka. „Už nebudu vyrušovat. Tak tedy _jedna_ taková studánka je.“
 
@@ -231,3 +259,5 @@ Ta hrubost Alence dodala. Rozezleně vstala a šla pryč; Plch rázem usnul a dr
 Jen to dořekla, všimla si, že v jednom stromě jsou dvířka. To je ale divné! napadlo jí. Ale dnes je všechno divné. Co kdybych šla dovnitř. A šla. A opět se octla v dlouhé síni, hned vedle skleněného stolečku.
 
 „Už si dám lepší pozor,“ řekla si a rovnou sebrala zlatý klíček a odemkla dvířka do zahrady. Potom uždibovala houbu (měla jí kousek v kapse), až se zmenšila na pouhou stopu. Potom prošla chodbičkou; a potom se konečně octla – v divukrásné zahradě, mezi bujně kvetoucími záhony a chladivými vodotrysky.
+
+</section>

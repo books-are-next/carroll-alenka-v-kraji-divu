@@ -3,9 +3,13 @@ title: Královna Alenka
 contentType: prose
 ---
 
+<section>
+
 „To je báječné!“ řekla Alenka. „Ani jsem se nenadála, že budu tak brzo Královnou – a řeknu vám, Vaše Veličenstvo,“ dodala přísným hlasem (vždycky se totiž ráda peskovala), „to nejde, takhle se povalovat v trávě! Královny musí zachovávat důstojnost!“
 
-  
+</section>
+
+<section>
 
 Vstala a procházela se – zprvu trochu strnule, aby jí snad koruna nespadla, ale utěšovala se tím, že ji nikdo nevidí; znovu usedla a řekla si: „Jestli jsem doopravdy Královna, však já se do toho časem vpravím.“ Všechno, co se s ní dělo, bylo podivné, a tak ji ani nepřekvapilo, že vedle sebe má po jedné straně Černou a po druhé Bílou Královnu. Měla chuť zeptat se jich, kde se tu berou, ale nezdálo se jí to dost zdvořilé.
 
@@ -39,11 +43,19 @@ Bílá Královna se pousmála a řekla: „A já zase zvu vás.“
 
 „Tu možnost jsme ti poskytly,“ prohodila Černá Královna, „ale jak se zdá, v učení slušným způsobům jsi zatím moc nepokročila.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_074](./resources/alenka_074.jpg)
 
+</section>
 
+
+
+<section>
 
 „Slušným způsobům se ve škole neučí,“ řekla Alenka, „tam se učí počtům a podobným věcem.“
 
@@ -174,11 +186,19 @@ Alenka jí podle příkazu přihlazovala vlasy a řekla: „Nemám s sebou nočn
 > Alenka a obě Královny –  
 > zatančit si na ples čarovný._
 
+</section>
 
+
+
+<section>
 
 ![alenka_075](./resources/alenka_075.jpg)
 
+</section>
 
+
+
+<section>
 
 Potom dodala: „Slova už znáš, teď ji celou zazpívej mně, na mě jdou taky dřímoty,“ a opřela hlavu o druhé Alenčino rameno. A v mžiku spaly obě Královny, jako když je do vody hodí, a chrápaly na celé kolo.
 
@@ -204,11 +224,19 @@ Alenka div nedupla zlostí nad tím, jak to ze sebe souká. „No přece tyhle d
 
 Žabák si tupými kukadly měřil chvíli dveře. Potom přistoupil až k nim, přejel po nich palcem, jako by zkoušel, jestli nepouštějí barvu; potom pohlédl na Alenku.
 
+</section>
 
+
+
+<section>
 
 ![alenka_076](./resources/alenka_076.jpg)
 
+</section>
 
+
+
+<section>
 
 „Obsluhuje dveře?“ řekl. „A čím je má obsloužit?“ Tak sípal, že mu Alenka sotva rozuměla.
 
@@ -256,11 +284,19 @@ V čele stolu stála tři křesla; ve dvou seděly Černá a Bílá Královna, p
 
 Konečně se ozvala Černá Královna: „O polévku a rybu jsi přišla,“ řekla. „Přineste pečeni!“ A číšníci položili před Alenku skopovou kýtu. Alenka na ni hleděla starostlivě, ještě nikdy pečeni nekrájela.
 
+</section>
 
+
+
+<section>
 
 ![alenka_077](./resources/alenka_077.jpg)
 
+</section>
 
+
+
+<section>
 
 „Jsi nějaká nesmělá, dovol, abych ti představila Skopovou Kýtu,“ řekla Černá Královna. „Tohle je Alenka – tohle je Kýta. Tohle je Kýta – tohle je Alenka.“ Skopová Kýta na míse povstala a poklonila se Alence; Alenka jí poklonu oplatila a nevěděla, má-li se bát, nebo se smát.
 
@@ -330,14 +366,24 @@ Vtom zaslechla vedle sebe chraplavý smích, ohlédla se po Bílé Královně, c
 
 Času nebylo nazbyt. Někteří hosté leželi v mísách a polévková naběračka kráčela po stole k Alenčinu křeslu a zlostněji kynula, ať uhne z cesty.
 
+</section>
 
+
+
+<section>
 
 ![alenka_078](./resources/alenka_078.jpg)
 
+</section>
 
+
+
+<section>
 
 „Už to nevydržím!“ vykřikla Alenka, skočila a oběma rukama popadla ubrus – prudce trhla, a talíře, mísy, hosté i svíce, všechno se to s řinkotem sesypalo na zem.
 
 „A ty,“ obořila se na Černou Královnu, která to všechno podle ní měla na svědomí – ale Královna už vedle ní nebyla – najednou se scvrkla na malou panenku a honila se dokolečka po stole za svou vlající šálou.
 
 Jindy by snad Alenka užasla, ale tentokrát samým rozčilením už nežasla nad ničím. „Já s tebou,“ popadla tu osůbku, zrovna když přeskakovala láhev, která se snesla na stůl, „zatřesu, až z tebe bude kotě!“
+
+</section>

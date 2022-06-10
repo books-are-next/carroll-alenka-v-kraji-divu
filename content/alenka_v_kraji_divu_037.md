@@ -3,9 +3,13 @@ title: Houseňákova rada
 contentType: prose
 ---
 
+<section>
+
 Houseňák s Alenkou na sebe chvíli mlčky hleděli. Nakonec vyndal Houseňák fajfku z úst a lenivě, ospale promluvil.
 
-  
+</section>
+
+<section>
 
 „Kdopak jsi?“ řekl Houseňák.
 
@@ -37,11 +41,19 @@ Už zase taková zapeklitá otázka; Alenka ne a ne trefit na správnou odpově�
 
 „Vrať se!“ volal za ní Houseňák. „Něco důležitého ti povím!“
 
+</section>
 
+
+
+<section>
 
 ![alenka_014a](./resources/alenka_014a.jpg)
 
+</section>
 
+
+
+<section>
 
 To věru vypadalo slibně; Alenka se otočila a šla zpátky.
 
@@ -78,15 +90,27 @@ Alenka složila ruce a spustila:
 > Elce pelce do pekelce,  
 > koukej na ty kotrmelce._
 
+</section>
 
+
+
+<section>
 
 ![alenka_014b](./resources/alenka_014b.jpg)
 
+</section>
 
+
+
+<section>
 
 ![alenka_015a](./resources/alenka_015a.jpg)
 
+</section>
 
+
+
+<section>
 
 > _Že jsem tuze starý? Ať!  
 > Břicho mám jak zelná káď  
@@ -103,11 +127,19 @@ Alenka složila ruce a spustila:
 > Že už nejsem malý chlapec,  
 > nehoní mě nikdo na pec._
 
+</section>
 
+
+
+<section>
 
 ![alenka_015b](./resources/alenka_015b.jpg)
 
+</section>
 
+
+
+<section>
 
 > _Na nose mám úhoře  
 > a tak chodím po dvoře.  
@@ -195,3 +227,5 @@ Něco takového Alence ještě nikdy nenapadlo; chvilku byla zaražená a Holubi
 „Kliď se odtud,“ hartusila Holubice a uvelebila se zase v hnízdě. Alenka se usilovně prodírala stromovím, ale krk se jí stále zaplétal do větví, takže se musila co chvíli zastavit a krk vyprošťovat. Potom si vzpomněla, že ještě pořád drží v rukou kousky houby; opatrně se do nich pustila, uždibla nejprve z jedné ruky, potom z druhé, jednou trochu povyrostla, potom se zas scvrkla, až se jí nakonec poštěstilo, že byla zas tak veliká, jako bývala dřív.
 
 Dávno již nebyla ani přibližně tak veliká. Zprvu jí to bylo až divné, ale za chvíli si na to zvykla a zas už k sobě promlouvala jako obyčejně: „Vida, přání se mi napůl splnilo! Ty změny jsou samá záhada! Nikdy nevím, co se se mnou v příštím okamžiku stane. Hlavně že už jsem zase, jak jsem bývala; a teď se jen dostat do té krásné zahrady – ale jak –?“ Jen to dořekla, octla se na mýtince a tam stál domek vysoký necelé čtyři stopy. Alenka si řekla: „Ať už tam bydlí, kdo chce, takhle veliká k nim přijít nemohu, vždyť bych je k smrti vylekala.“ Uždibovala tedy znovu z pravé ruky, a teprve když se zmenšila na pět palců, odvážila se blíž k domku.
+
+</section>

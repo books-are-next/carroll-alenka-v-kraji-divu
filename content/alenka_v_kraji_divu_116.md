@@ -3,9 +3,13 @@ title: Zahrada živých květin
 contentType: prose
 ---
 
+<section>
+
 „Tamhle z toho vršku,“ řekla si Alenka, „se po zahradě líp rozhlédnu. Tady k němu vede pěšinka – snad, ba ne, nevede –“ (ušla kousek po pěšině a několikrát ostře zahnula), „ale nakonec třeba přece povede. Ta se nějak divně klikatí! To je vývrtka, a ne pěšina! A tudy snad odbočuje na vršek – ne, neodbočuje! Míří zpátky k domu. Zkusím to jinudy.“
 
-  
+</section>
+
+<section>
 
 A tak to zkoušela, zahýbala sem a tam, zahýbala hned na tu, hned na druhou stranu, ale dělej co dělej, vždycky došla zpátky k domu. Jednou dokonce zahnula prudčeji, a než se stačila zastavit, vrazila do něho.
 
@@ -61,11 +65,19 @@ Znělo to přesvědčivě a Alenka byla ráda, že to ví. „To jsem si nemysli
 
 „Jak se mi zdá, ty vůbec nemyslíš,“ řekla přísně Růže.
 
+</section>
 
+
+
+<section>
 
 ![alenka_046](./resources/alenka_046.jpg)
 
+</section>
 
+
+
+<section>
 
 „Aby někdo tak hloupě vypadal, to jsem neviděla,“ pronesla Fialka tak neočekávaně, že sebou Alenka trhla; předtím totiž vůbec nemluvila.
 
@@ -99,11 +111,19 @@ Alenka se honem ohlédla a ona to byla Černá Královna. „Ta ale vyrostla,“
 
 „Půjdu radši za ní,“ řekla si Alenka; květiny byly sice zajímavé, ale pohovořit si s opravdovou Královnou ji vábilo mnohem víc.
 
+</section>
 
+
+
+<section>
 
 ![alenka_047a](./resources/alenka_047a.jpg)
 
+</section>
 
+
+
+<section>
 
 „To je vyloučeno,“ řekla Růže, „radím ti, pusť se opačným směrem.“
 
@@ -127,11 +147,19 @@ Alence to bylo trochu divné, ale nevěřit Královně, na to ji příliš ctila
 
 Odporovat jí si Alenka netroufala: „– a tak jsem si řekla, že zkusím dojít na tamhleten vršek –“
 
+</section>
 
+
+
+<section>
 
 ![alenka_047b](./resources/alenka_047b.jpg)
 
+</section>
 
+
+
+<section>
 
 „Když říkáš vršek,“ skočila jí do řeči Královna, „já bych ti mohla ukázat vršky, proti kterým tamhleten nazveš hotovým údolím.“
 
@@ -161,11 +189,19 @@ Alenka se udiveně rozhlédla. „Tak se mi zdá, že jsme pořád pod tímto st
 
 „Toť se ví,“ řekla Královna. „A jak jinak?“
 
+</section>
 
+
+
+<section>
 
 ![alenka_048](./resources/alenka_048.jpg)
 
+</section>
 
+
+
+<section>
 
 „To v naší zemi,“ Alenka se stále ještě zajíkala, „když se běží tak dlouho, jak my jsme běžely, obyčejně se dojde někam jinam.“
 
@@ -191,7 +227,9 @@ Zatím už měla všechny kolíky zaraženy a Alenka ji napjatě sledovala, jak 
 
 U dvouyardového kolíku se po ní ohlédla a řekla: „Prvním tahem postoupí pěšec o dvě políčka. Třetí políčko projedeš rychle – nejspíš vlakem – a mžikem se octneš v čtvrtém políčku. To patří Tydlitákovi a Tydlitkovi – páté je samá voda – šesté patří zas Valihrachovi – ale ty na to nic neříkáš!“
 
-  
+</section>
+
+<section>
 
 „Když já jsem nevěděla, že mám něco říct,“ vykoktala Alenka.
 
@@ -200,3 +238,5 @@ U dvouyardového kolíku se po ní ohlédla a řekla: „Prvním tahem postoupí
 U dalšího kolíku se Královna znovu otočila a řekla: „Když něco nevíš česky, řekni to francouzsky – našlapuj špičkami od sebe – a pamatuj, kdo jsi!“ Tentokrát nečekala na Alenčinu poklonu, pokročila rázně k dalšímu kolíku, tam se otočila, řekla „sbohem“ a uháněla k poslednímu.
 
 Jak se to stalo, to Alenka nikdy nepochopí: sotva Královna došla k poslednímu kolíku, byla tatam. Marné bylo hádat, jestli se rozplynula do vzduchu nebo snad zaběhla do lesa („a běžet ona umí!“ řekla si Alenka), byla tatam a tu si Alenka vzpomněla, že je Pěšec a bude hnedle na tahu.
+
+</section>

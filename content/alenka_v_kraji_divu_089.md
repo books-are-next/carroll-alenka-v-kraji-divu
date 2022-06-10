@@ -3,9 +3,13 @@ title: Alenčino svědectví
 contentType: prose
 ---
 
+<section>
+
 „Zde!“ vykřikla Alenka; v tom rozčilení nadobro zapomněla, jak za tu chvilku vyrostla, a vylítla tak prudce, že obrubou sukně převrátila lavici porotců a porotce vyklopila divákům na hlavu; jak se tam rozplácli, připomínali jí akvárium se zlatými rybkami, které zrovna před týdnem nedopatřením převrhla.
 
-  
+</section>
+
+<section>
 
 „Prosím za prominutí!“ vyhrkla celá zdrcená a honem honem je sbírala; pořád ještě měla v hlavě tu nehodu se zlatými rybkami a tak nějak se jí zdálo, že je musí rychle posbírat a strčit zpátky do lavice, jinak že zahynou.
 
@@ -25,11 +29,19 @@ Sotva se porotci trochu vzpamatovali z leknutí a zřízenci poshledávali a vr�
 
 „To je významné,“ řekl Král porotcům. Už už si to zapisovali na tabulky, a tu mu vpadl Bílý Králík do řeči: „Snad bezvýznamné myslí Vaše Veličenstvo,“ řekl uctivě, ale přitom se na něho mračil a šklebil.
 
+</section>
 
+
+
+<section>
 
 ![alenka_034](./resources/alenka_034.jpg)
 
+</section>
 
+
+
+<section>
 
 „Toť se ví, že bezvýznamné,“ vyhrkl Král a potichu si pak odříkával „významné – bezvýznamné – bezvýznamné – významné –“, jako by zkoušel, co zní lépe.
 
@@ -145,11 +157,19 @@ Spodek zavrtěl smutně hlavou. „Copak na to vypadám?“ řekl. (To rozhodně
 
 „Budeš mlčet!“ okřikla ji Královna a celá zbrunátněla.
 
+</section>
 
+
+
+<section>
 
 ![alenka_035](./resources/alenka_035.jpg)
 
+</section>
 
+
+
+<section>
 
 „A nebudu!“ řekla Alenka.
 
@@ -169,16 +189,30 @@ Nejprve se jí zdálo o Alence, jak jí zase ručkama obmyká koleno a dychtivě
 
 U nohou jí zašustila vysoká tráva, jak se tamtudy hnal Bílý Králík – poblíž v tůňce zašplíchala na útěku polekaná Myš – zařinčely šálky na nekonečné svačině Zajíce Březňáka a jeho přátel a Královna vřískavým hlasem posílala své hosty na popravu – znovu se Vévodkyni na klíně rozkýchalo prasátko a kolem něho třískaly mísy a talíře – znovu se rozléhal Nohův skřek a skřípání Ještěříkova pisátka a chroptění likvidovaných morčat a zdálky do toho zalétaly vzlyky nešťastného Paželva.
 
+</section>
 
+
+
+<section>
 
 ![alenka_036](./resources/alenka_036.jpg)
 
+</section>
 
+
+
+<section>
 
 A tak tam seděla se zavřenýma očima a namlouvala si, že je v Kraji divů, a přece věděla, že jakmile je otevře, všechno se promění v šedou skutečnost – tráva bude šustit jenom větrem a tůňka šplouchat od rozevlátého rákosí – řinkot šálků se promění v cinkání ovčích zvonců a Královnino vřískání v ovčákův pokřik – a kýchání prasátka, Nohův skřek a všechny ty ostatní podivné zvuky se promění (to věděla) v zmatený halas na statku – a Paželvovy usedavé vzlyky budou jen vzdálené bučení dobytka.
 
 Nakonec si ještě představila, jak jednou po letech bude její sestřička dospělá; a jak si i v zralém věku uchová z dětství prosté vroucí srdce – jak se za ní potáhnou zase jiné děti a jak se jim oči rozzáří a rozdychtí nad leckterým jejím úžasným příběhem a třeba také nad jejím dávným snem o Kraji divů – jak se bude vžívat do jejich prostých žalů, těšit se z jejich prostých radostí při vzpomínce na své dětství a na blahé letní dny.
 
+</section>
 
+
+
+<section>
 
 ![alenka_037](./resources/alenka_037.jpg)
+
+</section>

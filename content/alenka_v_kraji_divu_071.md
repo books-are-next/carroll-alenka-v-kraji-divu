@@ -3,9 +3,13 @@ title: Paželví povídka
 contentType: prose
 ---
 
+<section>
+
 „Ani nevíš, jak jsem ráda, že jsem se s tebou, dušinko, zase shledala,“ řekla Vévodkyně, něžně se do Alenky zavěsila a tak spolu odešly z hřiště.
 
-  
+</section>
+
+<section>
 
 Alenka se nad její dobrou náladou zaradovala, tam v kuchyni, napadlo jí, rozzuřil ji snad jenom ten pepř.
 
@@ -25,11 +29,19 @@ Na Vévodkyni už docela zapomněla a skoro se lekla, když se jí ozvala u sam�
 
 „No dobře! To je skoro totéž,“ řekla Vévodkyně, špičatou bradu zaryla do Alenčina ramene a dodala: „A z toho plyne naučení – _dbej na smysl, slova přijdou sama__._“
 
+</section>
 
+
+
+<section>
 
 ![alenka_026](./resources/alenka_026.jpg)
 
+</section>
 
+
+
+<section>
 
 Ta hledá ve všem naučení, pomyslila si Alenka.
 
@@ -79,11 +91,19 @@ Ostatní hosté Královniny nepřítomnosti hned využili a hověli si v chládk
 
 Královna se při hře s druhými hráči ustavičně hádala a pokřikovala: „Usekněte mu hlavu!“ nebo „Usekněte jí hlavu!“ A koho odsoudila, toho vojáci hned zatkli; pak ovšem nemohli dělat branky, a tak tam za nějakou půlhodinku žádné branky nezbyly a všichni hráči až na Krále, Královnu a Alenku byli zatčeni a odsouzeni k smrti.
 
+</section>
 
+
+
+<section>
 
 ![alenka_027](./resources/alenka_027.jpg)
 
+</section>
 
+
+
+<section>
 
 Královna celá udýchaná nechala hry a zeptala se Alenky: „Už jsi viděla Paželva?“
 
@@ -149,11 +169,19 @@ Nakonec řekl Noh Paželvovi: „Tak povídej dál, kamaráde, ať to netrvá ce
 
 „Á! Tak to moc dobrá škola nebyla,“ oddychl si Paželv. „To u nás jsme měli na konci vysvědčení nepovinné předměty: Francouzština a hudba a _prádlo_.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_028](./resources/alenka_028.jpg)
 
+</section>
 
+
+
+<section>
 
 „Tomu, kdo žije na dně mořském, to není zapotřebí,“ řekla Alenka.
 
@@ -202,3 +230,5 @@ Tohle Alence dosud nenapadlo, chvíli nad tím hloubala a potom řekla: „Jeden
 „A co jste dělali dvanáctý den?“ dorážela Alenka.
 
 „Dost o tom, jak jste se učili,“ skočil jí rázně do řeči Noh. „Pověz jí ještě, jak jste si hráli.“
+
+</section>
