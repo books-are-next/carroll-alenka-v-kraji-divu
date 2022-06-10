@@ -3,9 +3,13 @@ title: O autorovi Alenčiných dobrodružných příběhů
 contentType: prose
 ---
 
+<section>
+
 Nejstarší anglická univerzita vznikla v Oxfordu někdy v druhé polovině 12. století, tedy skoro dvě stě let před založením pražského vysokého učení Karlova. Oxfordská univerzita (podobně jako její o něco mladší odnož v Cambridgi) se skládá z desítek samostatných kolejí. Když tam člověk přijíždí, už zdálky vidí uprostřed roviny trčet mezi stromovím hranaté normanské (nebo jak my říkáme románské) bašty, zubatým cimbuřím vroubené čtverhranné gotické věže i vznosné zvonice, mohutné renesanční kupole, zdobné vížky 18. století, vzdáleně připomínající naše baroko i rokoko, až po novější stavby všemožných cizokrajných slohů, mezi nimiž nechybí ani napodobeniny slohu starořeckého. Univerzitní kolej, zabírající střed starobylého města, leží v rozlehlých parcích a zahradách a jejich šedobílé, máslově žluté i do hnědá ztmavělé zdi obrůstá břečťan a psí víno.
 
-  
+</section>
+
+<section>
 
 V jedné takové malebné oxfordské koleji, zvané Christ Church, vystudoval v polovině minulého století Charles Lutwidge Dodgson (1832 až 1898), známější pod spisovatelským jménem Lewis Carroll, a potom tam přes třicet let přednášel matematiku.
 
@@ -82,3 +86,5 @@ Pěkný obrázek nočního Kremlu zachytil Carroll v těchto řádcích: „Dom�
 Už v Nižním si Carroll, obdařený jemným hudebním sluchem, všiml nezvykle srdceryvných a lkavých melodií muslimského muezzina, prozpěvujícího z věže mešity. Když pak v petrohradském ženském monastýru poslouchal při bohoslužbě zpěv jeptišek, doléhající k němu z neviděného chóru, nejvíc ho dojímal čistý a zvučný hlas nějaké nejvýš dvanáctileté novicky. V _Deníku_ o tom zanechal záznam, který patří k nejkrásnějším a nejosobnějším dojmům z celé cesty. Čím to asi bylo, že na něho ten dívčí hlas tak silně zapůsobil? Kdožpak ví? Ale snad se příliš nezmýlím, když budu hádat a řeknu, že mu hlas té neviděné novicky náhle připomněl jeho mladičkou zbožňovanou přítelkyni Alenku. Tu Alenku, pro kterou napsal své dvě nejlepší a dosud po celém světě čtené knihy o pohádkových dobrodružstvích v kraji divů a za zrcadlem.
 
 _Aloys Skoumal_
+
+</section>

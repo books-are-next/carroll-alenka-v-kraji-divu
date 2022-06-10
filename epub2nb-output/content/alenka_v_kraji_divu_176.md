@@ -3,9 +3,13 @@ title: „Je to můj vynález“
 contentType: prose
 ---
 
+<section>
+
 Ponenáhlu hřmot slábl, až nastalo hrobové ticho; Alenka znepokojeně zdvihla hlavu. Nikde nikdo, i napadlo ji, že se jí o Lvu a Jednorožci a těch podivných anglosaských kurýrech jenom zdálo. Jenže u nohou jí dosud ležela velká mísa, na které předtím krájela koláč. „Přece jen se mi to nezdálo,“ řekla si, „nebo snad všichni sníme jeden jediný sen. Ale je to doufám sen můj, a ne sen Černého Krále! Do cizího snu patřit nechci,“ reptala. „Mám chuť vzbudit ho a přesvědčit se, co se stane.“
 
-  
+</section>
+
+<section>
 
 Z těch myšlenek ji vytrhlo zahulákání: „Hola! Hola! Šach!“ A tu k ní přiklusal Jezdec v černém brnění a rozháněl se palicí. Jak k ní dojel, kůň se naráz zastavil a Jezdec se svalil na zem a křikl: „Už jsem tě zajal.“
 
@@ -29,11 +33,19 @@ Podle dalšího Bitevního Pravidla, které Alenka zprvu nepostřehla, zřejmě 
 
 „To jsem slavně zvítězil, viď,“ přistoupil Bílý Jezdec celý udýchaný k Alence.
 
+</section>
 
+
+
+<section>
 
 ![alenka_069](./resources/alenka_069.jpg)
 
+</section>
 
+
+
+<section>
 
 „Ani bych neřekla,“ zapochybovala Alenka. „Nechci být nikým zajata. Chci být Královnou.“
 
@@ -93,11 +105,19 @@ Alenku ten vynález nijak nepotěšil; chvíli kráčela mlčky a hloubala nad t
 
 Jakmile se kůň zastavil (a zastavoval se často), spadl Jezdec dopředu; a když se kůň rozjel (a rozjížděl se dost prudce), spadl Jezdec dozadu. Jinak mu to celkem šlo, až na to, že co chvíli padal na jednu nebo na druhou stranu; a protože většinou padal na tu stranu, kudy kráčela Alenka, lepší bylo, jak brzy Alenka zjistila, kráčet ne tak blízko vedle koně.
 
+</section>
 
+
+
+<section>
 
 ![alenka_070](./resources/alenka_070.jpg)
 
+</section>
 
+
+
+<section>
 
 Skutálel se už popáté, Alenka ho zase vysadila a osmělila se prohodit: „Moc zkušeností v ježdění asi nemáte.“
 
@@ -143,11 +163,19 @@ Tak ho to pomyšlení znepokojilo, že Alenka honem zavedla řeč jinam a spusti
 
 Jezdec pyšně pohlédl na přílbu zavěšenou u sedla. „Ano,“ řekl, „ale vynalezl jsem ještě lepší – ta je jako homole cukru. Kdysi jsem ji nosil, a jakmile jsem spadl z koně, přílba se hned zaryla do země. Daleko jsem tedy nespadl – ale hrozilo mi ovšem, že spadnu do ní. Jednou se mi to dokonce stalo – a nejhorší na tom bylo, že než jsem se z ní dostal, přijel druhý Bílý Jezdec a nasadil si ji. On si myslil, že je to přílba.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_071](./resources/alenka_071.jpg)
 
+</section>
 
+
+
+<section>
 
 Jezdec se zatvářil smrtelně vážně, až Alenku přešel smích. „To jste mu snad ublížil,“ řekla rozechvěně, „když jste mu seděl na hlavě.“
 
@@ -209,11 +237,19 @@ Po těch slovech zarazil koně a spustil mu otěže na šíji. Jednou rukou si z
 
 Ze všech těch zvláštností, které Alenka při putování za zrcadlem spatřila, si nejjasněji pamatovala právě tuto. Ještě po letech se jí tento výjev vybavoval, jako by to bylo včera – Jezdcův bledě modrý zrak a vlídný úsměv – zapadající slunce mu prozařuje vlasy a oslnivou záplavou světla mu zalévá brnění – kůň s otěžemi svěšenými na šíji si klidně chodí a okusuje jí trávu u nohou – vzadu se rýsuje tmavý stín lesa – to všechno vnímala jako obrázek, když tak se zacloněnýma očima opřena o strom pozorovala tu podivnou dvojici (Jezdce a koně) a v polosnění naslouchala truchlivé hudbě písničky.
 
+</section>
 
+
+
+<section>
 
 ![alenka_072](./resources/alenka_072.jpg)
 
+</section>
 
+
+
+<section>
 
 „Ale ten nápěv není jeho vynález,“ řekla si, „je to jako _Co ten ptáček povídá_.“ Stála a napjatě poslouchala, ale slzy jí nevyhrkly.
 
@@ -451,12 +487,20 @@ Alence se ty osobní narážky nelíbily, a protože už Vosák přišel k sobě
 
 „Konečně osmé políčko!“ zvolala a přeskočila potůček a svalila se na trávník hebký jako mech, kolem dokola posetý květinovými záhonky. „To jsem ráda, že už jsem tady! A co to mám na hlavě?“ polekala se, když si na ni sáhla – pevně jí tam sedělo něco těžkého.
 
-  
+</section>
+
+<section>
 
 „Jak se to tam dostalo, že o tom ani nevím?“ sundala si to a položila na klín, aby si to prohlídla.
 
 Byla to zlatá koruna.
 
+</section>
 
+
+
+<section>
 
 ![alenka_073](./resources/alenka_073.jpg)
+
+</section>

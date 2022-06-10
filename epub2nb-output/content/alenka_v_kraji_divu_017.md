@@ -3,9 +3,13 @@ title: Kaluž slz
 contentType: prose
 ---
 
+<section>
+
 „Úžasnoucnější a úžasnoucnější!“ zvolala Alenka (tu chvíli zapomněla samým překvapením správně mluvit); „teď se zas vytahuji jako ten nejdelší dalekohled na světě. Sbohem, nožičky!“ (Když se totiž podívala na nohy, skoro na ně nedohlédla, tak byly daleko.) „Ach mé nožičky, kdo vám teď, chudinky, bude obouvat boty a punčochy? Já jistě ne! Budu od vás tuze daleko, kdepak bych se o vás mohla starat: musíte si poradit samy – ale musím na ně být hodná,“ řekla si Alenka, „nebo nepůjdou, kam budu chtít! Třeba jim dám vždycky nové boty pod stromeček.“
 
-  
+</section>
+
+<section>
 
 A tak si dále vymýšlela, jak to zařídí. „Budu jim je musit dát doručit,“ řekla si, „to bude legrace, posílat dárky vlastním nohám. A jak divně se bude vyjímat adresa!
 
@@ -29,11 +33,19 @@ Nešťastná Alenka! Lehla si na bok a jedním okem hleděla do zahrady, na víc
 
 Za chvíli zaslechla zdálky drobné cupitání; honem si utřela oči a podívala se, kdo to jde. To se vracel Bílý Králík, celý vyparáděný, v jedné ruce bílé kozinkové rukavice, v druhé velký vějíř; přihopkal, samý spěch, a přitom si broukal: „Ach, ta vévodkyně, ta vévodkyně! Ta mi dá, jestli přijdu pozdě!“ Alenka byla tak nešťastná, že by byla kohokoli poprosila o pomoc; a tak když se k ní Králík přiblížil, spustila tiše a bázlivě: „Prosím vás, pane –“ Králík se zarazil, upustil bílé kozinkové rukavice a vějíř a pádil do tmy, co mu nohy stačily.
 
+</section>
 
+
+
+<section>
 
 ![alenka_005](./resources/alenka_005.jpg)
 
+</section>
 
+
+
+<section>
 
 Alenka zvedla rukavice a vějíř, a protože bylo v síni horko, ovívala se a takto si povídala: „Ach jo! Dnes je všechno naruby. A ještě včera to bylo jako jindy. Copak se se mnou v noci stala nějaká změna? Počkat: byla jsem to já, když jsem ráno vstávala? Tak se mi zdá, že mi bylo nějak divně. Ale jestli to nejsem já, ptám se dál, kdo tedy jsem? To je ta záhada!“ A probírala všechny známé děti, stejně staré jako ona, jestli se snad v některé z nich neproměnila.
 
@@ -55,11 +67,19 @@ Při těch slovech se podívala na ruce a podivila se, že si za řeči navlíkl
 
 „To jsem měla namále!“ řekla Alenka, tou náhlou změnou celá vylekaná, ale šťastná, že ještě žije: „A teď honem do zahrady!“ Horempádem se rozběhla k dvířkám – ale ouha! dvířka byla zavřená a zlatý klíček ležel jako předtím na skleněném stolku, „a je to čím dál horší,“ řekla si chudinka, „protože tak malá jako teď jsem jakživa nebyla! To je ale hloupé.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_006](./resources/alenka_006.jpg)
 
+</section>
 
+
+
+<section>
 
 Při těch slovech uklouzla a žbluňk! byla po krk ve slané vodě. Nejprve ji napadlo, že snad spadla do moře, „tak to pojedu domů vlakem,“ řekla si Alenka. (Byla totiž jednou jedinkrát u moře a hned usoudila, že ať jde člověk na anglickém pobřeží, kam chce, všude uvidí v moři spoustu převozných kabin, dále děti, jak nabírají dřevěnými lopatkami písek, potom řadu penziónů a za nimi nádraží.) Ale brzy přišla na to, že je v kaluži slz, které naplakala, když měřila devět stop.
 
@@ -73,11 +93,19 @@ Možná že nerozumí anglicky, myslila si Alenka. Tohle bude francouzská myš,
 
 „Že nemám ráda kočky!“ zapištěla pronikavě a zlostně Myš. „Ty bys je na mém místě měla ráda?“
 
+</section>
 
+
+
+<section>
 
 ![alenka_007](./resources/alenka_007.jpg)
 
+</section>
 
+
+
+<section>
 
 „Asi ne,“ chlácholila ji Alenka, „už se proto nezlob. Ale naši Micku bych ti přec ráda ukázala, jen bys ji uviděla, hned by sis kočky zamilovala. To je ti mírné stvoření.“ Alenka pomaloučku plavala po kaluži a spíše jen pro sebe si povídala: „Tak mile přede u krbu, líže si packy a myje si čumáček – a když ji chovám, je taková měkounká – a báječně chytá myši – Ach, promiň!“ znovu zvolala Alenka, protože Myš se celá zježila, jistě byla uražená. „Jestli nechceš, nebudeme už o ní mluvit.“
 
@@ -88,3 +116,5 @@ Možná že nerozumí anglicky, myslila si Alenka. Tohle bude francouzská myš,
 Alenka na ni vlídně zavolala: „Myško! Prosím tě, vrať se a nebudeme už mluvit o kočkách ani o psech, když je nemáš ráda!“ Myš to zaslechla, obrátila se a pomalu plavala zpátky k ní. Byla úplně zsinalá (to zlostí, pomyslila si Alenka) a tiše a zajíkavě řekla: „Pojďme na břeh, povím ti svůj příběh a pak pochopíš, proč nenávidím kočky a psy.“
 
 Však už měly načase vylézt, kaluž se hemžila ptáky a zvířaty, jak do ní padali. Byla tam Kachna a Blboun, Papoušek a Orlík a jiná podivná stvoření. Alenka je vedla a všichni doplavali na břeh.
+
+</section>

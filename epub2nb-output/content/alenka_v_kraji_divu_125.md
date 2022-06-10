@@ -3,9 +3,13 @@ title: Hmyz za zrcadlem
 contentType: prose
 ---
 
+<section>
+
 Nejprve bylo ovšem nutno prozkoumat krajinu, po které měla putovat. Alenka si stoupla na špičky, že tak dohlédne kousek dál, a řekla si: „Je to, jako když se učím zeměpis. Největší řeky – žádné. Největší hory – je jediná a na té stojím, ale nijak se nejmenuje. Největší města – copak jsou to tamhle za stvoření, co dělají med? Včely to nebudou – copak je včelu vidět na míli daleko –“ a delší chvíli mlčky pozorovala, jak s hlomozem lítá od jedné květiny ke druhé a strká do nich chobot, „docela jako obyčejná včela,“ řekla si Alenka.
 
-  
+</section>
+
+<section>
 
 Ale obyčejná včela to není: „Vždyť je to slon –“ Alenka na to sama přišla, až se jí nad tím dech zatajil. Potom jí napadlo: Ty květiny budou jistě taky velikánské! Jako když z domků strhnou střechu a nasadí jim stopku – a toho medu, co z nich je! Co abych se na ně šla podívat – ba ne, zatím nepůjdu, a jak běžela z vršku dolů, zůstala stát a hledala výmluvu, že si to najednou rozmyslila. To by to dopadlo, pustit se mezi ně, když nemám pořádnou větev na odhánění – to bude legrace, až se mě jednou zeptají, jak jsem se prošla. Řeknu jim – „no, ušlo to –“ (a tu pohodila hlavou, jak to jen ona uměla), „jenže bylo plno prachu a vedro a moc mě obtěžovali sloni!“
 
@@ -29,11 +33,19 @@ Průvodčí si ji prohlížel, nejprve dalekohledem, potom drobnohledem a potom 
 
 „Taková dívenka,“ ozval se pán naproti ní (byl oblečený v bílé papírové šaty), „má vědět, kam jede, i když třeba neví, jak se jmenuje!“
 
+</section>
 
+
+
+<section>
 
 ![alenka_049](./resources/alenka_049.jpg)
 
+</section>
 
+
+
+<section>
 
 Vedle pána v bílých papírových šatech seděl Kozel; přivřel oči a silně zamečel: „Má vědět, jak se jde k pokladně, i když třeba neumí abecedu.“
 
@@ -95,11 +107,19 @@ Byl to náramně velký Komár. „Jako kuře,“ řekla si Alenka. Ale tolik si
 
 „Mízou a pilinami,“ řekl Komár. „Vypočítávej dál.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_050a](./resources/alenka_050a.jpg)
 
+</section>
 
+
+
+<section>
 
 Alenka si Houpacího Koníčka se zájmem prohlídla a usoudila, že je nejspíš čerstvě natřen, protože je tak lesklý a lepkavý; potom zase vypočítávala.
 
@@ -135,11 +155,19 @@ Alenka chvíli mlčela a dumala. Komár se zatím bavil tím, že jí bzučel ko
 
 „Inu, když řekne ‚ta tam‘ a nic víc,“ prohodil komár, „pak bude ovšem hodina tatam. To je vtip. Škoda žes ho neudělala ty.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_050b](./resources/alenka_050b.jpg)
 
+</section>
 
+
+
+<section>
 
 „A proč jsem ho měla udělat?“ divila se Alenka. „Vždyť je špatný.“ Ale Komár jenom hluboce vzdychl a po lících mu skanuly dvě veliké slzy.
 
@@ -153,11 +181,19 @@ Brzy se octla v širém poli, a za ním se táhl les. Byl tmavší než ten posl
 
 „To bude ten les,“ řekla si zamyšleně, „kde nic nemá jméno. Až tam vkročím, kampak se asi moje jméno poděje. Moc nerada bych o ně přišla – to by mi pak dali jinačí, nejspíš nějaké ošklivé. Najít potom to stvoření s mým starým jménem, to bych se nahledala! Jako když se dá inzerát na zatoulaného psa – ‚slyší na jméno Raf, na krku má mosazný obojek‘ – kdekomu na potkání říkat Alenko, až se na to jméno někdo ozve, to by bylo! Žádný rozumný člověk by se neozval.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_050c](./resources/alenka_050c.jpg)
 
+</section>
 
+
+
+<section>
 
 Tak kráčela, až došla do lesa; připadal jí chladný a stinný. „To se člověku uleví,“ řekla si, když se octla pod stromy, „z takového vedra vkročit do – do – do čeho?“ Bylo jí divné, že na to slovo nemůže kápnout. „Totiž octnout se pod – pod – no přece pod tímhle!“ a sáhla rukou na kmen stromu. „Jakpak se mu říká? Snad žádné jméno nemá – ba určitě ne.“
 
@@ -185,6 +221,12 @@ Ale moc slibně to nevypadalo. Dlouho šla a šla, ale na každém rozcestí uka
 
 „Jak se zdá,“ řekla posléze Alenka, „oni bydlí spolu! Že mi to dřív nenapadlo – Ale dlouho u nich nepobudu. Jenom si k nim zaskočím, slušně pozdravím a vyptám se jich na cestu z lesa. Jestlipak se před soumrakem dostanu na osmé políčko!“ A tak se ubírala dál a něco si jen tak pro sebe povídala, až v prudké zatáčce narazila na dva tlouštíky, a to tak neočekávaně, že leknutím ucouvla, ale hned se zas vzpamatovala; věděla, že to jsou jistě –
 
+</section>
 
+
+
+<section>
 
 ![alenka_051](./resources/alenka_051.jpg)
+
+</section>

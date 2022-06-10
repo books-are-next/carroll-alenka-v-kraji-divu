@@ -3,9 +3,13 @@ title: Dům za zrcadlem
 contentType: prose
 ---
 
+<section>
+
 Tolik je jisté, že bílé kotě za to vůbec nemohlo; – jen a jen černé to mělo na svědomí. Bílé kotě si totiž už dobré čtvrt hodiny dalo od staré kočky umývat obličej (a celkem dobře to snášelo); tu nezbednost tedy ztropit nemohlo, to je jasné.
 
-  
+</section>
+
+<section>
 
 Takto umývala Micka dětem obličej: popadla drobečka prackou za uši a druhou prackou mu od čumáčku počínajíc proti srsti drbala celý obličej; a jak už jsem řekl, zrovna měla v prádle bílé kotě. To si klidně leželo, a pokud to šlo, vrnělo – nejspíš si myslelo, že mu to jen prospěje.
 
@@ -13,11 +17,19 @@ Takto umývala Micka dětem obličej: popadla drobečka prackou za uši a druhou
 
 „Ach ty nezbedo,“ spustila na ně Alenka, popadla je, a aby vědělo, že je u ní v nemilosti, vlepila mu hubičku.
 
+</section>
 
+
+
+<section>
 
 ![alenka_039](./resources/alenka_039.jpg)
 
+</section>
 
+
+
+<section>
 
 „Micka by tě věru měla naučit způsobům. To bys měla, Micko, však ty víš!“ Zahleděla se káravě na starou kočku a mluvila tak rozezleně, jak to jen dovedla – potom si vlezla zpátky do lenošky i s kotětem a s vlnou a znovu navíjela klubko. Ale moc rychle jí to nešlo, protože přitom pořád mluvila buď s kotětem, nebo sama se sebou. Katka jí způsobně seděla na koleně, naoko sledovala navíjení a občas vystrčila pracku a zlehka chňapla po klubku, jako by měla chuť pomáhat.
 
@@ -29,11 +41,19 @@ To jsou, Katko, tři provinění a ani za jedno jsem tě ještě nepotrestala. V
 
 Slyšíš, Katko, jak mete sníh do oken! Ozývá se to tak hezky a tak tlumeně! Jako by někdo zvenku celé okno líbal. Má snad sníh stromy a pole tak rád, že je tak něžně líbá? A bílou peřinou je celé přikrývá a snad jim říká: ‚Spěte, miláčci, až do léta.‘ Když se potom, Katko, v létě probudí, obléknou si zelené šaty, a když zafouká vítr, hned se roztancují, ach, to je ti krásné!“ Alenka zatleskala a přitom upustila klubko. „Kdyby to tak byla pravda! Vždyť na podzim, když listí zhnědne, stromy vypadají ospale.
 
+</section>
 
+
+
+<section>
 
 ![alenka_040](./resources/alenka_040.jpg)
 
+</section>
 
+
+
+<section>
 
 Umíš hrát, Katko, šachy? Nic se nesměj, milánku, ptám se tě docela vážně. Jak jsme teď hráli, ty ses dívala, jako bys tomu rozuměla, a když jsem řekla ‚šach‘, tak jsi zavrněla! Byl to, Katko, pěkný šach, a nebýt toho zlého jezdce, který se vetřel mezi mé figurky, tak jsem to jistě vyhrála. Víš co, Katko budeme jako –“ Kdybych vám tak mohl vypočítat aspoň polovinu všeho toho, co u Alenky začínalo jejím oblíbeným: „Budeme jako.“ Zrovna den předtím se dostaly se sestrou do hádky, a to jen proto, že Alenka zas spustila: „Budeme jako králové a královny,“ a sestra, která si potrpěla na přesnost, jí dokazovala, to že být nemohou, protože jsou jen dvě, až nakonec Alenka slevila: „Dobře, ty budeš dělat jednu a já ty ostatní.“ A jednou k smrti vylekala starou chůvu, když jí houkla do ucha: „Náno! Já budu jako hladová hyena a ty budeš kost!“
 
@@ -43,19 +63,35 @@ Tak dávej, Katko, pozor a nemluv tolik, a já ti povím, co všecko si o tom do
 
 Jakpak by se ti, Katko, líbilo v domě za zrcadlem! Jestlipak by ti tam dávali mlíčko! Třeba se to mlíčko v domě za zrcadlem nedá ani pít – Ach Katko! Ale teď jsme až u chodby. Když necháš v salónku dveře dokořán, je té chodby v domě za zrcadlem vidět jenom kousíček; co je vidět, vypadá zrovna jako naše chodba, jenže tam dál je třeba docela jiná. Ach Katko, kdybychom se tak dostaly do domu za zrcadlem, to by bylo hezké! Nějak se tam, Katko, jako dostaneme. Zrcadlo je jako z poddajného gázu a my jím projdeme. Opravdu! Teď se nějak zamžilo. Projdeme jím jako nic –“ Jen to dořekla, už stála na krbové římse, ani nevěděla, jak se tam octla. A zrcadlo se opravdu rozplývalo jako stříbřitá mlha.
 
+</section>
 
+
+
+<section>
 
 ![alenka_041](./resources/alenka_041.jpg)
 
+</section>
 
+
+
+<section>
 
 Vzápětí byla Alenka za zrcadlem a lehce seskočila do pokoje za ním. Nejprve se koukla, hoří-li v krbu oheň, a nemálo ji potěšilo, že tam plápolá právě tak jasný oheň jako v pokoji, ze kterého odešla. „Bude mi tu tak teplo jako v tamtom pokoji,“ řekla si Alenka, „ba ještě tepleji, protože mě nikdo nebude honit od krbu. To bude legrace, až mě tady přes zrcadlo uvidí a nebudou na mě moct.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_042a](./resources/alenka_042a.jpg)
 
+</section>
 
+
+
+<section>
 
 Rozhlížela se kolem sebe a zjistila, že co je vidět z tamtoho pokoje, je obyčejné a nezajímavé, zato ostatek je docela jinačí. Tak hned obrázky na zdi krbu jako by ožily, a dokonce i hodiny na krbové římse (v zrcadle, jak víte, je z nich vidět jen zadní stranu) měly podobu stařečka, který se na ni vesele usmíval.
 
@@ -63,11 +99,19 @@ Rozhlížela se kolem sebe a zjistila, že co je vidět z tamtoho pokoje, je oby
 
 „Tady je Černý Král s Černou Královnou,“ řekla Alenka (ale šeptem, aby je nepolekala), „a tamhle sedí na lopatce Bílý Král s Bílou Královnou a tady se zas procházejí zavěšeny do sebe dvě Věže – myslím, že mě neslyší,“ sklonila hlavu až k nim, „a docela jistě mě nevidí. Připadám si neviditelná –“
 
+</section>
 
+
+
+<section>
 
 ![alenka_042b](./resources/alenka_042b.jpg)
 
+</section>
 
+
+
+<section>
 
 Vtom na stole něco zapištělo, Alenka se otočila a ještě zahlédla, jak se jeden Bílý Pěšec svalil a jak kolem sebe kope. Zvědavě se dívala, co bude dál.
 
@@ -89,11 +133,19 @@ Tak se před ní jakživ nikdo netvářil, řekla si později kolikrát, jako Kr
 
 „Ale prosím tě, jen se tak neškleb!“ vyprskla Alenka a nadobro zapomněla, že ji Král neslyší. „Tak jsi mě rozesmál, že tě sotva udržím! A neotvírej ústa tak dokořán! Nalítá ti tam popel – tak teď už jsi zas čistý!“ přičísla mu vlasy a opatrně ho postavila na stůl ke Královně.
 
+</section>
 
+
+
+<section>
 
 ![alenka_043](./resources/alenka_043.jpg)
 
+</section>
 
+
+
+<section>
 
 Král padl naznak a zůstal bez hnutí ležet. Alenka se lekla, co to udělala, a po celém pokoji hledala vodu, aby ho pokropila. Ale našla jenom lahvičku s inkoustem, a když se s ní vrátila, Král už přišel k sobě a zděšeně si s Královnou šeptal – jenže tak potichu, že Alenka skoro neslyšela, co si říkají.
 
@@ -107,11 +159,19 @@ Královna mu na to odsekla: „Vždyť žádné kníry nemáš.“
 
 Alenka se zájmem pozorovala, jak Král vytahuje z kapsy ohromný notes a píše. Najednou jí něco napadlo, popadla konec tužky, který mu čouhal přes rameno, a psala za něho.
 
+</section>
 
+
+
+<section>
 
 ![alenka_044](./resources/alenka_044.jpg)
 
+</section>
 
+
+
+<section>
 
 Chudák Král byl celý zmatený a chvíli s tužkou zápolil a nic neříkal; jenže Alenka byla silnější než on, a tak nakonec zahekal: „Musím si, má zlatá, opatřit tenčí tužku. Tuhle už nezvládnu; píše všechno možné, co ani nechci –“
 
@@ -172,6 +232,12 @@ Alenka četla tuto báseň:
 
 „Ach jéje!“ Alenka sebou trhla. „Jestli si nepospíším, budu se musit vrátit zrcadlem a ostatek domu vůbec neuvidím! Koukněme se nejprve na zahradu!“ A už byla venku z pokoje a běžela po schodech – ale spíše než běh byl to, jak si Alenka řekla, nový způsob, jak se dostat snadno a rychle ze schodů. S konečky prstů na zábradlí, aniž se nohama dotýkala schodů, snesla se lehce dolů a dál chodbou, a kdyby se nebyla zachytila o veřeje, málem se octla venku ze dveří. Z toho vznášení se jí točila hlava a byla docela ráda, že zase jde po zemi jako jindy.
 
+</section>
 
+
+
+<section>
 
 ![alenka_045](./resources/alenka_045.jpg)
+
+</section>

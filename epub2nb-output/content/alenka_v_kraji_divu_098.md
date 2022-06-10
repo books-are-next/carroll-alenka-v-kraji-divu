@@ -3,11 +3,15 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ![alenka_038](./resources/alenka_038.jpg)   
 
 Bílý Pěšec (Alenka) táhne a vyhraje v jedenácti tazích.
 
-  
+</section>
+
+<section>
 
 1\. Alenka potká Č. K.
 
@@ -51,3 +55,5 @@ na d4 (Tydliták a Tydlitek)
 10\. B. K. na a6 (polévka)
 
 11\. Alenka bere Č. K. a vyhraje
+
+</section>

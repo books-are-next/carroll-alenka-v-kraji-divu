@@ -3,9 +3,13 @@ title: Vlna a voda
 contentType: prose
 ---
 
+<section>
+
 Při těch slovech šálu chytila; rozhlížela se, komu patří. Vzápětí se s rozpřaženýma rukama vyřítila z lesa Bílá Královna a Alenka jí šla s šálou zdvořile naproti.
 
-  
+</section>
+
+<section>
 
 „To jsem ráda, že jsem se tady nachomýtla,“ řekla Alenka, jak jí přehazovala šálu.
 
@@ -27,11 +31,19 @@ Lépe by bylo, zdálo se Alence, kdyby tu cuchtu šálil někdo jiný. Všechno 
 
 Alenka jí opatrně kartáč vypletla a jakžtakž ji učesala. Vlásenky jí většinou vyměnila. „Hned vypadáte líp,“ řekla. „Měla byste mít komornou.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_057](./resources/alenka_057.jpg)
 
+</section>
 
+
+
+<section>
 
 „Mileráda si tě vezmu do služby,“ řekla Královna. „Dva krejcary týdně a obden marmeláda.“
 
@@ -81,11 +93,19 @@ Alenka se jí chystala namítnout: „Ale to bude nějaká chyba –“, ale ned
 
 Ječela, jako když píská lokomotiva; Alenka si zacpala uši.
 
+</section>
 
+
+
+<section>
 
 ![alenka_058](./resources/alenka_058.jpg)
 
+</section>
 
+
+
+<section>
 
 Až když se jí zdálo, že ji překřičí, řekla: „Copak se vám stalo? Píchla jste se do prstu?“
 
@@ -155,11 +175,19 @@ Ale ani to se jí nepovedlo. Kousek prošel klidně stropem, jako by to dělal n
 
 „Trochu – ale ne na souši – a ne jehlicemi –,“ soukala ze sebe Alenka, ale najednou se jí jehlice proměnily ve vesla a už byly v loďce, plynoucí mezi břehy. A tak se činila, co mohla.
 
+</section>
 
+
+
+<section>
 
 ![alenka_059](./resources/alenka_059.jpg)
 
+</section>
 
+
+
+<section>
 
 „Brčko!“ křikla Ovce a přibrala další jehlice.
 
@@ -191,11 +219,19 @@ Alenky se to nelibě dotklo, a tak delší chvíli spolu nemluvily; loďka lehou
 
 I šinula se loďka po řece, až lehounce vplynula do rozkomíhaného puškvorce. S pečlivě vyhrnutými rukávy nořily se potom paže až po loket do tmy a hmataly hezky hluboko, než puškvorec ulomily – nakloněná přes okraj loďky, až se jí smáčely konečky rozcuchaných kadeří, chvilku zapomněla Alenka na Ovci i pletení – a jasnýma rozdychtěnýma očima pátrala po chumáčích voňavého puškvorce.
 
+</section>
 
+
+
+<section>
 
 ![alenka_060](./resources/alenka_060.jpg)
 
+</section>
 
+
+
+<section>
 
 „Jen aby se loďka nepřevrhla!“ řekla si. „Ach, to je hezounké! Jenže jsem na něj nedosáhla.“ A opravdu mohla z kůže vyletět (je to jako naschvál, pomyslila si), jak se s loďkou šinula vpřed, krásného puškvorce natrhala sice hromadu, ale ten ještě hezčí nedostala.
 
@@ -226,3 +262,5 @@ Ovce shrábla peníze, vložila je do pokladničky a řekla: „Do ruky nikomu n
 Jen bych ráda věděla, proč se to nedělá? přemýšlela Alenka, jak tápala mezi stoly a židlemi; na konci krámu byla totiž úplná tma. Čím blíž jdu k vejci, tím víc se vzdaluje. Co to, je to židle? Namouduši, vždyť to má větve. To je divné, že tady rostou stromy! A tady je dokonce potůček. Takový roztodivný krám jsem jakživa neviděla!
 
 A tak kráčela dál a na každém kroku stále víc žasla; jakmile totiž k něčemu přistoupila, hned z toho byl strom; kdoví, řekla si, nebude-li strom i z toho vejce.
+
+</section>

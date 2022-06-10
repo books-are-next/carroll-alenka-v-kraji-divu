@@ -3,9 +3,13 @@ title: Kdo ukradl vdolky
 contentType: prose
 ---
 
+<section>
+
 Když tam přišli, Srdcový Král s Královnou seděli na trůně a kolem nich se kupil hustý dav – všelijací ptáčci a zvířátka a k tomu všechny karty. Před nimi stál spoutaný Spodek, po boku střežený vojáky; poblíž Krále stál Bílý Králík, v jedné ruce trubku, v druhé pergamenový svitek. Uprostřed soudního dvora byl pak stůl a na něm velká mísa vdolků; vypadaly tak chutně, že při pohledu na ně dostala Alenka hlad. – Už aby bylo po přelíčení, napadlo ji, a podávaly se zákusky! Ale na to nebylo ani pomyšlení, a tak se rozhlížela kolem sebe, aby si ukrátila dlouhou chvíli.
 
-  
+</section>
+
+<section>
 
 U soudu Alenka dosud nebyla, jenom o něm čítala, nemálo se tedy zaradovala nad tím, že ví, jak se co jmenuje. „Tohle je soudce,“ řekla si, „protože má velkou paruku.“
 
@@ -23,11 +27,19 @@ Jako by se jim přes rameno dívala, pozorovala Alenka, jak si porotci na tabulk
 
 Jednomu porotci skřípalo pisátko. Alenka to ovšem nestrpěla, obešla celou dvoranu, až se octla za ním, a než se nadál, pisátko mu sebrala. Šlo to raz dva a chudinka porotce (byl to Vilík Ještěřík) vůbec nechápal, kam se mu pisátko podělo; slídil po něm na všech stranách, ale nezbylo mu, než celý den psát prstem. Moc platné mu to nebylo, protože to na tabulce nebylo ani znát.
 
+</section>
 
+
+
+<section>
 
 ![alenka_031](./resources/alenka_031.jpg)
 
+</section>
 
+
+
+<section>
 
 „Hlasateli, přečtěte obžalobu!“ řekl Král.
 
@@ -78,11 +90,19 @@ Plch seděl vedle ní a hned se ozval: „Netlačte se tak na mě. Sotva dýchá
 
 „Co tady máte co růst,“ řekl Plch.
 
+</section>
 
+
+
+<section>
 
 ![alenka_032](./resources/alenka_032.jpg)
 
+</section>
 
+
+
+<section>
 
 „Nemluvte hlouposti,“ spustila zostra Alenka, „však vy rostete taky.“
 
@@ -168,6 +188,12 @@ Alenka pozorovala Bílého Králíka, jak šmátrá v seznamu, a byla zvědava, 
 
 „Alenka!“
 
+</section>
 
+
+
+<section>
 
 ![alenka_033](./resources/alenka_033.jpg)
+
+</section>

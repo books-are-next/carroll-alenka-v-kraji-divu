@@ -3,9 +3,13 @@ title: Dolů králičí dírou
 contentType: prose
 ---
 
+<section>
+
 Alenku už mrzelo sedět na břehu vedle cesty a nic nedělat. Párkrát nakoukla sestře do rozečtené knížky, ale nebyly tam žádné obrázky a nic se tam nepovídalo, a co je do knížky, když v ní nejsou žádné obrázky a nic se tam nepovídá, řekla si Alenka.
 
-  
+</section>
+
+<section>
 
 Rozvažovala tedy u sebe (pokud to vůbec šlo, byla horkem celá ospalá a zmámená), zda bude dost zábavné uvít si věneček z kopretin, aby kvůli tomu vstala a natrhala si je, a tu vedle ní přeběhl Bílý Králík s červenýma očima.
 
@@ -17,21 +21,37 @@ Králičí díra vedla kus rovně jako tunel a pak najednou se prudce svažovala
 
 Buď byla ta jáma velmi hluboká, nebo padala Alenka tak pomalu, že měla kdy rozhlížet se kolem sebe a přemýšlet, co bude asi dál. Nejprve zkoušela dívat se dolů, kam to vlastně padá, ale nic neviděla, bylo tam tma; ohlížela se tedy po stěnách jámy a všimla si, že je tam plno polic a přihrádek: tu a tam visely na skobách mapy a obrázky. Cestou sebrala z jedné police sklenici; stálo na ní **POMERANČOVÁ ZAVAŘENINA**, ale zklamala se, byla prázdná. Zahodit ji, to se jí nezdálo, aby snad někoho nezabila, a tak ji při tom padání šťastně strčila do jedné poličky.
 
+</section>
 
+
+
+<section>
 
 ![alenka_002](./resources/alenka_002.jpg)
 
+</section>
 
+
+
+<section>
 
 „No ne,“ řekla si Alenka. „Po takovémhle pádu skutálet se ze schodů, to už pro mě nic nebude. To mě ale budou doma pokládat za hrdinku! Kdybych třeba ze střechy spadla, ani nemuknu!“ (To už asi ne.)
 
 Stále hloub a hloub a hloub. Což tomu padání nikdy nebude konec? „To bych ráda věděla, kolik mil jsem se propadla?“ řekla nahlas. „Už budu až někde u středu Země. Počkat: bude to asi čtyři tisíce mil hluboko –“ (Alenka se totiž ve škole všelico naučila, nebyla to sice nejvhodnější chvíle, chlubit se, co všechno ví, protože ji nikdo neslyšel, ale neškodí trochu si to zopakovat) „ – ano, tak daleko to asi bude – ale v jaké zeměpisné délce a šířce jsem se to octla?“ (O tom, co je zeměpisná délka a šířka, neměla Alenka ani ponětí, ale když ono to tak báječně zní.)
 
+</section>
 
+
+
+<section>
 
 ![alenka_002a](./resources/alenka_002a.jpg)
 
+</section>
 
+
+
+<section>
 
 A potom zase spustila: „To jsem zvědavá, jestli propadnu skrz celou zeměkouli! To bude legrace, až vylezu u lidí, co chodí po hlavě! U Protichodců, myslím –“ (byla ráda, že ji teď nikdo neslyší, to slovo nějak správně neznělo) „– přece jen se budu muset zeptat, jak se to tam u nich jmenuje. Prosím vás, paní, je tady Nový Zéland nebo Austrálie?“ (při těch slovech se pokoušela uklonit – to je nápad, klanět se, když člověk padá! Jestlipak byste to dokázali?) „Co si ta paní o mně pomyslí, jaká jsem nevzdělaná holka! Ba ne, ptát se nebudu; třeba uvidím nějaký nápis.“
 
@@ -41,11 +61,19 @@ Alenka si ani trochu nenatloukla a v mžiku byla zas na nohou; podívala se vzh�
 
 Kolem dokola byly dveře, ale všechny zamčené; Alenka prošla síní po jedné straně až na konec a po druhé zas zpátky, u všech dveří brala za kliku a potom kráčela prostředkem celá smutná, jak se odtamtud dostane.
 
+</section>
 
+
+
+<section>
 
 ![alenka_003](./resources/alenka_003.jpg)
 
+</section>
 
+
+
+<section>
 
 Najednou se octla před dvounohým stolkem a ten byl celý ze skla; byl na něm jenom zlatý klíček a Alence hned napadlo, jestli není od některých dveří v síni. Ale ouha! Buď byl zámek moc velký, nebo klíček moc malý, žádné dveře se nedaly otevřít. Ale když podruhé obcházela síň, octla se před záclonkou, které si předtím nevšimla, a za ní byla dvířka nějakých patnáct palců vysoká; zkoušela zlatým klíčkem odemknout a sláva, klíček se k zámku hodil!
 
@@ -59,7 +87,9 @@ Ale na lahvičce nestálo _jed_; Alenka se tedy odhodlala, že to ochutná. Bylo
 
 „To je mi divně,“ řekla Alenka. „Nejspíš se už sklápím jako dalekohled.“
 
-  
+</section>
+
+<section>
 
 A opravdu; měřila už jen deset palců na výšku a celá se rozzářila radostí nad tím, že takhle veliká už projde dvířky do té krásné zahrady. Ale napřed chvilku počkala, jestli se snad ještě víc nescvrkne. Trochu trnula. „A co jestli se nakonec rozplynu, jako když svíčka dohoří,“ řekla si Alenka. „Jak asi budu potom vypadat, to bych ráda věděla.“ A vymýšlela si, jak vypadá plamen svíčky, když se sfoukne, co se pamatuje, nic takového jakživ neviděla.
 
@@ -67,12 +97,22 @@ Nic se s ní už nedělo, a tak se za chvíli rozhodla, že půjde rovnou do zah
 
 „No tak, pláčem nic nespravíš,“ spustila na sebe zhurta Alenka. „Hned přestaň, to ti radím!“ Obyčejně si radila dobře (ač málokdy uposlechla) a někdy si tak zostra vyhubovala, až jí vhrkly slzy do očí; a jednou, jak si vzpomíná, málem si napohlavkovala za to, že jak hrála sama se sebou kroket, švindlovala; ona totiž ta zvláštní holčička ráda dělala, jako by byla ve dvou osobách. „Ale dělat, že jsem ve dvou osobách, to teď nejde,“ řekla si nešťastná Alenka. „Zbývá mě ani ne na jednu pořádnou osobu!“
 
+</section>
 
+
+
+<section>
 
 ![alenka_004_kolaz_b](./resources/alenka_004b.jpg)
 
+</section>
 
+
+
+<section>
 
 A tu zahlédla pod stolem skleněnou krabičku; otevřela ji a našla v ní koláček a na něm z hrozinek krásný nápis: SNĚZ **MĚ**. „Tak ho sním,“ řekla Alenka, „a jestli po něm povyrostu, dosáhnu na klíček; a jestli se ještě scvrknu, podlezu pod dvířky. Tak se přece jen do zahrady dostanu, ať se stane, co chce!“
 
 Kousek ujedla a starostlivě si říkala: „Nahoru, nebo dolů“; sáhla si na hlavu, zdali jí přibývá, nebo ubývá, a nemálo ji překvapilo, že zůstává stejně velká; toť se ví, to už tak bývá, když se jí koláč, ale Alenka si už tak zvykla na samé nevídané věci, že obyčejnský život jí připadal nudný a hloupý. Pustila se tedy do koláče a hned ho měla v sobě.
+
+</section>

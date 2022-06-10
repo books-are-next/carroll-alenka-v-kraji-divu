@@ -3,9 +3,13 @@ title: Kuriální závod a sáhodlouhý obrázek
 contentType: prose
 ---
 
+<section>
+
 Sešla se tam na břehu prapodivná cháska – ptáci s urousaným peřím a ostatní zvířata se zplihlou srstí, všichni promočení, podráždění, nevrlí.
 
-  
+</section>
+
+<section>
 
 Především jim šlo samozřejmě o to, jak se usušit: radili se a za chvilku se s nimi Alenka nenuceně bavila, jako by je znala odjakživa. Dokonce se poškorpila s Papouškem a ten ji nakvašeně usadil: „Jsem starší než ty, a tak to musím vědět líp.“ Alenka mu to nechtěla uznat, dokud jí nepoví, kolik je mu; a protože jí to Papoušek zanic nechtěl říct, nedalo se nic dělat.
 
@@ -27,11 +31,19 @@ Nakonec vykřikla Myš, která se zřejmě těšila všeobecné vážnosti: „V
 
 „Samozřejmě že vím, co je to, když to hledám já,“ řekla Kachna. „Bývá to žába nebo červ. Ale jde o to, co shledal arcibiskup.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_008](./resources/alenka_008.jpg)
 
+</section>
 
+
+
+<section>
 
 Myš si této otázky nevšímala a rychle pokračovala: „– to shledal prospěšným, vydal se s Edgarem Athelingem Vilémovi v ústrety nabídnout mu korunu. Vilém si zpočátku vedl umírněně. Ale zpupnost jeho Normanů – Jak je vám, milá?“ obrátila se Myš k Alence.
 
@@ -39,11 +51,19 @@ Mokrá jako dřív,“ řekla Alenka smutným hlasem. „Vůbec jsem při tom ne
 
 „Když je tomu tak,“ řekl slavnostně Blboun a vstal, „navrhuji odročení schůze za příčinou bezodkladného akceptování efektivnějších procedur –“
 
+</section>
 
+
+
+<section>
 
 ![alenka_009](./resources/alenka_009.jpg)
 
+</section>
 
+
+
+<section>
 
 „Mluv jasně!“ řekl Orlík. „Já těm dlouhatánským slovům nerozumím a ostatně ty, jak se mi zdá, taky ne!“ A Orlík sklopil hlavu, aby nebylo vidět, jak se usmívá, zato jiní ptáci se uchichtli.
 
@@ -84,32 +104,44 @@ Alenka přeslechla, co Myš říká, a s úžasem se zahleděla na její ocásek
 Spustil Hafan  
        na Myš:
 
-  
+</section>
+
+<section>
 
               „Marně se mi bráníš,  
                      na soud pojecháš,  
                             proč?
 
-  
+</section>
+
+<section>
 
                                    se ještě ptáš!
 
-  
+</section>
+
+<section>
 
                                             Já tam taky půjdu,  
                                                    žalovat tě budu,  
                                                            o tvé vině soud  
                                                                    musí rozhodnout.
 
-  
+</section>
+
+<section>
 
                                                            Pojď a neodmlouvej.“
 
-  
+</section>
+
+<section>
 
                                                                        Myš mu řekla:
 
-  
+</section>
+
+<section>
 
                                                                  „Ouvej, to mi  
                                                            nejde do noty,  
@@ -117,23 +149,31 @@ Spustil Hafan
                                                      není  
                                                           žádné rozsouzení!“
 
-  
+</section>
+
+<section>
 
                                                                      Odpověděl pes:
 
-  
+</section>
+
+<section>
 
                                                                        „Milá Myško, věz,                                                          jak je zvykem Hafanů,  
                                                   porotu i soudce  
                                            zastanu.
 
-  
+</section>
+
+<section>
 
                                                  Po tom procesu  
                                                            ortel smrti  
                                                                        vynesu.“
 
-  
+</section>
+
+<section>
 
 „Když ty nedáváš pozor!“ plísnila Myš Alenku. „Nač myslíš?“
 
@@ -162,3 +202,5 @@ Alenka o svém miláčkovi vždycky ráda povídala, a tak ochotně odpověděla
 Po jejích slovech nastalo mezi přítomnými hotové pozdvižení. Někteří ptáci se hned sebrali a zmizeli. Jedna stará Straka si důkladně zapnula límec a prohodila: „Já už musím opravdu domů; večerní vzduch mi nedělá dobře na krk!“ a jeden Kanárek svolával rozechvělým hláskem děti: „Pojďte, dětičky! Musíte na kutě!“ Pod různými záminkami odcházeli a Alenka tam zůstala sama.
 
 „Neměla jsem se o Micce zmiňovat!“ řekla si smutně. „Nikdo ji tady nemá rád, a přec je to nejlepší kočka na světě! Ach má zlatá Micko! Jestlipak tě ještě někdy uhlídám!“ A nešťastná Alenka se ze samého stesku a žalu znovu rozplakala. Ale za chvilku se zase zpovzdáli ozvalo cupitání; dychtivě zdvihla hlavu, jestli si to snad Myš nerozmyslila a nejde jí dopovědět ten svůj obrázek ze života.
+
+</section>

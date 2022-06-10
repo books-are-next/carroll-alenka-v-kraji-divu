@@ -3,9 +3,13 @@ title: Vepř a pepř
 contentType: prose
 ---
 
+<section>
+
 Alenka chvíli koukala na domek a uvažovala, co má dělat, a tu přiběhl z lesa livrejovaný lokaj – za lokaje ho pokládala, protože měl livrej (jinak podle obličeje by hádala spíše na rybu) – a zabušil kotníky na dveře. Otevřel mu jiný livrejovaný lokaj s kulatou tváří a vykulenýma žabíma očima; jak si Alenka všimla, oba lokajové měli po celé hlavě napudrované kadeře. Byla zvědavá, co to znamená, a vyplížila se z lesa, aby si je poslechla.
 
-  
+</section>
+
+<section>
 
 Rybí lokaj vylovil z podpaždí obrovské psaní, skoro tak velké, jako byl sám, podal je druhému lokaji a pronesl škrobeně: „Pro Vévodkyni. Pozvání od Královny na kroket.“ Žabí lokaj to po něm opakoval stejně škrobeně, jenže v pozměněném pořádku: „Od Královny. Pozvání pro Vévodkyni na kroket.“
 
@@ -25,11 +29,19 @@ Alenka přistoupila nesměle ke dveřím a zaklepala.
 
 Tu se v domku otevřely dveře a velký talíř letěl rovnou lokajovi na hlavu; jen mu odřel nos a roztříštil se vzadu o strom.
 
+</section>
 
+
+
+<section>
 
 ![alenka_016](./resources/alenka_016.jpg)
 
+</section>
 
+
+
+<section>
 
 „– nebo taky do pozítřka,“ dořekl lokaj stejným hlasem, jako by se nic nestalo.
 
@@ -73,11 +85,19 @@ Alence se tón této poznámky moc nelíbil, i umínila si, že radši začne o 
 
 „Tím by se nic nezískalo,“ řekla Alenka a byla ráda, že se může trochu pochlubit svými vědomostmi. „Jen si představte, kam by se poděly den a noc! Země se točí kolem osy za čtyřiadvacet hodin a za ten časový úsek –“
 
+</section>
 
+
+
+<section>
 
 ![alenka_017](./resources/alenka_017.jpg)
 
+</section>
 
+
+
+<section>
 
 „Dobře žes mi to připomněla,“ řekla Vévodkyně, „usekněte jí hlavu!“
 
@@ -113,11 +133,19 @@ Alenka měla co dělat, aby dítě chytla, bylo to stvoření neforemné, ruce a
 
 Konečně na to přišla, jak je má vlastně chovat (svinula je do uzlíčku a popadla za pravé ucho a levou nohu, aby se nemohlo narovnat), a vynesla je na čerstvý vzduch. „Když to dítě neodnesu, za pár dní bude jistě po něm. Nebyla by to vražda, kdybych je tu nechala?“ Poslední slova pronesla nahlas a škvrně jí odpovědělo zachrochtáním (kýchat už přestalo). „Nechrochtej,“ okřikla je Alenka, „tak se přece nemluví.“
 
+</section>
 
+
+
+<section>
 
 ![alenka_018a](./resources/alenka_018a.jpg)
 
+</section>
 
+
+
+<section>
 
 Dítě znovu zachrochtalo a Alenka se mu starostlivě zahleděla do tváře, co to s ním je. Nic naplat, nos mělo ohrnutý nahoru, byl to spíš rypáček než pořádný nos; také oči mělo na dítě příliš maličké; Alence se ten jeho kukuč vůbec nezamlouval. Snad jenom zavzlykalo, pomyslila si Alenka a znovu se koukla, má-li v očích slzy.
 
@@ -143,11 +171,19 @@ Jak uviděla kočka Alenku, jen se zašklebila. Napohled vypadala dobrácky, ale
 
 „To se jistě dostaneš,“ řekla kočka, „jen když půjdeš dost dlouho.“ Alenka měla dojem, že se to nedá popřít, zeptala se tedy na něco jiného. „Jací lidé bydlí tady v okolí?“
 
+</section>
 
+
+
+<section>
 
 ![alenka_018b](./resources/alenka_018b.jpg)
 
+</section>
 
+
+
+<section>
 
 „Tamtím směrem,“ mávla kočka pravou tlapkou, „bydlí Švec. A tamtím směrem,“ a mávla druhou tlapkou, „bydlí Zajíc Březňák. Jdi si ke kterému chceš, oba jsou potrhlí.“
 
@@ -193,6 +229,12 @@ Alenka čekala, jestli se snad ještě neukáže, ale ona se neukázala, a tak A
 
 Popošla ještě kousek a zahlédla domek Zajíce Březňáka. Napadlo ji, že to bude on, protože komíny měly podobu slechů a místo došků byla na střeše srst. Byl to velký domek, a teprve když si uždibla houby z levé ruky a povyrostla na dvě stopy, troufla si blíž, a i pak kráčela bázlivě, protože si myslila: Co když přece jen potrhle vyvádí! Měla jsem jít radši za Ševcem!
 
+</section>
 
+
+
+<section>
 
 ![alenka_019](./resources/alenka_019.jpg)
+
+</section>

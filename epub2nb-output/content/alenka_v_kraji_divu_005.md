@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 > _Svůj překlad obou knih Alenčiných dobrodružství  
 > věnují překladatelé třem znamenitým znalcům  
 > života a díla Lewise Carrolla, z nichž první  
@@ -18,3 +20,5 @@ ROGER LANCELYN GREEN
 
 DEREK HUDSON  
 (Kensington, Londýn)
+
+</section>

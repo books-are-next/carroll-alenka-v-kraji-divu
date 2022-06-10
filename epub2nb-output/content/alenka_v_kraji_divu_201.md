@@ -3,9 +3,13 @@ title: Komu se to zdálo?
 contentType: prose
 ---
 
+<section>
+
 „Vaše Černé Veličenstvo by nemělo tak vrnět,“ řekla Alenka uctivě, a přece jen dost přísně kotěti a protřela si oči. „Probudila jste mě ze sna – ach, to byl krásný sen! A ty jsi byla, Katko, se mnou – v tom světě za zrcadlem. Jestlipak jsi o tom, milánku, věděla?“
 
-  
+</section>
+
+<section>
 
 Koťata mají nepříjemný zvyk (tak se jednou Alenka vyjádřila), že ať jim člověk řekne nevímco, vždycky jen vrní. „Kdyby tak vrněla ‚ano‘ a mňoukala ‚ne‘ nebo tak nějak,“ prohlásila, „aby se s nimi člověk dohovořil! Ale těžké domlouvání s někým, kdo pořád mele stejnou.“
 
@@ -21,14 +25,24 @@ Alenka prohrabala na stole figurky, až našla Černou Královnu, potom poklekla
 
 „A v copak se asi proměnila Micka?“ žvatlala si a loktem pohodlně opřená o rohožku a bradu v dlaních pozorovala koťata. „Pověz mi, Micko, neproměnila ty ses ve Valihracha? Tak se mi zdá, že ano – ale jistě to nevím, tak o tom zatím před známými nemluv.
 
+</section>
 
+
+
+<section>
 
 ![alenka_080](./resources/alenka_080.jpg)
 
+</section>
 
+
+
+<section>
 
 Ostatně být tak, Katko, v mém snu doopravdy se mnou, to by sis užila – těch básniček, co mi odříkávali, a všechny byly o rybách! Zítra ráno se poměješ. K snídani ti budu odříkávat ‚Mrože a tesaře‘. A ty potom můžeš, milánku, dělat, jako že jsou to ústřice!
 
 Teď se, Katko, zamysleme, komu se to vlastně zdálo. Je to, milánku, vážná věc, a neolizuj si pořád tu pracku – copak ti ji Micka dnes ráno neumyla? To máš tak, Katko, buď se to zdálo mně, nebo Černému Královi. On ovšem patřil do mého snu – jenže já zas jsem patřila do jeho! A byl to, Katko, Černý Král? Ty to budeš, milánku, vědět, bylas jeho ženou – Tak Katko, pomoz mi to rozluštit. Ta pracka počká!“ Ale to protivné kotě si olizovalo zas druhou pracku a dělalo, že neslyší.
 
 Komu se to zdálo, co myslíte?
+
+</section>

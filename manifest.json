@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "carroll-alenka-v-kraji-divu-a-za-zrcadlem-60a5bf1",
-  "revision": "60a5bf1",
+  "identifier": "carroll-alenka-v-kraji-divu-a-za-zrcadlem-6711813",
+  "revision": "6711813",
   "readingOrder": [
     "promo.html",
     "alenka_v_kraji_divu_005.html",
@@ -46,8 +46,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:44:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352282318
+    "date": "Fri Jun 10 2022 17:47:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883263934
   },
   "documents": [
     {
@@ -85,9 +85,9 @@
     {
       "title": "Alenka v kraji divů a za zrcadlem",
       "file": "alenka_v_kraji_divu_006.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 2,
       "prev": "alenka_v_kraji_divu_005.html",
@@ -405,9 +405,9 @@
     {
       "title": "Předmluva",
       "file": "alenka_v_kraji_divu_099.html",
-      "words": 1,
-      "chars": 9,
-      "ideas": 1,
+      "words": 78,
+      "chars": 457,
+      "ideas": 2,
       "role": "chapter",
       "order": 18,
       "prev": "alenka_v_kraji_divu_098.html",
@@ -685,9 +685,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 138,
-      "chars": 872,
-      "ideas": 15,
+      "words": 59,
+      "chars": 407,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "alenka_v_kraji_divu_204.html",
@@ -705,14 +705,14 @@
   ],
   "totals": {
     "all": {
-      "words": 44352,
-      "chars": 255155,
-      "ideas": 2360
+      "words": 44351,
+      "chars": 255138,
+      "ideas": 2352
     },
     "chapters": {
-      "words": 44203,
-      "chars": 254226,
-      "ideas": 2341
+      "words": 44281,
+      "chars": 254674,
+      "ideas": 2343
     }
   }
 }

@@ -3,9 +3,13 @@ title: Humří čtverylka
 contentType: prose
 ---
 
+<section>
+
 Paželv si zhluboka vzdychl a jednou prackou si otřel oči. Hleděl na Alenku, soukal ze sebe slova, ale hrdlo měl sevřené samým štkaním. „Jako by mu kost zaskočila,“ Noh jím zalomcoval a bouchal ho do zad. Posléze se Paželv zmohl na řeč a všecek uslzen takto hovořil dále:
 
-  
+</section>
+
+<section>
 
 „Ty jsi pod mořem asi mnoho nežila –“ („To ne,“ řekla Alenka.) „a s Humrem ses vůbec neseznámila –“ (Užuž měla Alenka na jazyku: Jednou jsem ho ochutnala –, ale honem se zarazila a řekla: „Vůbec ne.“) „a tak ani netušíš, jak rozkošná je Humří čtverylka.“
 
@@ -43,11 +47,19 @@ Paželv si zhluboka vzdychl a jednou prackou si otřel oči. Hleděl na Alenku, 
 
 „Chtěla bys ho kousek vidět?“ řekl Paželv.
 
+</section>
 
+
+
+<section>
 
 ![alenka_029](./resources/alenka_029.jpg)
 
+</section>
 
+
+
+<section>
 
 „Moc ráda,“ řekla Alenka.
 
@@ -176,11 +188,19 @@ Alenka věděla, že se jí to zase poplete, ale vzdorovat si netroufala, i spus
 > nůž s vidličkou si nechal. Než bys napočítal pět,  
 > zavrčel, zuby vycenil a milou Sovu – –_
 
+</section>
 
+
+
+<section>
 
 ![alenka_030](./resources/alenka_030.jpg)
 
+</section>
 
+
+
+<section>
 
 „Nač celý ten krám opakovat,“ přetrhl jí to Paželv, „když nám to pořádně nevysvětlíš. Takovou slátaninu jsem jakživ neslyšel.“
 
@@ -219,3 +239,5 @@ Paželv zhluboka vzdychl a přerývaným hlasem plačtivě zazpíval:
 
 > _Večer chutná – á – á  
 > polívka, polívčička!_
+
+</section>

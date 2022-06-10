@@ -3,9 +3,13 @@ title: Valihrach
 contentType: prose
 ---
 
+<section>
+
 Ale zatím vejce rostlo a rostlo do lidské podoby. Ze vzdálenosti několika metrů na něm Alenka rozeznala oči a nos a ústa; přistoupila až k němu a tu nade vši pochybnost zjistila, že je to sám Valihrach. „Nikdo jiný to být nemůže!“ řekla si. „Vím to jistě, jako by to měl na tváři napsáno!“
 
-  
+</section>
+
+<section>
 
 Napsat se to dalo na tu ohromnou tvář třeba stokrát. Valihrach seděl po turecku se zkříženýma nohama až nahoře na zídce – zídka byla uzounká, Alence nešlo do hlavy, jak tam vůbec udrží rovnováhu –, a protože hleděl upřeně jinam a jí si nevšímal, připadal jí jako vycpaný panák.
 
@@ -26,11 +30,19 @@ Alenka se nezmohla na odpověď; jakápak rozmluva, pomyslila si, když on s ní
 
 „Poslední řádek je na tu básničku moc dlouhý,“ pronesla polohlasem; že ji Valihrach uslyší, na to docela zapomněla.
 
+</section>
 
+
+
+<section>
 
 ![alenka_061](./resources/alenka_061.jpg)
 
+</section>
 
+
+
+<section>
 
 „Co tady stojíš a brebentíš si pro sebe,“ teprve nyní Valihrach na ni pohlédl, „radši mi pověz, jak se jmenuješ a co děláš.“
 
@@ -209,11 +221,19 @@ Vypadalo to slibně, a tak Alenka odříkávala první sloku:
 
 „A co _syštět_?“
 
+</section>
 
+
+
+<section>
 
 ![alenka_062](./resources/alenka_062.jpg)
 
+</section>
 
+
+
+<section>
 
 „To je tolik jako syčet a svištět a uprostřed toho ještě zvuk, jako když kýchneš; však to možná – tamhle v lese – sama uslyšíš – a až to uslyšíš, budeš toho mít dost. Kdopak ti tu těžkou báseň odříkával?“
 
@@ -232,7 +252,9 @@ Valihrach si toho nevšímal a mluvil dále: „Odříkám ti kousek napsaný pr
 
 jenže já ji nezpívám,“ vysvětloval.
 
-  
+</section>
+
+<section>
 
 „Že nezpíváte, to vidím,“ řekla Alenka.
 
@@ -323,6 +345,12 @@ Toho se Alenka nenadála; ale když jí to tak okatě naznačuje, řekla si, že
 
 Alenka chvilku čekala, jestli ještě promluví, ale on oči neotvíral a jí si nevšímal, řekla mu tedy podruhé „Buďte zdráv!“, a když se nedočkala odpovědi, klidně odešla. Po cestě si říkala: „Nesympatičtějšího –“ (pro útěchu si to dlouhé slovo ještě opakovala) „nesympatičtějšího člověka jsem jaktěživa –“ Ale už to nedopověděla, protože v tom okamžiku se v lese rozlehl ohlušující hřmot.
 
+</section>
 
+
+
+<section>
 
 ![alenka_063](./resources/alenka_063.jpg)
+
+</section>
