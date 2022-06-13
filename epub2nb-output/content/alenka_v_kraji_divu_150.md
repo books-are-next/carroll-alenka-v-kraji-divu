@@ -34,14 +34,11 @@ Alenka jí opatrně kartáč vypletla a jakžtakž ji učesala. Vlásenky jí v�
 </section>
 
 
-
 <section>
 
 ![alenka_057](./resources/alenka_057.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -95,15 +92,11 @@ Ječela, jako když píská lokomotiva; Alenka si zacpala uši.
 
 </section>
 
-
-
 <section>
 
 ![alenka_058](./resources/alenka_058.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -177,15 +170,11 @@ Ale ani to se jí nepovedlo. Kousek prošel klidně stropem, jako by to dělal n
 
 </section>
 
-
-
 <section>
 
 ![alenka_059](./resources/alenka_059.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -221,15 +210,11 @@ I šinula se loďka po řece, až lehounce vplynula do rozkomíhaného puškvorc
 
 </section>
 
-
-
 <section>
 
 ![alenka_060](./resources/alenka_060.jpg)
 
 </section>
-
-
 
 <section>
 

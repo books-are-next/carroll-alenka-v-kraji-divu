@@ -32,14 +32,11 @@ Napřed šlo deset křížových vojáků. Vzhled měli stejný jako ti tři zah
 </section>
 
 
-
 <section>
 
 ![alenka_023](./resources/alenka_023.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -73,15 +70,11 @@ Zahradníci se rázem postavili na nohy a klaněli se Králi, Královně, králo
 
 </section>
 
-
-
 <section>
 
 ![alenka_023a](./resources/alenka_023a.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -135,15 +128,11 @@ Alenka čekala, až se objeví oči, a potom kývla hlavou. „Darmo s ní mluvi
 
 </section>
 
-
-
 <section>
 
 ![alenka_024](./resources/alenka_024.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -183,15 +172,11 @@ Kat se oháněl tím, že hlava se dá srazit jenom tehdy, když sedí na nějak
 
 </section>
 
-
-
 <section>
 
 ![alenka_025](./resources/alenka_025.jpg)
 
 </section>
-
-
 
 <section>
 

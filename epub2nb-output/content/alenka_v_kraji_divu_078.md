@@ -50,14 +50,11 @@ Paželv si zhluboka vzdychl a jednou prackou si otřel oči. Hleděl na Alenku, 
 </section>
 
 
-
 <section>
 
 ![alenka_029](./resources/alenka_029.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -190,15 +187,11 @@ Alenka věděla, že se jí to zase poplete, ale vzdorovat si netroufala, i spus
 
 </section>
 
-
-
 <section>
 
 ![alenka_030](./resources/alenka_030.jpg)
 
 </section>
-
-
 
 <section>
 

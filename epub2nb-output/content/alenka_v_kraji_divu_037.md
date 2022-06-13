@@ -44,14 +44,11 @@ Už zase taková zapeklitá otázka; Alenka ne a ne trefit na správnou odpově�
 </section>
 
 
-
 <section>
 
 ![alenka_014a](./resources/alenka_014a.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -92,23 +89,17 @@ Alenka složila ruce a spustila:
 
 </section>
 
-
-
 <section>
 
 ![alenka_014b](./resources/alenka_014b.jpg)
 
 </section>
 
-
-
 <section>
 
 ![alenka_015a](./resources/alenka_015a.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -129,15 +120,11 @@ Alenka složila ruce a spustila:
 
 </section>
 
-
-
 <section>
 
 ![alenka_015b](./resources/alenka_015b.jpg)
 
 </section>
-
-
 
 <section>
 

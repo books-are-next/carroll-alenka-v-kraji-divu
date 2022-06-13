@@ -33,14 +33,11 @@ Alenka se nezmohla na odpověď; jakápak rozmluva, pomyslila si, když on s ní
 </section>
 
 
-
 <section>
 
 ![alenka_061](./resources/alenka_061.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -223,15 +220,11 @@ Vypadalo to slibně, a tak Alenka odříkávala první sloku:
 
 </section>
 
-
-
 <section>
 
 ![alenka_062](./resources/alenka_062.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -346,8 +339,6 @@ Toho se Alenka nenadála; ale když jí to tak okatě naznačuje, řekla si, že
 Alenka chvilku čekala, jestli ještě promluví, ale on oči neotvíral a jí si nevšímal, řekla mu tedy podruhé „Buďte zdráv!“, a když se nedočkala odpovědi, klidně odešla. Po cestě si říkala: „Nesympatičtějšího –“ (pro útěchu si to dlouhé slovo ještě opakovala) „nesympatičtějšího člověka jsem jaktěživa –“ Ale už to nedopověděla, protože v tom okamžiku se v lese rozlehl ohlušující hřmot.
 
 </section>
-
-
 
 <section>
 

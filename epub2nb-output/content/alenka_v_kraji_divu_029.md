@@ -26,14 +26,11 @@ Ale pozdě bycha honit! Alenka rostla a rostla, a tak chtíc nechtíc klekla na 
 </section>
 
 
-
 <section>
 
 ![alenka_010](./resources/alenka_010.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -55,15 +52,11 @@ A nevlezeš, pomyslila si Alenka, čekala, až zaslechne Králíka přímo pod o
 
 </section>
 
-
-
 <section>
 
 ![alenka_010a](./resources/alenka_010a.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -99,15 +92,11 @@ Konečně někdo slabounce zapištěl (To bude Vilík, pomyslila si Alenka). „
 
 </section>
 
-
-
 <section>
 
 ![alenka_012](./resources/alenka_012.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -134,8 +123,6 @@ Co, to bylo jistě hlavní. Alenka se ohlížela po květinách a travinách, al
 Vystoupla na špičky a nakoukla přes okraj houby, a tu se střetla s velkýma modrýma očima Houseňáka; seděl na houbě se založenýma rukama, klidně bafal z dlouhé fajfky a ničeho si nevšímal, ani Alenky.
 
 </section>
-
-
 
 <section>
 

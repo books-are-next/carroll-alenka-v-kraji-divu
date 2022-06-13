@@ -32,14 +32,11 @@ Sotva se porotci trochu vzpamatovali z leknutí a zřízenci poshledávali a vr�
 </section>
 
 
-
 <section>
 
 ![alenka_034](./resources/alenka_034.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -159,15 +156,11 @@ Spodek zavrtěl smutně hlavou. „Copak na to vypadám?“ řekl. (To rozhodně
 
 </section>
 
-
-
 <section>
 
 ![alenka_035](./resources/alenka_035.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -191,15 +184,11 @@ U nohou jí zašustila vysoká tráva, jak se tamtudy hnal Bílý Králík – p
 
 </section>
 
-
-
 <section>
 
 ![alenka_036](./resources/alenka_036.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -208,8 +197,6 @@ A tak tam seděla se zavřenýma očima a namlouvala si, že je v Kraji divů, a
 Nakonec si ještě představila, jak jednou po letech bude její sestřička dospělá; a jak si i v zralém věku uchová z dětství prosté vroucí srdce – jak se za ní potáhnou zase jiné děti a jak se jim oči rozzáří a rozdychtí nad leckterým jejím úžasným příběhem a třeba také nad jejím dávným snem o Kraji divů – jak se bude vžívat do jejich prostých žalů, těšit se z jejich prostých radostí při vzpomínce na své dětství a na blahé letní dny.
 
 </section>
-
-
 
 <section>
 

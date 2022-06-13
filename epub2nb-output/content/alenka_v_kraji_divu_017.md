@@ -36,14 +36,11 @@ Za chvíli zaslechla zdálky drobné cupitání; honem si utřela oči a podíva
 </section>
 
 
-
 <section>
 
 ![alenka_005](./resources/alenka_005.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -69,15 +66,11 @@ Při těch slovech se podívala na ruce a podivila se, že si za řeči navlíkl
 
 </section>
 
-
-
 <section>
 
 ![alenka_006](./resources/alenka_006.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -95,15 +88,11 @@ Možná že nerozumí anglicky, myslila si Alenka. Tohle bude francouzská myš,
 
 </section>
 
-
-
 <section>
 
 ![alenka_007](./resources/alenka_007.jpg)
 
 </section>
-
-
 
 <section>
 

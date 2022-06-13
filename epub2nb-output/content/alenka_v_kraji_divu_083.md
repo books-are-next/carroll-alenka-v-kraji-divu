@@ -30,14 +30,11 @@ Jednomu porotci skřípalo pisátko. Alenka to ovšem nestrpěla, obešla celou 
 </section>
 
 
-
 <section>
 
 ![alenka_031](./resources/alenka_031.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -92,15 +89,11 @@ Plch seděl vedle ní a hned se ozval: „Netlačte se tak na mě. Sotva dýchá
 
 </section>
 
-
-
 <section>
 
 ![alenka_032](./resources/alenka_032.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -189,8 +182,6 @@ Alenka pozorovala Bílého Králíka, jak šmátrá v seznamu, a byla zvědava, 
 „Alenka!“
 
 </section>
-
-
 
 <section>
 

@@ -32,14 +32,11 @@ Tu se v domku otevřely dveře a velký talíř letěl rovnou lokajovi na hlavu;
 </section>
 
 
-
 <section>
 
 ![alenka_016](./resources/alenka_016.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -87,15 +84,11 @@ Alence se tón této poznámky moc nelíbil, i umínila si, že radši začne o 
 
 </section>
 
-
-
 <section>
 
 ![alenka_017](./resources/alenka_017.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -135,15 +128,11 @@ Konečně na to přišla, jak je má vlastně chovat (svinula je do uzlíčku a 
 
 </section>
 
-
-
 <section>
 
 ![alenka_018a](./resources/alenka_018a.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -173,15 +162,11 @@ Jak uviděla kočka Alenku, jen se zašklebila. Napohled vypadala dobrácky, ale
 
 </section>
 
-
-
 <section>
 
 ![alenka_018b](./resources/alenka_018b.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -230,8 +215,6 @@ Alenka čekala, jestli se snad ještě neukáže, ale ona se neukázala, a tak A
 Popošla ještě kousek a zahlédla domek Zajíce Březňáka. Napadlo ji, že to bude on, protože komíny měly podobu slechů a místo došků byla na střeše srst. Byl to velký domek, a teprve když si uždibla houby z levé ruky a povyrostla na dvě stopy, troufla si blíž, a i pak kráčela bázlivě, protože si myslila: Co když přece jen potrhle vyvádí! Měla jsem jít radši za Ševcem!
 
 </section>
-
-
 
 <section>
 
