@@ -36,14 +36,11 @@ Průvodčí si ji prohlížel, nejprve dalekohledem, potom drobnohledem a potom 
 </section>
 
 
-
 <section>
 
 ![alenka_049](./resources/alenka_049.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -109,15 +106,11 @@ Byl to náramně velký Komár. „Jako kuře,“ řekla si Alenka. Ale tolik si
 
 </section>
 
-
-
 <section>
 
 ![alenka_050a](./resources/alenka_050a.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -157,15 +150,11 @@ Alenka chvíli mlčela a dumala. Komár se zatím bavil tím, že jí bzučel ko
 
 </section>
 
-
-
 <section>
 
 ![alenka_050b](./resources/alenka_050b.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -183,15 +172,11 @@ Brzy se octla v širém poli, a za ním se táhl les. Byl tmavší než ten posl
 
 </section>
 
-
-
 <section>
 
 ![alenka_050c](./resources/alenka_050c.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -222,8 +207,6 @@ Ale moc slibně to nevypadalo. Dlouho šla a šla, ale na každém rozcestí uka
 „Jak se zdá,“ řekla posléze Alenka, „oni bydlí spolu! Že mi to dřív nenapadlo – Ale dlouho u nich nepobudu. Jenom si k nim zaskočím, slušně pozdravím a vyptám se jich na cestu z lesa. Jestlipak se před soumrakem dostanu na osmé políčko!“ A tak se ubírala dál a něco si jen tak pro sebe povídala, až v prudké zatáčce narazila na dva tlouštíky, a to tak neočekávaně, že leknutím ucouvla, ale hned se zas vzpamatovala; věděla, že to jsou jistě –
 
 </section>
-
-
 
 <section>
 

@@ -38,14 +38,11 @@ Jak tak strnule stáli, nadobro zapomněla, že jsou živí, a prohlížela si j
 </section>
 
 
-
 <section>
 
 ![alenka_052](./resources/alenka_052.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -108,15 +105,11 @@ Tydlitek se vlídně usmál a spustil znovu:
 
 </section>
 
-
-
 <section>
 
 ![alenka_053a](./resources/alenka_053a.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -136,15 +129,11 @@ Tydlitek se vlídně usmál a spustil znovu:
 
 </section>
 
-
-
 <section>
 
 ![alenka_053b](./resources/alenka_053b.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -199,15 +188,11 @@ Tydlitek se vlídně usmál a spustil znovu:
 
 </section>
 
-
-
 <section>
 
 ![alenka_054](./resources/alenka_054.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -301,15 +286,11 @@ Tak hlasitě se rozkřikl, že ho Alenka bezděky napomenula: „Pst! Ještě ho
 
 </section>
 
-
-
 <section>
 
 ![alenka_055](./resources/alenka_055.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -339,15 +320,11 @@ Tydlitek se zatím snažil sklapnout deštník a sám se do něho zaklapnout. By
 
 </section>
 
-
-
 <section>
 
 ![alenka_056a](./resources/alenka_056a.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -385,15 +362,11 @@ Tydlitek koukl na hodinky a řekl: „Půl páté.“
 
 </section>
 
-
-
 <section>
 
 ![alenka_056b](./resources/alenka_056b.jpg)
 
 </section>
-
-
 
 <section>
 

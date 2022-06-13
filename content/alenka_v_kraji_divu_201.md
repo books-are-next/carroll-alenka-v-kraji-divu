@@ -28,14 +28,11 @@ Alenka prohrabala na stole figurky, až našla Černou Královnu, potom poklekla
 </section>
 
 
-
 <section>
 
 ![alenka_080](./resources/alenka_080.jpg)
 
 </section>
-
-
 
 <section>
 

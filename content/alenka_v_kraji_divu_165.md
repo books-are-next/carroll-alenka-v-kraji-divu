@@ -32,14 +32,11 @@ Alenka to přeslechla; jednou rukou si zacláněla oči, upřeně zírala na sil
 </section>
 
 
-
 <section>
 
 ![alenka_064](./resources/alenka_064.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -112,15 +109,11 @@ Alenka zase kus běžela a potom zahekala: „Buďte tak – hodný – zastavte
 
 </section>
 
-
-
 <section>
 
 ![alenka_065](./resources/alenka_065.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -152,15 +145,11 @@ V boji nastala přestávka, Lev a Jednorožec se celí schvácení posadili a Kr
 
 </section>
 
-
-
 <section>
 
 ![alenka_066](./resources/alenka_066.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -209,15 +198,11 @@ Než mu Alenka odpověděla, vykřikl Jednorožec: „Je to bájná obluda!“
 
 </section>
 
-
-
 <section>
 
 ![alenka_067](./resources/alenka_067.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -233,15 +218,11 @@ Sedět mezi dvěma takovými šelmami bylo Králi zřejmě nemilé, ale jinam si
 
 </section>
 
-
-
 <section>
 
 ![alenka_068](./resources/alenka_068.jpg)
 
 </section>
-
-
 
 <section>
 

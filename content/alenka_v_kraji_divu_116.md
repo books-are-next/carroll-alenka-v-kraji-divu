@@ -68,14 +68,11 @@ Znělo to přesvědčivě a Alenka byla ráda, že to ví. „To jsem si nemysli
 </section>
 
 
-
 <section>
 
 ![alenka_046](./resources/alenka_046.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -113,15 +110,11 @@ Alenka se honem ohlédla a ona to byla Černá Královna. „Ta ale vyrostla,“
 
 </section>
 
-
-
 <section>
 
 ![alenka_047a](./resources/alenka_047a.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -149,15 +142,11 @@ Odporovat jí si Alenka netroufala: „– a tak jsem si řekla, že zkusím doj
 
 </section>
 
-
-
 <section>
 
 ![alenka_047b](./resources/alenka_047b.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -191,15 +180,11 @@ Alenka se udiveně rozhlédla. „Tak se mi zdá, že jsme pořád pod tímto st
 
 </section>
 
-
-
 <section>
 
 ![alenka_048](./resources/alenka_048.jpg)
 
 </section>
-
-
 
 <section>
 

@@ -20,14 +20,11 @@ Takto umývala Micka dětem obličej: popadla drobečka prackou za uši a druhou
 </section>
 
 
-
 <section>
 
 ![alenka_039](./resources/alenka_039.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -43,15 +40,11 @@ Slyšíš, Katko, jak mete sníh do oken! Ozývá se to tak hezky a tak tlumeně
 
 </section>
 
-
-
 <section>
 
 ![alenka_040](./resources/alenka_040.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -65,15 +58,11 @@ Jakpak by se ti, Katko, líbilo v domě za zrcadlem! Jestlipak by ti tam dávali
 
 </section>
 
-
-
 <section>
 
 ![alenka_041](./resources/alenka_041.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -81,15 +70,11 @@ Vzápětí byla Alenka za zrcadlem a lehce seskočila do pokoje za ním. Nejprve
 
 </section>
 
-
-
 <section>
 
 ![alenka_042a](./resources/alenka_042a.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -101,15 +86,11 @@ Rozhlížela se kolem sebe a zjistila, že co je vidět z tamtoho pokoje, je oby
 
 </section>
 
-
-
 <section>
 
 ![alenka_042b](./resources/alenka_042b.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -135,15 +116,11 @@ Tak se před ní jakživ nikdo netvářil, řekla si později kolikrát, jako Kr
 
 </section>
 
-
-
 <section>
 
 ![alenka_043](./resources/alenka_043.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -161,15 +138,11 @@ Alenka se zájmem pozorovala, jak Král vytahuje z kapsy ohromný notes a píše
 
 </section>
 
-
-
 <section>
 
 ![alenka_044](./resources/alenka_044.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -233,8 +206,6 @@ Alenka četla tuto báseň:
 „Ach jéje!“ Alenka sebou trhla. „Jestli si nepospíším, budu se musit vrátit zrcadlem a ostatek domu vůbec neuvidím! Koukněme se nejprve na zahradu!“ A už byla venku z pokoje a běžela po schodech – ale spíše než běh byl to, jak si Alenka řekla, nový způsob, jak se dostat snadno a rychle ze schodů. S konečky prstů na zábradlí, aniž se nohama dotýkala schodů, snesla se lehce dolů a dál chodbou, a kdyby se nebyla zachytila o veřeje, málem se octla venku ze dveří. Z toho vznášení se jí točila hlava a byla docela ráda, že zase jde po zemi jako jindy.
 
 </section>
-
-
 
 <section>
 

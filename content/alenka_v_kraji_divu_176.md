@@ -36,14 +36,11 @@ Podle dalšího Bitevního Pravidla, které Alenka zprvu nepostřehla, zřejmě 
 </section>
 
 
-
 <section>
 
 ![alenka_069](./resources/alenka_069.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -107,15 +104,11 @@ Jakmile se kůň zastavil (a zastavoval se často), spadl Jezdec dopředu; a kdy
 
 </section>
 
-
-
 <section>
 
 ![alenka_070](./resources/alenka_070.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -165,15 +158,11 @@ Jezdec pyšně pohlédl na přílbu zavěšenou u sedla. „Ano,“ řekl, „al
 
 </section>
 
-
-
 <section>
 
 ![alenka_071](./resources/alenka_071.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -239,15 +228,11 @@ Ze všech těch zvláštností, které Alenka při putování za zrcadlem spatř
 
 </section>
 
-
-
 <section>
 
 ![alenka_072](./resources/alenka_072.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -496,8 +481,6 @@ Alence se ty osobní narážky nelíbily, a protože už Vosák přišel k sobě
 Byla to zlatá koruna.
 
 </section>
-
-
 
 <section>
 

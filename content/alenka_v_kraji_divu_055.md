@@ -62,14 +62,11 @@ Zajíc Březňák vzal hodinky a zachmuřeně si je prohlížel. Pak je ponořil
 </section>
 
 
-
 <section>
 
 ![alenka_020](./resources/alenka_020.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -115,15 +112,11 @@ Alenka si omrzele povzdechla. „Taky byste mohli naložit s časem líp a nema�
 
 </section>
 
-
-
 <section>
 
 ![alenka_021](./resources/alenka_021.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -142,7 +135,7 @@ Znáš ji?“
 
 > _Ve hnízdečku sladce, tiše usnul pták  
 > a svačina sviští vzhůru do oblak.  
->                                            Sviští, sviští –“_
+>              Sviští, sviští –“_
 
 Vtom sebou Plch trhl a ze spaní zapěl: „Sviští, sviští, sviští, sviští –“ a zpíval tak dlouho, až ho štípli, aby přestal.
 
@@ -204,15 +197,11 @@ Plch chvilku přemýšlel a pak řekl: „Byla to sirupová studánka.“
 
 </section>
 
-
-
 <section>
 
 ![alenka_022](./resources/alenka_022.jpg)
 
 </section>
-
-
 
 <section>
 

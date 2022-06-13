@@ -34,14 +34,11 @@ Nakonec vykřikla Myš, která se zřejmě těšila všeobecné vážnosti: „V
 </section>
 
 
-
 <section>
 
 ![alenka_008](./resources/alenka_008.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -53,15 +50,11 @@ Mokrá jako dřív,“ řekla Alenka smutným hlasem. „Vůbec jsem při tom ne
 
 </section>
 
-
-
 <section>
 
 ![alenka_009](./resources/alenka_009.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -108,30 +101,30 @@ Spustil Hafan
 
 <section>
 
-              „Marně se mi bráníš,  
-                     na soud pojecháš,  
-                            proč?
+             „Marně se mi bráníš,  
+             na soud pojecháš,  
+                  proč?
 
 </section>
 
 <section>
 
-                                   se ještě ptáš!
+             se ještě ptáš!
 
 </section>
 
 <section>
 
-                                            Já tam taky půjdu,  
-                                                   žalovat tě budu,  
-                                                           o tvé vině soud  
-                                                                   musí rozhodnout.
+             Já tam taky půjdu,  
+             žalovat tě budu,  
+             o tvé vině soud  
+             musí rozhodnout.
 
 </section>
 
 <section>
 
-                                                           Pojď a neodmlouvej.“
+             Pojď a neodmlouvej.“
 
 </section>
 

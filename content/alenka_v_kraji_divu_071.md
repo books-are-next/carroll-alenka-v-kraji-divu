@@ -32,14 +32,11 @@ Na Vévodkyni už docela zapomněla a skoro se lekla, když se jí ozvala u sam�
 </section>
 
 
-
 <section>
 
 ![alenka_026](./resources/alenka_026.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -93,15 +90,11 @@ Královna se při hře s druhými hráči ustavičně hádala a pokřikovala: �
 
 </section>
 
-
-
 <section>
 
 ![alenka_027](./resources/alenka_027.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -171,15 +164,11 @@ Nakonec řekl Noh Paželvovi: „Tak povídej dál, kamaráde, ať to netrvá ce
 
 </section>
 
-
-
 <section>
 
 ![alenka_028](./resources/alenka_028.jpg)
 
 </section>
-
-
 
 <section>
 

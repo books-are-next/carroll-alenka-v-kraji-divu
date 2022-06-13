@@ -24,14 +24,11 @@ Buď byla ta jáma velmi hluboká, nebo padala Alenka tak pomalu, že měla kdy 
 </section>
 
 
-
 <section>
 
 ![alenka_002](./resources/alenka_002.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -41,15 +38,11 @@ Stále hloub a hloub a hloub. Což tomu padání nikdy nebude konec? „To bych 
 
 </section>
 
-
-
 <section>
 
 ![alenka_002a](./resources/alenka_002a.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -63,15 +56,11 @@ Kolem dokola byly dveře, ale všechny zamčené; Alenka prošla síní po jedn�
 
 </section>
 
-
-
 <section>
 
 ![alenka_003](./resources/alenka_003.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -99,15 +88,11 @@ Nic se s ní už nedělo, a tak se za chvíli rozhodla, že půjde rovnou do zah
 
 </section>
 
-
-
 <section>
 
 ![alenka_004_kolaz_b](./resources/alenka_004b.jpg)
 
 </section>
-
-
 
 <section>
 

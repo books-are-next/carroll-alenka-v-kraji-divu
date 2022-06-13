@@ -46,14 +46,11 @@ Bílá Královna se pousmála a řekla: „A já zase zvu vás.“
 </section>
 
 
-
 <section>
 
 ![alenka_074](./resources/alenka_074.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -188,15 +185,11 @@ Alenka jí podle příkazu přihlazovala vlasy a řekla: „Nemám s sebou nočn
 
 </section>
 
-
-
 <section>
 
 ![alenka_075](./resources/alenka_075.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -226,15 +219,11 @@ Alenka div nedupla zlostí nad tím, jak to ze sebe souká. „No přece tyhle d
 
 </section>
 
-
-
 <section>
 
 ![alenka_076](./resources/alenka_076.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -286,15 +275,11 @@ Konečně se ozvala Černá Královna: „O polévku a rybu jsi přišla,“ ře
 
 </section>
 
-
-
 <section>
 
 ![alenka_077](./resources/alenka_077.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -368,15 +353,11 @@ Vtom zaslechla vedle sebe chraplavý smích, ohlédla se po Bílé Královně, c
 
 </section>
 
-
-
 <section>
 
 ![alenka_078](./resources/alenka_078.jpg)
 
 </section>
-
-
 
 <section>
 
