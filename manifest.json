@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "carroll-alenka-v-kraji-divu-a-za-zrcadlem-acc25d6",
-  "revision": "acc25d6",
+  "identifier": "carroll-alenka-v-kraji-divu-a-za-zrcadlem-fbff3c5",
+  "revision": "fbff3c5",
   "readingOrder": [
     "promo.html",
     "alenka_v_kraji_divu_005.html",
@@ -46,8 +46,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 22:00:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157633840
+    "date": "Wed Jun 15 2022 05:47:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272059260
   },
   "documents": [
     {
@@ -685,9 +685,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 138,
-      "chars": 872,
-      "ideas": 15,
+      "words": 161,
+      "chars": 1044,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "alenka_v_kraji_divu_204.html",
@@ -705,9 +705,9 @@
   ],
   "totals": {
     "all": {
-      "words": 44430,
-      "chars": 255603,
-      "ideas": 2362
+      "words": 44453,
+      "chars": 255775,
+      "ideas": 2364
     },
     "chapters": {
       "words": 44281,
