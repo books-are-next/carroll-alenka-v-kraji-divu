@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "carroll-alenka-v-kraji-divu-a-za-zrcadlem-6637de9",
-  "revision": "6637de9",
+  "identifier": "carroll-alenka-v-kraji-divu-a-za-zrcadlem-976285f",
+  "revision": "976285f",
   "readingOrder": [
     "promo.html",
     "alenka_v_kraji_divu_005.html",
@@ -43,11 +43,11 @@
     "alenka_v_kraji_divu_199.html",
     "alenka_v_kraji_divu_201.html",
     "alenka_v_kraji_divu_204.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:56:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978204177
+    "date": "Thu Jul 07 2022 08:18:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181904887
   },
   "documents": [
     {
@@ -116,7 +116,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Alenka v kraji divů",
+          "name": "Alenka v kraji divů",
           "id": null,
           "children": []
         }
@@ -176,7 +176,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kuriální závod a sáhodlouhý obrázek",
+          "name": "Kuriální závod a sáhodlouhý obrázek",
           "id": null,
           "children": []
         }
@@ -236,7 +236,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vepř a pepř",
+          "name": "Vepř a pepř",
           "id": null,
           "children": []
         }
@@ -376,7 +376,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Za zrcadlem, a s čím se tam Alenka setkala",
+          "name": "Za zrcadlem, a s čím se tam Alenka setkala",
           "id": null,
           "children": []
         }
@@ -436,7 +436,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Dům za zrcadlem",
+          "name": "Dům za zrcadlem",
           "id": null,
           "children": []
         }
@@ -476,7 +476,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Hmyz za zrcadlem",
+          "name": "Hmyz za zrcadlem",
           "id": null,
           "children": []
         }
@@ -496,7 +496,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Tydliták a Tydlitek",
+          "name": "Tydliták a Tydlitek",
           "id": null,
           "children": []
         }
@@ -516,7 +516,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vlna a voda",
+          "name": "Vlna a voda",
           "id": null,
           "children": []
         }
@@ -556,7 +556,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lev a jednorožec",
+          "name": "Lev a jednorožec",
           "id": null,
           "children": []
         }
@@ -576,7 +576,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "„Je to můj vynález“",
+          "name": "„Je to můj vynález“",
           "id": null,
           "children": []
         }
@@ -656,7 +656,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Komu se to zdálo?",
+          "name": "Komu se to zdálo?",
           "id": null,
           "children": []
         }
@@ -671,7 +671,7 @@
       "role": "chapter",
       "order": 31,
       "prev": "alenka_v_kraji_divu_201.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -684,11 +684,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 161,
-      "chars": 1044,
+      "chars": 1043,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "alenka_v_kraji_divu_204.html",
       "next": null,
@@ -705,8 +705,8 @@
   ],
   "totals": {
     "all": {
-      "words": 44453,
-      "chars": 255775,
+      "words": 44451,
+      "chars": 255784,
       "ideas": 2364
     },
     "chapters": {

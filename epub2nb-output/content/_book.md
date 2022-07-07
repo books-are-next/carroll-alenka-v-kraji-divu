@@ -47,7 +47,7 @@ readingOrder:
   - alenka_v_kraji_divu_199.html
   - alenka_v_kraji_divu_201.html
   - alenka_v_kraji_divu_204.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
