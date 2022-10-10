@@ -6,12 +6,11 @@ Lewis Carroll
 Alenka v kraji divů a za zrcadlem  
 Edice Světová próza v českých překladech  
 Překlad Aloys Skoumal a Hana Skoumalová  
-Ilustrace John Tenniel  
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
 ISBN 978-80-274-2469-6 (webová kniha)  
-V MKP 2. elektronické vydání z 7. 10. 2022.
+V MKP 2. elektronické vydání z 10. 10. 2022.
 
 ***
 
